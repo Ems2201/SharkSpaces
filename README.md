@@ -1,73 +1,98 @@
-# Welcome to your Lovable project
+🦈 Shark Space – NASA AI Ocean Explorer
 
-## Project info
+Shark Space é uma aplicação interativa desenvolvida para explorar e visualizar dados ambientais oceânicos e comportamentais de tubarões com base em missões e satélites parceiros da NASA, como PACE, MODIS-Aqua e SWOT.
+O projeto combina ciência de dados, visualização interativa e gamificação para tornar o estudo dos oceanos mais acessível e educativo.
 
-**URL**: https://lovable.dev/projects/a958e2e3-e034-41cb-9f1c-76a5a90d230f
+🌍 Sobre o Projeto
 
-## How can I edit this code?
+O Shark Space permite que usuários explorem 20 regiões oceânicas estratégicas monitoradas por satélites da NASA e suas agências parceiras.
+Cada ponto no mapa representa uma região com dados reais e simulados sobre:
 
-There are several ways of editing your application.
+Temperatura da superfície do mar (Sea Surface Temperature)
 
-**Use Lovable**
+Altura da superfície do mar (Sea Surface Height)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a958e2e3-e034-41cb-9f1c-76a5a90d230f) and start prompting.
+Concentração de fitoplâncton (Phytoplankton Abundance)
 
-Changes made via Lovable will be committed automatically to this repo.
+Detecção acústica simulada de espécies marinhas
 
-**Use your preferred IDE**
+Dados de aceleração e movimento (simulando etiquetas eletrônicas — bio-logging tags)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+A aplicação também possui um modo educativo e multilíngue, permitindo traduzir espécies e informações conforme o idioma do usuário.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🚀 Tecnologias Utilizadas
+Categoria	Ferramentas
+Frontend	React + Vite
+UI/UX	shadcn/ui, TailwindCSS, Lucide Icons
+Internacionalização	i18next
+Visualização de Dados	Recharts
+APIs NASA Integradas	PACE, MODIS-Aqua, SWOT
+Banco de Dados	Supabase
+Hospedagem	Netlify (site estático)
+Outros	Simulação de sensores (áudio, temperatura, aceleração)
+🛰️ Integração com APIs da NASA
 
-Follow these steps:
+A aplicação consome dados das seguintes missões:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+PACE (2024–presente) – Observação de fitoplâncton, aerossóis e ecossistemas oceânicos.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+MODIS-Aqua (2002–presente) – Medições de temperatura e cor da água para detecção de produtividade marinha.
 
-# Step 3: Install the necessary dependencies.
-npm i
+SWOT (2022–presente) – Dados de elevação da superfície oceânica e variação de nível do mar.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Essas informações são acessadas via integração REST (implementada no backend com Node.js/Express), processadas e exibidas dinamicamente no painel.
+
+🧠 Funcionalidades Principais
+
+🌊 Exploração de Pontos Oceânicos — visualize até 20 regiões com dados ambientais e satelitais.
+
+🦈 Simulação de Detecção de Espécies — o sistema gera detecções aleatórias de sons e movimentos marinhos.
+
+🌐 Suporte Multilíngue — tradução automática dos nomes das espécies e textos informativos.
+
+🛰️ Integração NASA API — exibe dados reais e simulados dos satélites.
+
+📊 Gráficos e Mapas Interativos — análise visual em tempo real de parâmetros oceânicos.
+
+🎧 Simulação de Áudio — recria eventos de detecção sonora, sem depender de microfone real.
+
+🧩 Sidebar Dinâmica — exibe detalhes ao clicar em pontos do mapa.
+
+💻 Instalação e Execução
+🔧 Requisitos
+
+Antes de iniciar, certifique-se de ter instalado:
+
+Node.js
+ (versão 18+)
+
+npm
+ (geralmente incluso no Node)
+
+Editor de código (ex: VS Code)
+
+🪄 Passo a Passo
+# 1. Clone o repositório
+git clone https://github.com/Ems2201/Shark-Spaces.git
+
+# 2. Acesse a pasta do projeto
+cd Shark-Spaces
+
+# 3. Instale as dependências
+npm install
+
+# 4. Inicie o servidor de desenvolvimento
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+A aplicação será iniciada localmente em:
 
-**Use GitHub Codespaces**
+👉 http://localhost:5173
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Desenvolvido por: Erick Paes, Guilherme Pinheiro, Leonardo Cassillo, Pedro Souza
+🌐 Projeto educacional inspirado em NASA Ocean Missions & Marine Ecology Data Visualization
 
-## What technologies are used for this project?
+⚖️ Licença
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a958e2e3-e034-41cb-9f1c-76a5a90d230f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Este projeto é distribuído sob a licença MIT.
+Você pode usar, modificar e redistribuir livremente, desde que mantenha os créditos.
