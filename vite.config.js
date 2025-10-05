@@ -8,8 +8,11 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  // 👇 alterna automaticamente entre local e produção
-  base: mode === "production" ? "/SharkSpaces/" : "/",
+  // ✅ alterna automaticamente para o ambiente certo
+  base:
+    mode === "production"
+      ? "/SharkSpaces/" // nome exato do repositório no GitHub
+      : "./", // relativo para funcionar no serve -s dist
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
     alias: {
