@@ -1,0 +1,259 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "sharkExplorer": "Explorateur de Requins",
+    "sharkData": "Données sur les Requins",
+    "ecosystemSim": "Simulateur d'Écosystème",
+    "quiz": "Quiz"
+  },
+  "footer": {
+    "description": "Plateforme éducative combinant la biologie des requins, les sciences océaniques et la technologie spatiale via les données satellitaires de la NASA.",
+    "dataSources": "Sources de Données",
+    "research": "Recherche",
+    "copyright": "© 2025 Shark Space. Créé pour le NASA Space Apps Challenge.",
+    "eddyFeeding": "Alimentation dans les tourbillons",
+    "gulfStream": "Gulf Stream",
+    "realTimeData": "Données océanographiques en temps réel",
+    "predictiveModeling": "Modélisation prédictive des écosystèmes"
+  },
+  "home": {
+    "hero": {
+      "title": "Découvrez l'Océan Depuis l'Espace",
+      "subtitle": "Combinant biologie des requins, science océanique et technologie satellitaire de la NASA",
+      "description": "Explorez des données satellitaires en temps réel, suivez les requins et comprenez les écosystèmes marins",
+      "startExploring": "Commencer à Explorer",
+      "takeQuiz": "Faire le Quiz"
+    },
+    "featuresSection": {
+      "title": "Explorez Nos Fonctionnalités",
+      "subtitle": "Découvrez la science océanique à travers des outils interactifs et des données en temps réel"
+    },
+    "features": {
+      "explorer": {
+        "title": "Explorateur de Requins",
+        "description": "Cartes interactives montrant des données océaniques en temps réel de satellites de la NASA"
+      },
+      "data": {
+        "title": "Données sur les Requins",
+        "description": "Mesures en temps réel de dispositifs de marquage personnalisés"
+      },
+      "simulator": {
+        "title": "Simulateur d'Écosystème",
+        "description": "Modèles d'écosystèmes interactifs montrant les réseaux trophiques marins"
+      },
+      "quiz": {
+        "title": "Quiz SharkRecap",
+        "description": "Testez vos connaissances sur l'océanographie et les requins"
+      }
+    },
+    "satellites": {
+      "title": "Intégration des Données Satellitaires de la NASA",
+      "subtitle": "Propulsé par une technologie spatiale de pointe",
+      "pace": {
+        "description": "Couleur océanique hyperspectrale pour l'identification des types de phytoplancton",
+        "feature1": "Surveillance de la couleur océanique",
+        "feature2": "Identification du phytoplancton",
+        "feature3": "Évaluation de la qualité de l'eau"
+      },
+      "modis": {
+        "description": "Couleur océanique et surveillance du phytoplancton depuis 2002",
+        "feature1": "Enregistrements de données à long terme",
+        "feature2": "Concentration en chlorophylle-a",
+        "feature3": "Température de surface de la mer"
+      },
+      "swot": {
+        "description": "Hauteur précise de la surface de la mer et topographie océanique",
+        "feature1": "Mesures du niveau de la mer",
+        "feature2": "Cartographie des courants océaniques",
+        "feature3": "Détection des tourbillons"
+      }
+    },
+    "cta": {
+      "title": "Prêt à plonger dans la science océanique?",
+      "description": "Commencez votre voyage en explorant les requins et les écosystèmes océaniques depuis l'espace",
+      "button": "Explorer Maintenant"
+    }
+  },
+  "simulator": {
+    "title": "Simulateur d'Écosystème Océanique",
+    "description": "Construisez votre propre écosystème océanique et regardez-le prendre vie!",
+    "elements": "Éléments",
+    "reset": "Réinitialiser l'Écosystème",
+    "ecosystemHealth": "Santé de l'Écosystème",
+    "instructions": "Comment Jouer",
+    "instruction1": "Glissez et déposez des éléments pour construire votre écosystème",
+    "instruction2": "Observez la santé de l'écosystème et les relations de la chaîne alimentaire",
+    "instruction3": "Maintenez l'équilibre - trop de prédateurs ou trop peu de producteurs nuiront à la santé de l'écosystème",
+    "instruction4": "Observez la dynamique des populations lorsque les espèces interagissent",
+    "health": {
+      "thriving": "🌊 Écosystème Florissant! Équilibre parfait atteint.",
+      "healthy": "✅ Système Sain. Les requins prospèrent.",
+      "moderate": "⚠️ Santé Modérée. Besoin de plus d'équilibre.",
+      "risk": "⚠️ À Risque. Populations de poissons en déclin.",
+      "collapse": "🚨 Effondrement de l'Écosystème! Déséquilibre critique détecté."
+    },
+    "categories": {
+      "producers": "Producteurs",
+      "herbivores": "Herbivores",
+      "smallPredators": "Petits Prédateurs",
+      "mediumPredators": "Prédateurs Moyens",
+      "apexPredators": "Prédateurs Apex",
+      "megafauna": "Mégafaune",
+      "seabirds": "Oiseaux Marins",
+      "invertebrates": "Invertébrés",
+      "deepSea": "Mer Profonde",
+      "decomposers": "Décomposeurs",
+      "threats": "Menaces",
+      "sharks": "Requins",
+      "marineMammals": "Mammifères Marins",
+      "fish": "Poissons",
+      "reptilesAndBirds": "Reptiles et Oiseaux",
+      "pollutants": "Polluants"
+    }
+  },
+  "sharkExplorer": {
+    "title": "Explorateur de Requins 🌍",
+    "subtitle": "Cartographie océanique interactive avec des données satellitaires en temps réel",
+    "askAI": "Demander à l'IA",
+    "placeholder": "Posez une question sur l'océanographie ou les requins...",
+    "thinking": "Réflexion...",
+    "emptyQuestion": "Question vide",
+    "emptyQuestionDesc": "Veuillez saisir une question sur l'océanographie ou les requins.",
+    "error": "Erreur",
+    "errorDesc": "Échec de la récupération de la réponse de l'IA. Veuillez réessayer.",
+    "helpText": "Posez une question pour obtenir des informations de l'IA sur les données océaniques et le comportement des requins",
+    "regions": {
+      "pacific": "Océan Pacifique - Zones d'alimentation des tourbillons",
+      "atlantic": "Atlantique Nord - Dynamique du Gulf Stream",
+      "indian": "Océan Indien - Point chaud de productivité"
+    },
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "chlorophyll": "Chlorophylle-a",
+    "ssha": "SSHA",
+    "insights": {
+      "pacific": "Les grands requins blancs utilisent des tourbillons chauds comme corridors d'alimentation dans la zone mésopélagique (Braun et al., 2019)",
+      "atlantic": "Les mouvements des femelles grands requins blancs sont influencés par les tourbillons du Gulf Stream et la dynamique de la mer des Sargasses (Gaube et al., 2018)",
+      "indian": "Les zones de forte productivité sont corrélées aux points d'agrégation des requins"
+    }
+  },
+  "sharkData": {
+    "title": "Données sur les Requins 📊",
+    "subtitle": "Mesures en temps réel provenant de dispositifs de marquage des requins personnalisés",
+    "selectTag": "Sélectionner l'Étiquette du Requin",
+    "temperature": "Température",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "seaSurfaceHeight": "Hauteur de la Surface de la Mer",
+    "kelvin": "Kelvin",
+    "degrees": "Degrés décimaux",
+    "meters": "mètres",
+    "temperatureRange": "Plage de Température (Submergé)",
+    "status": "Statut",
+    "submerged": "🌊 Submergé",
+    "surface": "🏄 Surface",
+    "depthInfo": "Profondeur > 5m",
+    "surfaceInfo": "Près de la surface",
+    "minTemperature": "Température Min",
+    "maxTemperature": "Température Max",
+    "coldest": "Le plus froid enregistré",
+    "warmest": "Le plus chaud enregistré",
+    "accelerometer": "Lectures de l'Accéléromètre",
+    "xAxis": "Axe X",
+    "yAxis": "Axe Y",
+    "zAxis": "Axe Z",
+    "timestampInfo": "Informations d'Horodatage",
+    "currentTime": "Heure Actuelle",
+    "deltaTime": "Temps Delta",
+    "measurementLogs": "Journaux de Mesure",
+    "noMeasurements": "Aucune mesure enregistrée pour le moment...",
+    "audioDetections": "Détections Audio (Espèces de Proies)",
+    "listening": "Écoute de la vie marine...",
+    "detectedSpecies": "Espèces Détectées",
+    "confidence": "Confiance",
+    "gForce": "Force-G",
+    "clickForDetails": "Cliquer pour les détails",
+    "detectionDetails": "Détails de la Détection",
+    "detectedAt": "Détecté à",
+    "temperatureChart": "Température au Fil du Temps",
+    "timeAgo": "minutes plus tôt",
+    "sharkTracking": "Carte de Suivi des Requins",
+    "nextLocation": "Prochaine Localisation Prédite",
+    "predictiveMap": "Carte de Position Prédictive",
+    "worldMapAlt": "Carte du Monde",
+    "currentPosition": "Position Actuelle",
+    "realTimeUpdate": "Mise à jour en temps réel",
+    "feedingZone": "Zone d'Alimentation",
+    "basedOnPlanktonDensity": "Basé sur la densité de plancton",
+    "millisecondsAbbr": "ms",
+    "log": {
+      "temp": "Temp",
+      "lat": "Lat",
+      "long": "Long",
+      "ssh": "SSHA",
+      "consistency": "Cohérence"
+    },
+    "sharks": {
+      "greatWhite": "Grand Requin Blanc",
+      "hammerhead": "Requin Marteau",
+      "tiger": "Requin Tigre",
+      "whale": "Requin Baleine",
+      "reef": "Requin de Récif"
+    },
+    "prey": {
+      "harborSeal": "Phoque commun",
+      "seaLion": "Lion de mer",
+      "dolphin": "Grand dauphin",
+      "tuna": "Thon rouge",
+      "seaTurtle": "Tortue marine",
+      "salmon": "Saumon",
+      "mackerel": "Maquereau",
+      "stingray": "Raie",
+      "grouper": "Mérou",
+      "octopus": "Poulpe",
+      "crab": "Crabe",
+      "lobster": "Homard",
+      "sardine": "Sardine",
+      "herring": "Hareng",
+      "albatross": "Albatros",
+      "pelican": "Pélican",
+      "krill": "Krill",
+      "plankton": "Plancton",
+      "anchovy": "Anchois",
+      "jellyfish": "Petite méduse",
+      "copepods": "Copépodes",
+      "clownfish": "Poisson-clown",
+      "parrotfish": "Poisson-perroquet",
+      "seaUrchin": "Oursin",
+      "shrimp": "Crevette"
+    }
+  },
+  "quiz": {
+    "title": "Quiz SharkRecap 🦈",
+    "spaceShark": "Requin Spatial",
+    "selectDifficulty": "Sélectionner le Niveau de Difficulté",
+    "difficultyDescription": "Les niveaux plus élevés ont des questions plus difficiles et une faim initiale plus faible",
+    "level": "Niveau",
+    "hunger": "Faim",
+    "question": "Question",
+    "of": "de",
+    "hungerLevel": "Niveau de Faim",
+    "score": "Score",
+    "next": "Question Suivante",
+    "tryAgain": "Réessayer le Niveau {{level}}",
+    "selectNewLevel": "Sélectionner un Nouveau Niveau",
+    "scoreTooLow": "Score Trop Bas!",
+    "finalScore": "Score Final:",
+    "accuracy": "Précision:",
+    "needToPass": "Vous devez obtenir au moins 70% pour réussir ce niveau.",
+    "restarting": "🔄 Redémarrage du Niveau {{level}}...",
+    "excellent": "Excellent Travail!",
+    "congratulations": "Félicitations! Vous avez maîtrisé le Niveau {{level}}!",
+    "nextChallenge": "Prêt pour le Prochain Défi",
+    "gameOver": "Jeu Terminé!",
+    "hungerDepleted": "Votre faim a été épuisée.",
+    "survived": "Vous avez survécu!",
+    "masteringOceanography": "Vous maîtrisez l'océanographie!",
+    "keepLearning": "Continuez à apprendre sur nos océans!"
+  }
+}

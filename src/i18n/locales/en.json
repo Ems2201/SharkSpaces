@@ -1,0 +1,259 @@
+{
+  "nav": {
+    "home": "Home",
+    "sharkExplorer": "Shark Explorer",
+    "sharkData": "Shark Data",
+    "ecosystemSim": "Ecosystem Simulator",
+    "quiz": "Quiz"
+  },
+  "sharkExplorer": {
+    "title": "Shark Explorer 🌍",
+    "subtitle": "Interactive ocean mapping with real-time satellite data",
+    "askAI": "Ask AI",
+    "placeholder": "Ask about oceanography or sharks...",
+    "thinking": "Thinking...",
+    "emptyQuestion": "Empty question",
+    "emptyQuestionDesc": "Please enter a question about oceanography or sharks.",
+    "error": "Error",
+    "errorDesc": "Failed to get AI response. Please try again.",
+    "helpText": "Ask a question to get AI insights about ocean data and shark behavior",
+    "regions": {
+      "pacific": "Pacific Ocean - Eddy Feeding Zones",
+      "atlantic": "North Atlantic - Gulf Stream Dynamics",
+      "indian": "Indian Ocean - Productivity Hotspot"
+    },
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "chlorophyll": "Chlorophyll-a",
+    "ssha": "SSHA",
+    "insights": {
+      "pacific": "White sharks use warm eddies as feeding corridors in the mesopelagic zone (Braun et al., 2019)",
+      "atlantic": "Female white sharks' movements influenced by Gulf Stream eddies and Sargasso Sea dynamics (Gaube et al., 2018)",
+      "indian": "High productivity zones correlate with shark aggregation points"
+    }
+  },
+  "sharkData": {
+    "title": "Shark Data 📊",
+    "subtitle": "Real-time measurements from custom shark tagging devices",
+    "selectTag": "Select Shark Tag",
+    "temperature": "Temperature",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "seaSurfaceHeight": "Sea Surface Height",
+    "kelvin": "Kelvin",
+    "degrees": "Decimal degrees",
+    "meters": "meters",
+    "temperatureRange": "Temperature Range (Submerged)",
+    "status": "Status",
+    "submerged": "🌊 Submerged",
+    "surface": "🏄 Surface",
+    "depthInfo": "Depth > 5m",
+    "surfaceInfo": "Near surface",
+    "minTemperature": "Min Temperature",
+    "maxTemperature": "Max Temperature",
+    "coldest": "Coldest recorded",
+    "warmest": "Warmest recorded",
+    "accelerometer": "Accelerometer Readings",
+    "xAxis": "X-axis",
+    "yAxis": "Y-axis",
+    "zAxis": "Z-axis",
+    "timestampInfo": "Timestamp Info",
+    "currentTime": "Current Time",
+    "deltaTime": "Delta Time",
+    "measurementLogs": "Measurement Logs",
+    "noMeasurements": "No measurements recorded yet...",
+    "audioDetections": "Audio Detections (Prey Species)",
+    "listening": "Listening for marine life...",
+    "detectedSpecies": "Detected Species",
+    "confidence": "Confidence",
+    "gForce": "G-Force",
+    "clickForDetails": "Click for details",
+    "detectionDetails": "Detection Details",
+    "detectedAt": "Detected At",
+    "temperatureChart": "Temperature Over Time",
+    "timeAgo": "minutes ago",
+    "sharkTracking": "Shark Tracking Map",
+    "nextLocation": "Next Predicted Location",
+    "predictiveMap": "Predictive Position Map",
+    "worldMapAlt": "World Map",
+    "currentPosition": "Current Position",
+    "realTimeUpdate": "Real-time update",
+    "feedingZone": "Feeding Zone",
+    "basedOnPlanktonDensity": "Based on plankton density",
+    "millisecondsAbbr": "ms",
+    "log": {
+      "temp": "Temp",
+      "lat": "Lat",
+      "long": "Long",
+      "ssh": "SSH",
+      "consistency": "Consistency"
+    },
+    "sharks": {
+      "greatWhite": "Great White Shark",
+      "hammerhead": "Hammerhead Shark",
+      "tiger": "Tiger Shark",
+      "whale": "Whale Shark",
+      "reef": "Reef Shark"
+    },
+    "prey": {
+      "harborSeal": "Harbor Seal",
+      "seaLion": "Sea Lion",
+      "dolphin": "Bottlenose Dolphin",
+      "tuna": "Bluefin Tuna",
+      "seaTurtle": "Sea Turtle",
+      "salmon": "Salmon",
+      "mackerel": "Mackerel",
+      "stingray": "Stingray",
+      "grouper": "Grouper",
+      "octopus": "Octopus",
+      "crab": "Crab",
+      "lobster": "Lobster",
+      "sardine": "Sardine",
+      "herring": "Herring",
+      "albatross": "Albatross",
+      "pelican": "Pelican",
+      "krill": "Krill",
+      "plankton": "Plankton",
+      "anchovy": "Anchovy",
+      "jellyfish": "Small Jellyfish",
+      "copepods": "Copepods",
+      "clownfish": "Clownfish",
+      "parrotfish": "Parrotfish",
+      "seaUrchin": "Sea Urchin",
+      "shrimp": "Shrimp"
+    }
+  },
+  "footer": {
+    "description": "Educational platform combining shark biology, ocean science, and space technology through NASA satellite data.",
+    "dataSources": "Data Sources",
+    "research": "Research",
+    "copyright": "© 2025 Shark Space. Created for NASA Space Apps Challenge.",
+    "eddyFeeding": "Eddy Feeding",
+    "gulfStream": "Gulf Stream",
+    "realTimeData": "Real-Time Oceanographic Data",
+    "predictiveModeling": "Predictive Ecosystem Modeling"
+  },
+  "quiz": {
+    "title": "SharkRecap Quiz 🦈",
+    "spaceShark": "Space Shark",
+    "selectDifficulty": "Select Difficulty Level",
+    "difficultyDescription": "Higher levels have harder questions and lower starting hunger",
+    "level": "Level",
+    "hunger": "Hunger",
+    "question": "Question",
+    "of": "of",
+    "hungerLevel": "Hunger Level",
+    "score": "Score",
+    "next": "Next Question",
+    "tryAgain": "Try Level {{level}} Again",
+    "selectNewLevel": "Select New Level",
+    "scoreTooLow": "Score Too Low!",
+    "finalScore": "Final Score:",
+    "accuracy": "Accuracy:",
+    "needToPass": "You need at least 70% to pass this level.",
+    "restarting": "🔄 Restarting Level {{level}}...",
+    "excellent": "Excellent Work!",
+    "congratulations": "Congratulations! You've mastered Level {{level}}!",
+    "nextChallenge": "Ready for the Next Challenge",
+    "gameOver": "Game Over!",
+    "hungerDepleted": "Your hunger has been depleted.",
+    "survived": "You Survived!",
+    "masteringOceanography": "You're mastering oceanography!",
+    "keepLearning": "Keep learning about our oceans!"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover the Ocean Through Space",
+      "subtitle": "Combining shark biology, ocean science, and NASA satellite technology",
+      "description": "Explore real-time satellite data, track sharks, and understand marine ecosystems",
+      "startExploring": "Start Exploring",
+      "takeQuiz": "Take Quiz"
+    },
+    "featuresSection": {
+      "title": "Explore Our Features",
+      "subtitle": "Discover ocean science through interactive tools and real-time data"
+    },
+    "features": {
+      "explorer": {
+        "title": "Shark Explorer",
+        "description": "Interactive maps showing real-time ocean data from NASA satellites"
+      },
+      "data": {
+        "title": "Shark Data",
+        "description": "Real-time measurements from custom shark tagging devices"
+      },
+      "simulator": {
+        "title": "Ecosystem Simulator",
+        "description": "Interactive ecosystem models showing marine food webs"
+      },
+      "quiz": {
+        "title": "SharkRecap Quiz",
+        "description": "Test your knowledge about oceanography and sharks"
+      }
+    },
+    "satellites": {
+      "title": "NASA Satellite Data Integration",
+      "subtitle": "Powered by cutting-edge space technology",
+      "pace": {
+        "description": "Hyperspectral ocean color for phytoplankton type identification",
+        "feature1": "Ocean color monitoring",
+        "feature2": "Phytoplankton identification",
+        "feature3": "Water quality assessment"
+      },
+      "modis": {
+        "description": "Ocean color & phytoplankton monitoring since 2002",
+        "feature1": "Long-term data records",
+        "feature2": "Chlorophyll-a concentration",
+        "feature3": "Sea surface temperature"
+      },
+      "swot": {
+        "description": "Precise sea surface height & ocean topography",
+        "feature1": "Sea level measurements",
+        "feature2": "Ocean currents mapping",
+        "feature3": "Eddy detection"
+      }
+    },
+    "cta": {
+      "title": "Ready to dive into ocean science?",
+      "description": "Start your journey exploring sharks and ocean ecosystems through space",
+      "button": "Explore Now"
+    }
+  },
+  "simulator": {
+    "title": "Ocean Ecosystem Simulator",
+    "description": "Build your own ocean ecosystem and watch it come to life!",
+    "elements": "Elements",
+    "reset": "Reset Ecosystem",
+    "ecosystemHealth": "Ecosystem Health",
+    "instructions": "How to Play",
+    "instruction1": "Drag and drop elements to build your ecosystem",
+    "instruction2": "Watch the ecosystem health and food chain relationships",
+    "instruction3": "Maintain balance - too many predators or too few producers will harm ecosystem health",
+    "instruction4": "Observe population dynamics as species interact",
+    "health": {
+      "thriving": "🌊 Thriving Ecosystem! Perfect balance achieved.",
+      "healthy": "✅ Healthy System. Sharks are thriving.",
+      "moderate": "⚠️ Moderate Health. Needs more balance.",
+      "risk": "⚠️ At Risk. Fish populations declining.",
+      "collapse": "🚨 Ecosystem Collapse! Critical imbalance detected."
+    },
+    "categories": {
+      "producers": "Producers",
+      "herbivores": "Herbivores",
+      "smallPredators": "Small Predators",
+      "mediumPredators": "Medium Predators",
+      "apexPredators": "Apex Predators",
+      "megafauna": "Megafauna",
+      "seabirds": "Seabirds",
+      "invertebrates": "Invertebrates",
+      "deepSea": "Deep Sea",
+      "decomposers": "Decomposers",
+      "threats": "Threats",
+      "sharks": "Sharks",
+      "marineMammals": "Marine Mammals",
+      "fish": "Fish",
+      "reptilesAndBirds": "Reptiles & Birds",
+      "pollutants": "Pollutants"
+    }
+  }
+}

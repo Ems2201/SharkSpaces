@@ -1,0 +1,623 @@
+{
+  "1": [
+    {
+      "question": "Qual é a principal característica dos tubarões?",
+      "options": ["Nadadeiras cartilaginosas", "Carapaça dura", "Patas", "Penas"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões são peixes cartilaginosos, o que significa que seus esqueletos são feitos de cartilagem em vez de ossos."
+    },
+    {
+      "question": "Qual é o maior oceano do planeta?",
+      "options": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+      "correctAnswer": 0,
+      "explanation": "O Oceano Pacífico é o maior do planeta, cobrindo cerca de um terço da superfície da Terra."
+    },
+    {
+      "question": "O que os tubarões usam para respirar?",
+      "options": ["Brânquias", "Pulmões", "Narinas externas", "Filtros"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões respiram por meio de brânquias, que extraem o oxigênio dissolvido na água."
+    },
+    {
+      "question": "Qual animal é conhecido como ‘o rei dos mares’?",
+      "options": ["Tubarão-branco", "Golfinho", "Polvo", "Cavalo-marinho"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-branco é considerado o rei dos mares por ser um dos maiores predadores do oceano."
+    },
+    {
+      "question": "O oceano Atlântico separa quais continentes principais?",
+      "options": ["Américas e Europa/África", "Ásia e África", "Oceania e Europa", "África e Oceania"],
+      "correctAnswer": 0,
+      "explanation": "O Atlântico separa o continente americano da Europa e da África."
+    },
+    {
+      "question": "Qual destes é um peixe cartilaginoso?",
+      "options": ["Tubarão", "Sardinha", "Bacalhau", "Pirarucu"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão é um peixe cartilaginoso, assim como as raias, pois possuem esqueleto de cartilagem."
+    },
+    {
+      "question": "O que cobre a Terra em maior proporção?",
+      "options": ["Água", "Terra", "Areia", "Gelo"],
+      "correctAnswer": 0,
+      "explanation": "Cerca de 70% da superfície da Terra é coberta por água, principalmente dos oceanos."
+    },
+    {
+      "question": "O que os tubarões comem?",
+      "options": ["Peixes e outros animais marinhos", "Folhas", "Frutas", "Algas"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões são carnívoros e se alimentam principalmente de peixes e outros animais marinhos."
+    },
+    {
+      "question": "Qual oceano banha o Brasil?",
+      "options": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+      "correctAnswer": 0,
+      "explanation": "O Brasil é banhado pelo Oceano Atlântico, em toda sua costa leste."
+    },
+    {
+      "question": "Qual é o habitat dos tubarões?",
+      "options": ["Oceanos", "Rios terrestres", "Montanhas", "Florestas"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões vivem principalmente nos oceanos, embora algumas espécies possam entrar em águas doces."
+    }
+  ],
+  "2": [
+    {
+      "question": "Qual desses tubarões tem cabeça em forma de martelo?",
+      "options": ["Tubarão-martelo", "Tubarão-lixa", "Tubarão-tigre", "Tubarão-azul"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-martelo é conhecido por sua cabeça achatada em formato de T, que melhora sua visão e percepção elétrica."
+    },
+    {
+      "question": "Qual é o menor oceano em extensão?",
+      "options": ["Ártico", "Atlântico", "Índico", "Pacífico"],
+      "correctAnswer": 0,
+      "explanation": "O Oceano Ártico é o menor e mais frio dos oceanos do planeta."
+    },
+    {
+      "question": "Os tubarões pertencem a qual grupo?",
+      "options": ["Condrictes", "Mamíferos", "Moluscos", "Osteíctes"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões são condrictes, ou seja, peixes com esqueleto cartilaginoso."
+    },
+    {
+      "question": "Qual é o animal mais rápido do oceano?",
+      "options": ["Peixe-vela", "Tubarão-branco", "Atum", "Golfinho"],
+      "correctAnswer": 0,
+      "explanation": "O peixe-vela pode alcançar velocidades de até 110 km/h, sendo o mais rápido dos mares."
+    },
+    {
+      "question": "Qual é o principal sentido aguçado dos tubarões?",
+      "options": ["Olfato", "Visão", "Audição", "Paladar"],
+      "correctAnswer": 0,
+      "explanation": "O olfato dos tubarões é extremamente apurado, permitindo detectar pequenas quantidades de sangue a grandes distâncias."
+    },
+    {
+      "question": "Qual região oceânica é mais profunda?",
+      "options": ["Fossa das Marianas", "Grande Barreira de Corais", "Atlântico Sul", "Mar Mediterrâneo"],
+      "correctAnswer": 0,
+      "explanation": "A Fossa das Marianas é a região mais profunda do oceano, com cerca de 11.000 metros de profundidade."
+    },
+    {
+      "question": "O que é biodiversidade marinha?",
+      "options": ["Variedade de espécies nos oceanos", "Tipo de onda", "Corrente marítima", "Quantidade de algas"],
+      "correctAnswer": 0,
+      "explanation": "A biodiversidade marinha representa a variedade de espécies que vivem nos ecossistemas oceânicos."
+    },
+    {
+      "question": "O que ameaça os tubarões hoje?",
+      "options": ["Pesca predatória", "Neve", "Erupções vulcânicas", "Secas"],
+      "correctAnswer": 0,
+      "explanation": "A pesca predatória e o comércio de barbatanas são as principais ameaças aos tubarões."
+    },
+    {
+      "question": "Quantos oceanos existem no planeta?",
+      "options": ["Cinco", "Dois", "Sete", "Quatro"],
+      "correctAnswer": 0,
+      "explanation": "Existem cinco oceanos principais: Pacífico, Atlântico, Índico, Antártico e Ártico."
+    },
+    {
+      "question": "Qual é o maior tubarão vivo?",
+      "options": ["Tubarão-baleia", "Tubarão-tigre", "Tubarão-branco", "Tubarão-martelo"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-baleia é o maior peixe do mundo, podendo atingir mais de 12 metros de comprimento."
+    }
+  ],
+  "3": [
+    {
+      "question": "Qual a função da ampola de Lorenzini nos tubarões?",
+      "options": ["Detectar campos elétricos", "Respirar", "Proteger o corpo", "Ajudar a nadar"],
+      "correctAnswer": 0,
+      "explanation": "As ampolas de Lorenzini são sensores que permitem aos tubarões detectar campos elétricos emitidos por outros animais."
+    },
+    {
+      "question": "Qual é o segundo maior oceano?",
+      "options": ["Atlântico", "Pacífico", "Índico", "Antártico"],
+      "correctAnswer": 0,
+      "explanation": "O Oceano Atlântico é o segundo maior do planeta, ficando atrás apenas do Pacífico."
+    },
+    {
+      "question": "Qual tubarão é considerado mais perigoso para humanos?",
+      "options": ["Tubarão-branco", "Tubarão-lixa", "Tubarão-anjo", "Tubarão-raposa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-branco é o mais associado a ataques contra humanos, embora esses eventos sejam raros."
+    },
+    {
+      "question": "Qual é a maior barreira de corais do mundo?",
+      "options": ["Grande Barreira de Corais", "Mar Vermelho", "Recife de Abrolhos", "Polinésia"],
+      "correctAnswer": 0,
+      "explanation": "A Grande Barreira de Corais, na Austrália, é o maior sistema de recifes do mundo."
+    },
+    {
+      "question": "Quantas brânquias a maioria dos tubarões possui?",
+      "options": ["5", "2", "8", "10"],
+      "correctAnswer": 0,
+      "explanation": "A maioria dos tubarões possui cinco pares de fendas branquiais para respiração."
+    },
+    {
+      "question": "Os tubarões ajudam a manter o equilíbrio de qual sistema?",
+      "options": ["Ecossistema marinho", "Terrestre", "Polar", "Desértico"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões são predadores de topo e ajudam a equilibrar os ecossistemas marinhos controlando populações de outras espécies."
+    },
+    {
+      "question": "Qual destes animais não é marinho?",
+      "options": ["Girafa", "Baleia", "Tubarão", "Lula"],
+      "correctAnswer": 0,
+      "explanation": "A girafa é um animal terrestre e não habita ambientes marinhos."
+    },
+    {
+      "question": "O que são correntes marítimas?",
+      "options": ["Movimento da água do mar", "Cadeia alimentar", "Espécies de algas", "Marés baixas"],
+      "correctAnswer": 0,
+      "explanation": "As correntes marítimas são fluxos contínuos de água que se movem através dos oceanos."
+    },
+    {
+      "question": "Qual tubarão é conhecido por saltar fora d’água?",
+      "options": ["Tubarão-branco", "Tubarão-lixa", "Tubarão-azul", "Tubarão-tigre"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-branco é conhecido por saltar para fora da água durante ataques a presas."
+    },
+    {
+      "question": "O que é poluição marinha?",
+      "options": ["Resíduos no oceano", "Movimento das ondas", "Exploração submarina", "Pesca sustentável"],
+      "correctAnswer": 0,
+      "explanation": "A poluição marinha é causada pelo acúmulo de resíduos e substâncias tóxicas nos oceanos."
+    }
+  ],
+  "4": [
+    {
+      "question": "Qual tubarão pode viver tanto em água salgada quanto doce?",
+      "options": ["Tubarão-touro", "Tubarão-branco", "Tubarão-raposa", "Tubarão-martelo"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-touro é capaz de sobreviver em águas salgadas e doces, sendo encontrado até em rios."
+    },
+    {
+      "question": "Qual oceano circunda a Antártica?",
+      "options": ["Oceano Antártico", "Atlântico", "Pacífico", "Índico"],
+      "correctAnswer": 0,
+      "explanation": "O Oceano Antártico circunda o continente gelado da Antártica e é o mais novo reconhecido oficialmente."
+    },
+    {
+      "question": "O que é um recife de coral?",
+      "options": ["Estrutura formada por corais calcários", "Montanha submersa", "Tipo de alga", "Ilha vulcânica"],
+      "correctAnswer": 0,
+      "explanation": "Recifes de coral são formações construídas por corais que abrigam grande biodiversidade marinha."
+    },
+    {
+      "question": "Qual destes animais é predador de topo junto com tubarões?",
+      "options": ["Orca", "Lula gigante", "Cavalo-marinho", "Golfinho"],
+      "correctAnswer": 0,
+      "explanation": "A orca, assim como os tubarões, é um predador de topo que controla o equilíbrio marinho."
+    },
+    {
+      "question": "Como os tubarões flutuam sem bexiga natatória?",
+      "options": ["Fígado oleoso", "Brânquias extras", "Bolhas de ar", "Escamas rígidas"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões usam um fígado grande e oleoso que ajuda na flutuação sem necessidade de bexiga natatória."
+    },
+    {
+      "question": "Qual corrente oceânica aquece a Europa?",
+      "options": ["Corrente do Golfo", "Corrente de Humboldt", "Corrente das Canárias", "Corrente do Brasil"],
+      "correctAnswer": 0,
+      "explanation": "A Corrente do Golfo transporta águas quentes do Golfo do México para o norte da Europa, influenciando o clima."
+    },
+    {
+      "question": "Qual tubarão é conhecido por seu padrão listrado?",
+      "options": ["Tubarão-tigre", "Tubarão-martelo", "Tubarão-azul", "Tubarão-lixa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-tigre recebe esse nome por suas listras escuras no corpo, semelhantes às de um tigre."
+    },
+    {
+      "question": "Qual o nome da maior cadeia montanhosa submarina?",
+      "options": ["Dorsal Mesoatlântica", "Himalaias Submersos", "Andes Marinhos", "Crista Pacífica"],
+      "correctAnswer": 0,
+      "explanation": "A Dorsal Mesoatlântica é a maior cadeia montanhosa submarina, estendendo-se por todo o Atlântico."
+    },
+    {
+      "question": "O que os recifes de coral fornecem aos oceanos?",
+      "options": ["Abrigo e biodiversidade", "Petróleo", "Gelo", "Marés"],
+      "correctAnswer": 0,
+      "explanation": "Os recifes de coral fornecem abrigo e alimento para milhares de espécies marinhas."
+    },
+    {
+      "question": "O que é sobrepesca?",
+      "options": ["Captura excessiva de peixes", "Pescar apenas em rios", "Criar peixes em cativeiro", "Pesca sustentável"],
+      "correctAnswer": 0,
+      "explanation": "A sobrepesca ocorre quando os peixes são capturados em número maior do que podem se reproduzir."
+    }
+  ],
+  "5": [
+    {
+      "question": "Qual tubarão é o mais veloz do mundo?",
+      "options": ["Tubarão-mako", "Tubarão-tigre", "Tubarão-branco", "Tubarão-martelo"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-mako é o mais rápido, podendo atingir velocidades de até 70 km/h em curtos percursos."
+    },
+    {
+      "question": "Onde está localizado o Triângulo de Corais, considerado hotspot de biodiversidade marinha?",
+      "options": ["Sudeste Asiático", "Caribe", "Atlântico Norte", "Mediterrâneo"],
+      "correctAnswer": 0,
+      "explanation": "O Triângulo de Corais fica no Sudeste Asiático e abriga a maior diversidade de corais do planeta."
+    },
+    {
+      "question": "Qual o maior peixe do mundo?",
+      "options": ["Tubarão-baleia", "Baleia-azul", "Atum-rabilho", "Peixe-lua"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-baleia é o maior peixe do mundo, podendo ultrapassar 12 metros de comprimento."
+    },
+    {
+      "question": "Como os tubarões se reproduzem?",
+      "options": ["Ovíparos e vivíparos (dependendo da espécie)", "Apenas ovíparos", "Apenas vivíparos", "Apenas por gemulação"],
+      "correctAnswer": 0,
+      "explanation": "Dependendo da espécie, os tubarões podem ser ovíparos (botam ovos) ou vivíparos (dão à luz filhotes vivos)."
+    },
+    {
+      "question": "Qual destes não é um tubarão?",
+      "options": ["Raia", "Tubarão-azul", "Tubarão-anjo", "Tubarão-raposa"],
+      "correctAnswer": 0,
+      "explanation": "A raia é um peixe cartilaginoso, mas não é um tubarão, embora pertença ao mesmo grupo dos condrictes."
+    },
+    {
+      "question": "O que são manguezais?",
+      "options": ["Ecossistemas costeiros de transição entre rio e mar", "Recifes profundos", "Desertos salinos", "Rochas vulcânicas"],
+      "correctAnswer": 0,
+      "explanation": "Os manguezais são ecossistemas localizados entre o mar e os rios, importantes para a reprodução de várias espécies."
+    },
+    {
+      "question": "Qual tubarão tem comportamento noturno e caça de forma sorrateira?",
+      "options": ["Tubarão-tigre", "Tubarão-mako", "Tubarão-lixa", "Tubarão-baleia"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-tigre caça à noite e é conhecido por atacar diversos tipos de presas de forma sorrateira."
+    },
+    {
+      "question": "O que é a ZEE (Zona Econômica Exclusiva)?",
+      "options": ["Faixa marítima onde um país tem direitos de exploração", "Área de mar internacional", "Região polar", "Zona desabitada"],
+      "correctAnswer": 0,
+      "explanation": "A ZEE é a área que se estende até 200 milhas da costa, onde o país tem direito de explorar recursos marinhos."
+    },
+    {
+      "question": "Qual o nome do movimento de ida e volta das águas do mar?",
+      "options": ["Marés", "Ondas", "Correntes", "Ciclones"],
+      "correctAnswer": 0,
+      "explanation": "As marés são causadas pela atração gravitacional do Sol e da Lua sobre as águas do oceano."
+    },
+    {
+      "question": "Qual o papel dos tubarões no ecossistema?",
+      "options": ["Controlar populações e manter o equilíbrio ecológico", "Produzir oxigênio", "Formar recifes", "Filtrar água"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões regulam as populações de outras espécies, mantendo o equilíbrio ecológico dos oceanos."
+    }
+  ],
+  "6": [
+    {
+      "question": "Qual é o nome dado à ciência que estuda os oceanos?",
+      "options": ["Oceanografia", "Geologia", "Meteorologia", "Ecologia"],
+      "correctAnswer": 0,
+      "explanation": "A oceanografia é a ciência que estuda os oceanos, incluindo suas características físicas, químicas e biológicas."
+    },
+    {
+      "question": "Qual tubarão é conhecido por sua cauda longa usada para caçar?",
+      "options": ["Tubarão-raposa", "Tubarão-mako", "Tubarão-branco", "Tubarão-tigre"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-raposa utiliza sua longa cauda para atordoar cardumes de peixes antes de capturá-los."
+    },
+    {
+      "question": "O que é uma cadeia alimentar marinha?",
+      "options": ["Sequência de organismos que se alimentam uns dos outros", "Corrente oceânica", "Formação de algas", "Ciclo das marés"],
+      "correctAnswer": 0,
+      "explanation": "A cadeia alimentar marinha representa o fluxo de energia entre organismos, desde produtores até predadores."
+    },
+    {
+      "question": "Qual oceano banha a costa oeste da América do Sul?",
+      "options": ["Pacífico", "Atlântico", "Índico", "Antártico"],
+      "correctAnswer": 0,
+      "explanation": "O Oceano Pacífico banha a costa oeste da América do Sul, incluindo países como Chile e Peru."
+    },
+    {
+      "question": "Qual é o nome da camada superior do oceano, onde há luz solar?",
+      "options": ["Zona fótica", "Zona abissal", "Zona hadal", "Zona escura"],
+      "correctAnswer": 0,
+      "explanation": "A zona fótica é a camada do oceano onde penetra luz solar, permitindo a fotossíntese."
+    },
+    {
+      "question": "Qual tubarão é conhecido por viver em águas profundas?",
+      "options": ["Tubarão-duende", "Tubarão-tigre", "Tubarão-azul", "Tubarão-lixa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-duende é uma espécie rara que habita águas profundas e é conhecido por seu focinho alongado."
+    },
+    {
+      "question": "O que é a acidificação dos oceanos?",
+      "options": ["Aumento da acidez devido ao CO₂", "Diminuição da salinidade", "Formação de recifes", "Resfriamento global"],
+      "correctAnswer": 0,
+      "explanation": "A acidificação ocorre quando o CO₂ dissolvido na água aumenta, reduzindo o pH e prejudicando a vida marinha."
+    },
+    {
+      "question": "Qual é o principal gás dissolvido responsável pela vida marinha?",
+      "options": ["Oxigênio", "Nitrogênio", "Hidrogênio", "Gás carbônico"],
+      "correctAnswer": 0,
+      "explanation": "O oxigênio dissolvido é essencial para a respiração dos organismos marinhos."
+    },
+    {
+      "question": "Qual é o tubarão mais antigo ainda existente?",
+      "options": ["Tubarão-da-Groenlândia", "Tubarão-branco", "Tubarão-martelo", "Tubarão-tigre"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-da-Groenlândia pode viver mais de 400 anos, sendo o vertebrado mais longevo conhecido."
+    },
+    {
+      "question": "O que é o plâncton?",
+      "options": ["Organismos microscópicos que flutuam na água", "Peixes de pequeno porte", "Corais duros", "Sedimentos marinhos"],
+      "correctAnswer": 0,
+      "explanation": "O plâncton é composto por organismos microscópicos que vivem suspensos na água e são base da cadeia alimentar marinha."
+    }
+  ],
+  "7": [
+    {
+      "question": "Qual tubarão é conhecido por sua aparência pré-histórica?",
+      "options": ["Tubarão-enguia", "Tubarão-mako", "Tubarão-tigre", "Tubarão-lixa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-enguia possui corpo alongado e características primitivas, lembrando espécies pré-históricas."
+    },
+    {
+      "question": "Qual oceano é conhecido por ter a maior profundidade média?",
+      "options": ["Pacífico", "Atlântico", "Índico", "Antártico"],
+      "correctAnswer": 0,
+      "explanation": "O Oceano Pacífico é o mais profundo e o que possui as maiores fossas oceânicas conhecidas."
+    },
+    {
+      "question": "Qual é a principal fonte de alimento dos recifes de coral?",
+      "options": ["Zooxantelas (algas simbióticas)", "Plancton", "Peixes pequenos", "Crustáceos"],
+      "correctAnswer": 0,
+      "explanation": "As zooxantelas vivem dentro dos corais e produzem alimento por fotossíntese, sustentando o recife."
+    },
+    {
+      "question": "Qual fenômeno natural afeta as temperaturas do oceano Pacífico e o clima global?",
+      "options": ["El Niño", "Efeito estufa", "Ciclone tropical", "Corrente fria"],
+      "correctAnswer": 0,
+      "explanation": "O fenômeno El Niño altera as correntes do Pacífico, afetando o clima em várias partes do mundo."
+    },
+    {
+      "question": "Qual é a principal característica das raias?",
+      "options": ["Corpo achatado e nadadeiras em forma de asas", "Corpo cilíndrico", "Escamas ósseas", "Pele com pelos"],
+      "correctAnswer": 0,
+      "explanation": "As raias têm corpo achatado e nadadeiras largas que lembram asas, permitindo deslizar sobre o fundo do mar."
+    },
+    {
+      "question": "O que causa as ondas no oceano?",
+      "options": ["Vento", "Gravidade lunar", "Correntes frias", "Marés"],
+      "correctAnswer": 0,
+      "explanation": "As ondas são formadas principalmente pela ação do vento sobre a superfície do mar."
+    },
+    {
+      "question": "Qual o nome da camada mais profunda do oceano?",
+      "options": ["Zona hadal", "Zona fótica", "Zona abissal", "Zona mesopelágica"],
+      "correctAnswer": 0,
+      "explanation": "A zona hadal é a parte mais profunda dos oceanos, encontrada em fossas oceânicas."
+    },
+    {
+      "question": "Como os tubarões detectam suas presas?",
+      "options": ["Campos elétricos, vibrações e olfato", "Som e visão", "Paladar e calor", "Luz e eco"],
+      "correctAnswer": 0,
+      "explanation": "Os tubarões utilizam sensores elétricos, olfato aguçado e detecção de vibrações para localizar presas."
+    },
+    {
+      "question": "Qual é o principal componente do sal marinho?",
+      "options": ["Cloreto de sódio", "Magnésio", "Cálcio", "Ferro"],
+      "correctAnswer": 0,
+      "explanation": "O sal marinho é formado principalmente por cloreto de sódio (NaCl), o mesmo sal usado na alimentação."
+    },
+    {
+      "question": "Qual tubarão é conhecido por caçar em grupo?",
+      "options": ["Tubarão-azul", "Tubarão-cabeça-chata", "Tubarão-touro", "Tubarão-branco"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-azul costuma formar grupos para caçar em cardumes e se proteger de predadores maiores."
+    }
+  ],
+  "8": [
+    {
+      "question": "O que diferencia um peixe ósseo de um cartilaginoso?",
+      "options": ["Tipo de esqueleto", "Tamanho das nadadeiras", "Presença de pulmões", "Cor da pele"],
+      "correctAnswer": 0,
+      "explanation": "Os peixes ósseos têm esqueleto de ossos, enquanto os cartilaginosos, como os tubarões, têm esqueleto de cartilagem."
+    },
+    {
+      "question": "Qual tubarão tem uma mordida extremamente poderosa e dentição serrilhada?",
+      "options": ["Tubarão-branco", "Tubarão-lixa", "Tubarão-martelo", "Tubarão-tigre"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-branco possui dentes serrilhados e uma das mordidas mais potentes do reino animal."
+    },
+    {
+      "question": "Qual fenômeno é causado pela diferença de densidade da água salgada e doce?",
+      "options": ["Circulação termoalina", "Ondas", "Marés", "Acidificação"],
+      "correctAnswer": 0,
+      "explanation": "A circulação termoalina ocorre devido à diferença de temperatura e salinidade da água, movimentando correntes profundas."
+    },
+    {
+      "question": "O que é bioluminescência marinha?",
+      "options": ["Produção de luz por organismos marinhos", "Reflexo do sol no mar", "Luzes artificiais subaquáticas", "Fosforescência do sal"],
+      "correctAnswer": 0,
+      "explanation": "A bioluminescência é a capacidade de certos organismos produzirem luz por reações químicas em seus corpos."
+    },
+    {
+      "question": "Qual é o principal combustível fóssil extraído do fundo do mar?",
+      "options": ["Petróleo", "Carvão", "Gás natural", "Xisto"],
+      "correctAnswer": 0,
+      "explanation": "O petróleo é o principal combustível fóssil extraído de reservas localizadas sob o fundo oceânico."
+    },
+    {
+      "question": "Qual tubarão é conhecido por ter dentes parecidos com uma serra?",
+      "options": ["Tubarão-serra", "Tubarão-tigre", "Tubarão-lixa", "Tubarão-raposa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-serra tem um focinho longo com dentes laterais que lembram uma serra, usado para caçar presas."
+    },
+    {
+      "question": "Qual região oceânica contém a maioria das espécies conhecidas?",
+      "options": ["Zonas costeiras", "Fundo oceânico", "Fossas abissais", "Águas polares"],
+      "correctAnswer": 0,
+      "explanation": "As zonas costeiras abrigam a maior biodiversidade devido à luz solar e abundância de nutrientes."
+    },
+    {
+      "question": "O que é um estuário?",
+      "options": ["Encontro do rio com o mar", "Lago profundo", "Canal subterrâneo", "Recife coralíneo"],
+      "correctAnswer": 0,
+      "explanation": "O estuário é uma região onde as águas doces dos rios se misturam com as águas salgadas do mar."
+    },
+    {
+      "question": "Qual é o nome do tubarão que vive nas águas frias do Ártico?",
+      "options": ["Tubarão-da-Groenlândia", "Tubarão-mako", "Tubarão-tigre", "Tubarão-lixa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-da-Groenlândia habita águas geladas do norte e é conhecido por sua longevidade excepcional."
+    },
+    {
+      "question": "Qual processo produz oxigênio nos oceanos?",
+      "options": ["Fotossíntese do fitoplâncton", "Evaporação da água", "Circulação das marés", "Movimento das correntes"],
+      "correctAnswer": 0,
+      "explanation": "O fitoplâncton realiza fotossíntese e é responsável por grande parte do oxigênio liberado na atmosfera."
+    }
+  ],
+  "9": [
+    {
+      "question": "Qual tubarão é conhecido como ‘gigante gentil’?",
+      "options": ["Tubarão-baleia", "Tubarão-branco", "Tubarão-tigre", "Tubarão-azul"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-baleia é chamado de gigante gentil por ser o maior peixe do mundo e se alimentar de plâncton."
+    },
+    {
+      "question": "O que é o Mar Morto?",
+      "options": ["Lago hipersalino", "Oceano congelado", "Golfo oceânico", "Baía tropical"],
+      "correctAnswer": 0,
+      "explanation": "O Mar Morto é um lago com altíssima concentração de sal, o que impede a vida de peixes e plantas."
+    },
+    {
+      "question": "Qual é a principal causa do branqueamento dos corais?",
+      "options": ["Aumento da temperatura da água", "Aumento da salinidade", "Redução de CO₂", "Ação das marés"],
+      "correctAnswer": 0,
+      "explanation": "O aumento da temperatura da água faz com que os corais expulsem as algas simbióticas, perdendo cor e vitalidade."
+    },
+    {
+      "question": "Qual tubarão tem formato achatado e costuma viver no fundo do mar?",
+      "options": ["Tubarão-anjo", "Tubarão-touro", "Tubarão-tigre", "Tubarão-azul"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-anjo tem corpo achatado e vive no fundo do mar, camuflando-se na areia para capturar presas."
+    },
+    {
+      "question": "Qual é o nome da área onde o sol nunca penetra no oceano?",
+      "options": ["Zona abissal", "Zona fótica", "Zona mesopelágica", "Zona costeira"],
+      "correctAnswer": 0,
+      "explanation": "A zona abissal é tão profunda que a luz solar não alcança, tornando-a permanentemente escura."
+    },
+    {
+      "question": "O que é o fitoplâncton?",
+      "options": ["Plantas microscópicas flutuantes", "Peixes jovens", "Crustáceos", "Algas fixas"],
+      "correctAnswer": 0,
+      "explanation": "O fitoplâncton é composto por organismos microscópicos fotossintetizantes que produzem oxigênio e sustentam a cadeia alimentar marinha."
+    },
+    {
+      "question": "Qual oceano é o mais frio do planeta?",
+      "options": ["Ártico", "Antártico", "Pacífico", "Atlântico"],
+      "correctAnswer": 1,
+      "explanation": "O Oceano Antártico é o mais frio devido à sua localização em torno do Polo Sul e à presença de gelo permanente."
+    },
+    {
+      "question": "Qual tubarão é conhecido por migrar longas distâncias?",
+      "options": ["Tubarão-azul", "Tubarão-lixa", "Tubarão-touro", "Tubarão-martelo"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-azul é conhecido por realizar migrações oceânicas que atravessam continentes."
+    },
+    {
+      "question": "O que é ressurgência oceânica?",
+      "options": ["Subida de águas frias e ricas em nutrientes", "Descida de águas quentes", "Movimento das marés", "Mistura de águas polares"],
+      "correctAnswer": 0,
+      "explanation": "A ressurgência é um fenômeno em que águas profundas e frias sobem à superfície, trazendo nutrientes que alimentam o plâncton."
+    },
+    {
+      "question": "Qual é o principal impacto do plástico nos oceanos?",
+      "options": ["Contaminação e morte de animais marinhos", "Formação de recifes", "Aumento da salinidade", "Resfriamento da água"],
+      "correctAnswer": 0,
+      "explanation": "O plástico polui os oceanos, sendo ingerido por animais marinhos e causando sérios danos à fauna oceânica."
+    }
+  ],
+  "10": [
+    {
+      "question": "Qual tubarão é conhecido por ter comportamento canibal ainda no útero?",
+      "options": ["Tubarão-touro", "Tubarão-mako", "Tubarão-tigre", "Tubarão-azul"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-touro pratica canibalismo intrauterino, onde embriões maiores se alimentam dos menores antes do nascimento."
+    },
+    {
+      "question": "O que é a corrente de Humboldt?",
+      "options": ["Corrente fria que banha a costa oeste da América do Sul", "Corrente quente do Atlântico Norte", "Fluxo do Caribe", "Corrente polar do Ártico"],
+      "correctAnswer": 0,
+      "explanation": "A corrente de Humboldt é uma corrente fria que influencia o clima e a vida marinha da costa do Chile e Peru."
+    },
+    {
+      "question": "Qual o nome do fenômeno inverso ao El Niño?",
+      "options": ["La Niña", "El Fuego", "El Sur", "El Calor"],
+      "correctAnswer": 0,
+      "explanation": "La Niña é o fenômeno oposto ao El Niño, caracterizado pelo resfriamento das águas do Pacífico equatorial."
+    },
+    {
+      "question": "Qual tubarão é considerado o mais agressivo do mundo?",
+      "options": ["Tubarão-touro", "Tubarão-branco", "Tubarão-martelo", "Tubarão-raposa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-touro é considerado o mais agressivo por seu comportamento territorial e presença em águas rasas."
+    },
+    {
+      "question": "O que é a zona bentônica?",
+      "options": ["Região do fundo do mar", "Superfície oceânica", "Camada de luz solar", "Camada de gelo"],
+      "correctAnswer": 0,
+      "explanation": "A zona bentônica é a parte do oceano que corresponde ao fundo marinho, onde vivem organismos adaptados à baixa luz."
+    },
+    {
+      "question": "Qual tubarão tem formato de serra e focinho alongado?",
+      "options": ["Tubarão-serra", "Tubarão-tigre", "Tubarão-mako", "Tubarão-lixa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-serra possui um focinho longo e serrilhado usado para cortar e capturar presas."
+    },
+    {
+      "question": "O que é o lixo marinho?",
+      "options": ["Resíduos sólidos jogados no oceano", "Areia oceânica", "Detritos naturais", "Rochas submersas"],
+      "correctAnswer": 0,
+      "explanation": "Lixo marinho é qualquer resíduo sólido descartado no mar, especialmente plásticos e metais que prejudicam o ambiente aquático."
+    },
+    {
+      "question": "Qual é o nome dado à região mais profunda do oceano?",
+      "options": ["Fossa oceânica", "Recife", "Cume submarino", "Canyon costeiro"],
+      "correctAnswer": 0,
+      "explanation": "As fossas oceânicas são as áreas mais profundas dos oceanos, podendo ultrapassar 11.000 metros de profundidade."
+    },
+    {
+      "question": "Qual tubarão é conhecido por caçar presas maiores que ele?",
+      "options": ["Tubarão-mako", "Tubarão-lixa", "Tubarão-baleia", "Tubarão-raposa"],
+      "correctAnswer": 0,
+      "explanation": "O tubarão-mako é extremamente veloz e ágil, capaz de capturar presas maiores, como atuns e peixes-espada."
+    },
+    {
+      "question": "Por que os oceanos são essenciais para a vida na Terra?",
+      "options": ["Produzem oxigênio, regulam o clima e sustentam ecossistemas", "São apenas reservas de água", "Armazenam calor", "Servem como transporte marítimo"],
+      "correctAnswer": 0,
+      "explanation": "Os oceanos produzem grande parte do oxigênio do planeta, regulam o clima global e abrigam a maioria das espécies conhecidas."
+    }
+  ]
+}
+

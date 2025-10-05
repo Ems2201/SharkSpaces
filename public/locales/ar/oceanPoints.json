@@ -1,0 +1,384 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "كيب كود والساحل الخارجي - الولايات المتحدة",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "ممر موسمي لأسماك القرش البيضاء العظيمة عند تقاطع تيار الخليج بالمياه الباردة الساحلية.",
+      "environment": "منطقة حدودية بين المياه الدافئة والباردة، غنية بالمغذيات الحيوية.",
+      "ecosystem": "نظام ساحلي معتدل غني بالعوالق والفرائس.",
+      "species": ["القرش الأبيض الكبير", "القرش الأزرق", "قرش ماكو", "القرش القمحاني"],
+      "recentEvents": "كشفت بيانات SWOT لعام 2024 عن جبهات بحرية مستمرة مرتبطة بمناطق تغذية أسماك القرش البيضاء.",
+      "measurements": ["الكلوروفيل (MODIS)", "ارتفاع سطح البحر (SWOT)", "مجتمعات العوالق النباتية (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "جزر بيميني - جزر البهاما",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "مياه ضحلة وواضحة تشكل موطنًا مثاليًا لأسماك القرش الساحلية واليافعة.",
+      "environment": "شعاب مرجانية ومياه استوائية على حافة الرف القاري.",
+      "ecosystem": "منطقة انتقالية بين الشعاب المرجانية والمحيط المفتوح.",
+      "species": ["قرش الليمون", "قرش النمر", "قرش المطرقة", "قرش المحيط الأبيض"],
+      "recentEvents": "عام 2023، أظهرت بيانات PACE زيادة في الكلوروفيل متزامنة مع نشاط مرتفع لأسماك القرش في المنطقة.",
+      "measurements": ["الانعكاس الطيفي (PACE)", "ارتفاع سطح البحر (SWOT)", "الكلوروفيل (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "خليج المكسيك – مصب نهر المسيسيبي",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "منطقة غنية بالمغذيات من تصريف النهر، تجذب أنواعًا متعددة من أسماك القرش المفترسة.",
+      "environment": "مياه عذبة مختلطة بمياه مالحة، ذات إنتاجية بيولوجية عالية.",
+      "ecosystem": "نظام دلتاوي ساحلي عالي الإنتاجية.",
+      "species": ["قرش الثور", "قرش النمر", "قرش المطرقة الأملس", "قرش الممرضة"],
+      "recentEvents": "عام 2025، سجلت MODIS ازدهارًا ضخمًا للعوالق بعد أمطار غزيرة مما جذب أعدادًا كبيرة من أسماك القرش.",
+      "measurements": ["الكلوروفيل (MODIS)", "تباين ارتفاع سطح البحر (SWOT)", "مكونات العوالق النباتية (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "أرخبيل ريفيليغيغيدو - المكسيك",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "جزر بركانية محيطية تشهد تيارات صاعدة وتجمعات من الأسماك الكبيرة.",
+      "environment": "جبال بحرية وتيارات دائرية من مستوى متوسط.",
+      "ecosystem": "نظام بيئي استوائي مفتوح غني بالمغذيات.",
+      "species": ["قرش المطرقة الكبير", "قرش النمر", "القرش الأبيض المحيطي", "القرش الحريري"],
+      "recentEvents": "كشفت بيانات SWOT لعام 2024 عن مسارات دوامات متطابقة مع تحركات أسماك القرش المفترسة.",
+      "measurements": ["الكلوروفيل (MODIS)", "SSH (SWOT)", "تحليل العوالق النباتية (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "جزر غالاباغوس - الإكوادور",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "منطقة التقاء التيارات الاستوائية التي تخلق بيئة غنية بالفرائس البحرية.",
+      "environment": "تيارات همبولت الباردة والالتقاء الاستوائي.",
+      "ecosystem": "نقطة ساخنة للتنوع البيولوجي البحري الاستوائي.",
+      "species": ["قرش المطرقة المحدب", "قرش غالاباغوس", "القرش الحريري", "القرش ذو الزعنفة السوداء"],
+      "recentEvents": "أظهرت بيانات PACE لعام 2024 تغيّرًا في مجتمعات العوالق مرتبطًا بتجمعات أسماك القرش.",
+      "measurements": ["الكلوروفيل (MODIS)", "ارتفاع سطح البحر (SWOT)", "تحليل طيفي (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "جزيرة كوكوس - كوستاريكا",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "ممر هجرة رئيسي لأسماك قرش المطرقة والقرش الحريري.",
+      "environment": "تيارات صاعدة قوية ومياه غنية بالأوكسجين.",
+      "ecosystem": "نظام بيئي محيطي متنوع ومعزول.",
+      "species": ["قرش المطرقة الكبير", "القرش الحريري", "القرش الأبيض المحيطي"],
+      "recentEvents": "عام 2024، كشفت SWOT عن مناطق دوامية تتزامن مع تجمعات أسماك القرش الموسمية.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "الحاجز المرجاني العظيم - أستراليا",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "أكبر نظام شعاب مرجانية في العالم وموطن رئيسي لأسماك قرش الشعاب.",
+      "environment": "منحدرات الشعاب الخارجية، تيارات دافئة.",
+      "ecosystem": "نظام استوائي مرجاني غني بالتنوع الحيوي.",
+      "species": ["قرش النمر", "قرش الشعاب الرمادي", "قرش الشعاب الأبيض", "قرش الحوت"],
+      "recentEvents": "عام 2024، سجلت MODIS زيادة في العكارة مرتبطة بارتفاع نشاط أسماك القرش.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "شعاب نينغالو - أستراليا الغربية",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "منطقة تجمع موسمية لأسماك قرش الحوت والقرش النمر.",
+      "environment": "تيار ليوين الدافئ، بحيرات الشعاب المرجانية.",
+      "ecosystem": "شعاب ساحلية استوائية.",
+      "species": ["قرش الحوت", "قرش النمر", "قرش الشعاب الأسود"],
+      "recentEvents": "عام 2024، أظهرت بيانات PACE توافقًا بين ارتفاع الكلوروفيل وتجمعات قرش الحوت.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "راجا أمبات - إندونيسيا",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "أحد أكثر مناطق العالم تنوعًا بيولوجيًا، تتأثر بالمد والجزر القوي.",
+      "environment": "قنوات الجزر والتيارات العنيفة.",
+      "ecosystem": "نظام شعاب مرجانية استوائي غني بالأنواع.",
+      "species": ["قرش الشعاب الرمادي", "قرش الشعاب الأسود", "قرش الشعاب الأبيض"],
+      "recentEvents": "أظهرت بيانات SWOT أن اضطرابات التيار تدعم التنوع البيولوجي المحلي.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "بالاو - المحيط الهادئ الغربي",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "شعاب مرجانية بحرية تتأثر بالدوامات والتيارات الإقليمية.",
+      "environment": "منحدرات عميقة وشعاب محيطية.",
+      "ecosystem": "نظام بيئي شعابي-محيطي استوائي.",
+      "species": ["القرش الأبيض المحيطي", "القرش الحريري", "قرش الشعاب الرمادي"],
+      "recentEvents": "كشفت SWOT عن جبهات ديناميكية تطابق مناطق تجمع أسماك القرش.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "فيجي – بيكا / فيتي ليفو",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "مناطق شعابية عميقة ذات إنتاجية عالية وتنوع بيولوجي كبير.",
+      "environment": "صفائح مرجانية وتيارات قوية.",
+      "ecosystem": "نظام بيئي استوائي من الشعاب المرجانية في المحيط الهادئ.",
+      "species": ["قرش النمر", "قرش الشعاب الرمادي", "قرش الشعاب الأبيض"],
+      "recentEvents": "عام 2025، رصدت MODIS ازدهارًا طويل الأمد للعوالق في فترة استقرار ENSO.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "خليج فولس - جنوب أفريقيا",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "منطقة تيار بنغيولا البارد، موطن رئيسي لأسماك القرش البيضاء الكبيرة.",
+      "environment": "مياه باردة غنية بالمغذيات.",
+      "ecosystem": "نظام ساحلي معتدل عالي الإنتاجية.",
+      "species": ["القرش الأبيض الكبير", "قرش النحاس", "قرش ماكو"],
+      "recentEvents": "عام 2024، أظهرت SWOT تحول الجبهات الساحلية بسبب تغير المناخ.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "قناة موزمبيق",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "منطقة ديناميكية تنشط فيها الدوامات البحرية وتغذي السلسلة الغذائية المحلية.",
+      "environment": "تيارات دافئة واندفاعات من المياه العميقة.",
+      "ecosystem": "منطقة انتقالية استوائية في المحيط الهندي.",
+      "species": ["قرش الثور", "قرش النمر", "قرش الشعاب الأسود"],
+      "recentEvents": "عام 2024، سجلت SWOT تقوية التيارات الرئيسية في المنطقة.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "البحر الأحمر – إخوة / ديدالوس",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "شعاب بحرية مفتوحة عالية الملوحة، موطن معروف لقرش المحيط الأبيض.",
+      "environment": "شعاب معزولة، مياه دافئة وشفافة.",
+      "ecosystem": "نظام بيئي شعابي استوائي جاف.",
+      "species": ["القرش الأبيض المحيطي", "قرش الشعاب الرمادي"],
+      "recentEvents": "عام 2024، سجلت MODIS تغيرات حرارية مرتبطة بزيادة تجمعات القرش.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "سقطرى - بحر العرب",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "منطقة تيارات صاعدة قوية خلال موسم الرياح الموسمية.",
+      "environment": "تيارات موسمية قوية، مياه غنية بالأوكسجين.",
+      "ecosystem": "نظام بيئي موسمي في المحيط الهندي.",
+      "species": ["قرش المطرقة الكبير", "قرش النمر"],
+      "recentEvents": "عام 2024، كشفت SWOT عن تقلبات قوية في التيارات الساحلية أثناء موسم الرياح الموسمية.",
+      "measurements": ["PACE", "SWOT", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "السنغال - غرب أفريقيا",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "منطقة صيد كثيفة، لكنها تدعم أنواعًا من أسماك القرش الساحلية.",
+      "environment": "تيار الكناري، مياه ضحلة غنية بالمغذيات.",
+      "ecosystem": "نظام بيئي ساحلي شبه استوائي.",
+      "species": ["قرش الثور", "قرش الرمل", "قرش الليمون"],
+      "recentEvents": "عام 2025، سجلت PACE تغيرًا في توزيع العوالق الساحلية نتيجة الأنشطة البشرية.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "الساحل الياباني",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "منطقة التقاء تياري كوروشيو وأوياسيو، مسار هجرة لأسماك القرش الكبيرة.",
+      "environment": "تيارات قوية ومياه متقلبة حراريًا.",
+      "ecosystem": "منطقة انتقال حراري بحرية معتدلة.",
+      "species": ["قرش ماكو", "القرش الأزرق", "قرش السلمون"],
+      "recentEvents": "عام 2025، أظهرت SWOT تغيرًا في مواقع الجبهات الحرارية مما أثر على الهجرة الموسمية.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "الساحل الشرقي لأستراليا",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "منطقة ساحلية لهجرة أسماك القرش البيضاء الصغيرة.",
+      "environment": "تيار أستراليا الشرقي، مياه دافئة نسبياً.",
+      "ecosystem": "نظام بيئي ساحلي معتدل.",
+      "species": ["قرش أبيض صغير", "قرش النمر"],
+      "recentEvents": "عام 2025، أظهرت SWOT ازديادًا في نشاط التيارات المرتبطة بمناطق تغذية أسماك القرش.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "19",
+      "name": "الساحل الجنوبي لأستراليا",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "موطن لتكاثر أسماك القرش البيضاء البالغة، مياه معتدلة غنية بالمغذيات.",
+      "environment": "تيارات بحرية متداخلة، مياه باردة معتدلة.",
+      "ecosystem": "نظام بيئي ساحلي معتدل.",
+      "species": ["القرش الأبيض الكبير", "قرش ماكو"],
+      "recentEvents": "عام 2025، سجلت SWOT دوامات موسمية متكررة مرتبطة بمواسم التكاثر.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    },
+    {
+      "id": "20",
+      "name": "جزر المالديف - وسط المحيط الهندي",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "مياه استوائية شفافة غنية بالتنوع البيولوجي لأسماك القرش.",
+      "environment": "جزر مرجانية دائرية (أتولات) وتيارات قوية بين الجزر.",
+      "ecosystem": "نظام بيئي مرجاني استوائي مفتوح.",
+      "species": ["قرش الشعاب ذو الطرف الأسود", "قرش الحوت", "قرش الشعاب الرمادي"],
+      "recentEvents": "عام 2025، أظهرت PACE زيادة في الجسيمات العضوية خلال موسم الرياح الموسمية.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    }
+  ]
+}

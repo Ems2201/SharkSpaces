@@ -1,0 +1,622 @@
+{
+  "1": [
+    {
+      "question": "Was ist das Hauptmerkmal von Haien?",
+      "options": ["Knorpelflossen", "Harte Panzerplatten", "Beine", "Federkleid"],
+      "correctAnswer": 0,
+      "explanation": "Haie sind Knorpelfische, das heißt, ihr Skelett besteht aus Knorpel statt aus Knochen."
+    },
+    {
+      "question": "Was ist der größte Ozean der Erde?",
+      "options": ["Pazifik", "Atlantik", "Indik", "Arktik"],
+      "correctAnswer": 0,
+      "explanation": "Der Pazifische Ozean ist der größte Ozean der Erde und bedeckt etwa ein Drittel der Erdoberfläche."
+    },
+    {
+      "question": "Wofür benutzen Haie zum Atmen?",
+      "options": ["Kieme", "Lungen", "Äußere Nasenlöcher", "Filter"],
+      "correctAnswer": 0,
+      "explanation": "Haie atmen über Kieme, die den im Wasser gelösten Sauerstoff entziehen."
+    },
+    {
+      "question": "Welches Tier wird als „König der Meere“ bezeichnet?",
+      "options": ["Weißer Hai", "Delfin", "Tintenfisch", "Seepferdchen"],
+      "correctAnswer": 0,
+      "explanation": "Der Weiße Hai gilt als König der Meere, weil er einer der größten Meeresraubtiere ist."
+    },
+    {
+      "question": "Welche Kontinente trennt der Atlantische Ozean hauptsächlich?",
+      "options": ["Amerikas und Europa/Afrika", "Asien und Afrika", "Ozeanien und Europa", "Afrika und Ozeanien"],
+      "correctAnswer": 0,
+      "explanation": "Der Atlantik trennt den amerikanischen Kontinent von Europa und Afrika."
+    },
+    {
+      "question": "Welches dieser Tiere ist ein Knorpelfisch?",
+      "options": ["Hai", "Sardine", "Kabeljau", "Pirarucu"],
+      "correctAnswer": 0,
+      "explanation": "Der Hai ist ein Knorpelfisch, ebenso wie Rochen, da ihr Skelett aus Knorpel besteht."
+    },
+    {
+      "question": "Was bedeckt die Erde überwiegend?",
+      "options": ["Wasser", "Land", "Sand", "Eis"],
+      "correctAnswer": 0,
+      "explanation": "Etwa 70 % der Erdoberfläche sind mit Wasser bedeckt, hauptsächlich Ozeane."
+    },
+    {
+      "question": "Was fressen Haie?",
+      "options": ["Fische und andere Meerestiere", "Blätter", "Früchte", "Algen"],
+      "correctAnswer": 0,
+      "explanation": "Haie sind Fleischfresser und ernähren sich hauptsächlich von Fischen und anderen Meerestieren."
+    },
+    {
+      "question": "Welcher Ozean umspült Brasilien?",
+      "options": ["Atlantik", "Pazifik", "Indik", "Arktik"],
+      "correctAnswer": 0,
+      "explanation": "Brasilien wird vom Atlantischen Ozean entlang seiner gesamten Ostküste umspült."
+    },
+    {
+      "question": "Was ist der Lebensraum der Haie?",
+      "options": ["Ozeane", "Landflüsse", "Berge", "Wälder"],
+      "correctAnswer": 0,
+      "explanation": "Haie leben hauptsächlich in Ozeanen, obwohl einige Arten auch in Süßwasser vordringen können."
+    }
+  ],
+  "2": [
+    {
+      "question": "Welcher Hai hat einen hammerförmigen Kopf?",
+      "options": ["Hammerhai", "Schwammkopfhai", "Tigerhai", "Blauhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Hammerhai ist für seinen T-förmig abgeflachten Kopf bekannt, der sein Seh- und Elektrosinn verbessert."
+    },
+    {
+      "question": "Welcher Ozean ist flächenmäßig der kleinste?",
+      "options": ["Arktik", "Atlantik", "Indik", "Pazifik"],
+      "correctAnswer": 0,
+      "explanation": "Der Arktische Ozean ist der kleinste und kälteste Ozean der Erde."
+    },
+    {
+      "question": "Zu welcher Gruppe gehören Haie?",
+      "options": ["Knorpelfische", "Säugetiere", "Weichtiere", "Knochenfische"],
+      "correctAnswer": 0,
+      "explanation": "Haie sind Knorpelfische, also Fische mit einem Knorpelskelett."
+    },
+    {
+      "question": "Was ist das schnellste Meerestier?",
+      "options": ["Segelfisch", "Weißer Hai", "Thunfisch", "Delfin"],
+      "correctAnswer": 0,
+      "explanation": "Der Segelfisch kann Spitzengeschwindigkeiten von bis zu 110 km/h erreichen und ist damit das schnellste Meerestier."
+    },
+    {
+      "question": "Welcher Sinn ist bei Haien besonders gut ausgeprägt?",
+      "options": ["Geruchssinn", "Sehsinn", "Gehör", "Geschmackssinn"],
+      "correctAnswer": 0,
+      "explanation": "Der Geruchssinn der Haie ist extrem fein und erlaubt es, kleinste Blutmengen auf große Entfernung wahrzunehmen."
+    },
+    {
+      "question": "Welche Ozeanregion ist am tiefsten?",
+      "options": ["Marianengraben", "Großes Barrierriff", "Südlicher Atlantik", "Mittelmeer"],
+      "correctAnswer": 0,
+      "explanation": "Der Marianengraben ist die tiefste Stelle der Ozeane mit etwa 11.000 Metern Tiefe."
+    },
+    {
+      "question": "Was ist marine Biodiversität?",
+      "options": ["Vielfalt der Arten in den Ozeanen", "Wellentyp", "Meeresströmung", "Algenmenge"],
+      "correctAnswer": 0,
+      "explanation": "Die marine Biodiversität steht für die Vielfalt der Arten, die in Ozeanökosystemen leben."
+    },
+    {
+      "question": "Was bedroht Haie heute?",
+      "options": ["Raubfischerei", "Schnee", "Vulkanausbrüche", "Dürren"],
+      "correctAnswer": 0,
+      "explanation": "Raubfischerei und der Handel mit Flossen sind die größten Bedrohungen für Haie."
+    },
+    {
+      "question": "Wie viele Ozeane gibt es auf dem Planeten?",
+      "options": ["Fünf", "Zwei", "Sieben", "Vier"],
+      "correctAnswer": 0,
+      "explanation": "Es gibt fünf Hauptozeane: Pazifik, Atlantik, Indik, Antarktik und Arktik."
+    },
+    {
+      "question": "Was ist der größte lebende Hai?",
+      "options": ["Walhai", "Tigerhai", "Weißer Hai", "Hammerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Walhai ist der größte Fisch der Welt und kann mehr als 12 Meter lang werden."
+    }
+  ],
+  "3": [
+    {
+      "question": "Was ist die Funktion der Lorenzini-Ampullen bei Haien?",
+      "options": ["Elektrische Felder erkennen", "Atmen", "Körper schützen", "Beim Schwimmen helfen"],
+      "correctAnswer": 0,
+      "explanation": "Die Lorenzini-Ampullen sind Sensoren, die es Haien erlauben, elektrische Felder zu erkennen, die von anderen Tieren ausgehen."
+    },
+    {
+      "question": "Was ist der zweitgrößte Ozean?",
+      "options": ["Atlantik", "Pazifik", "Indik", "Antarktik"],
+      "correctAnswer": 0,
+      "explanation": "Der Atlantische Ozean ist der zweitgrößte Ozean der Erde nach dem Pazifik."
+    },
+    {
+      "question": "Welcher Hai gilt als gefährlichster für Menschen?",
+      "options": ["Weißer Hai", "Schwammkopfhai", "Engelhai", "Fuchshai"],
+      "correctAnswer": 0,
+      "explanation": "Der Weiße Hai ist am häufigsten mit Angriffen auf Menschen verbunden, obwohl solche Vorfälle selten sind."
+    },
+    {
+      "question": "Was ist das größte Korallenriff der Welt?",
+      "options": ["Großes Barrierriff", "Rotes Meer", "Abrolhos-Riff", "Polynesien"],
+      "correctAnswer": 0,
+      "explanation": "Das Große Barrierriff vor Australien ist das größte Riffsystem der Welt."
+    },
+    {
+      "question": "Wie viele Kiemenspalten besitzen die meisten Haie?",
+      "options": ["5", "2", "8", "10"],
+      "correctAnswer": 0,
+      "explanation": "Die meisten Haie haben fünf Paar Kiemenspalten zum Atmen."
+    },
+    {
+      "question": "Bei welchem System helfen Haie, das Gleichgewicht zu halten?",
+      "options": ["Marine Ökosysteme", "Terrestrisches System", "Polares System", "Wüstensystem"],
+      "correctAnswer": 0,
+      "explanation": "Als Top-Prädatoren helfen Haie, marine Ökosysteme auszugleichen, indem sie Populationen anderer Arten kontrollieren."
+    },
+    {
+      "question": "Welches dieser Tiere ist kein Meerestier?",
+      "options": ["Giraffe", "Wal", "Hai", "Tintenfisch"],
+      "correctAnswer": 0,
+      "explanation": "Die Giraffe ist ein Landtier und lebt nicht in Meeresumgebungen."
+    },
+    {
+      "question": "Was sind Meeresströmungen?",
+      "options": ["Bewegung des Meerwassers", "Nahrungskette", "Algenart", "Niedrigwasser"],
+      "correctAnswer": 0,
+      "explanation": "Meeresströmungen sind kontinuierliche Wasserflüsse, die sich durch die Ozeane bewegen."
+    },
+    {
+      "question": "Welcher Hai ist bekannt dafür, aus dem Wasser zu springen?",
+      "options": ["Weißer Hai", "Schwammkopfhai", "Blauhai", "Tigerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Weiße Hai ist dafür bekannt, beim Angriff auf Beute aus dem Wasser zu springen."
+    },
+    {
+      "question": "Was ist Meeresverschmutzung?",
+      "options": ["Abfälle im Ozean", "Wellenbewegung", "Unterwasserexploration", "Nachhaltige Fischerei"],
+      "correctAnswer": 0,
+      "explanation": "Meeresverschmutzung entsteht durch das Ansammeln von Abfällen und toxischen Stoffen in den Ozeanen."
+    }
+  ],
+  "4": [
+    {
+      "question": "Welcher Hai kann sowohl in Salz- als auch in Süßwasser leben?",
+      "options": ["Stierhai", "Weißer Hai", "Fuchshai", "Hammerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Stierhai kann in salzhaltigen und süßen Gewässern überleben und wird sogar in Flüssen gefunden."
+    },
+    {
+      "question": "Welcher Ozean umgibt die Antarktis?",
+      "options": ["Antarktischer Ozean", "Atlantik", "Pazifik", "Indik"],
+      "correctAnswer": 0,
+      "explanation": "Der Antarktische Ozean umgibt den gefrorenen Kontinent und ist der jüngste offiziell anerkannte Ozean."
+    },
+    {
+      "question": "Was ist ein Korallenriff?",
+      "options": ["Struktur aus kalkigen Korallen", "Untergetauchte Bergkette", "Algenart", "Vulkaninsel"],
+      "correctAnswer": 0,
+      "explanation": "Korallenriffe sind von Korallen gebildete Strukturen, die große marine Biodiversität beherbergen."
+    },
+    {
+      "question": "Welches Tier ist zusammen mit Haien ein Top-Prädator?",
+      "options": ["Schwertwal", "Riesenkalmar", "Seepferdchen", "Delfin"],
+      "correctAnswer": 0,
+      "explanation": "Der Schwertwal ist ebenso wie Haie ein Top-Prädator und hält das marine Gleichgewicht."
+    },
+    {
+      "question": "Wie schwimmen Haie ohne Schwimmblase?",
+      "options": ["Öliger Leber", "Zusätzliche Kieme", "Luftblasen", "Stacheligen Schuppen"],
+      "correctAnswer": 0,
+      "explanation": "Haie nutzen eine große, ölhaltige Leber, die ihnen Auftrieb ohne Schwimmblase verschafft."
+    },
+    {
+      "question": "Welche Meeresströmung erwärmt Europa?",
+      "options": ["Golfstrom", "Humboldtstrom", "Kanarenstrom", "Brasilianische Strom"],
+      "correctAnswer": 0,
+      "explanation": "Der Golfstrom transportiert warmes Wasser aus dem Golf von Mexiko nach Nordeuropa und beeinflusst das Klima."
+    },
+    {
+      "question": "Welcher Hai ist für sein Streifenmuster bekannt?",
+      "options": ["Tigerhai", "Hammerhai", "Blauhai", "Schwammkopfhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Tigerhai erhält seinen Namen durch dunkle Streifen auf dem Körper, die an einen Tiger erinnern."
+    },
+    {
+      "question": "Wie heißt die längste untermeerische Bergkette?",
+      "options": ["Mittelatlantischer Rücken", "Untergetischte Himalayas", "Anden der Meere", "Pazifische Kamm"],
+      "correctAnswer": 0,
+      "explanation": "Der Mittelatlantische Rücken ist die längste untermeerische Bergkette und zieht sich über den gesamten Atlantik."
+    },
+    {
+      "question": "Was bieten Korallenriffe für die Ozeane?",
+      "options": ["Schutz und Biodiversität", "Öl", "Eis", "Gezeiten"],
+      "correctAnswer": 0,
+      "explanation": "Korallenriffe bieten Schutz und Nahrung für Tausende von Meeresarten."
+    },
+    {
+      "question": "Was ist Überfischung?",
+      "options": ["Übermäßiges Fangen von Fischen", "Nur in Flüssen angeln", "Fische in Gefangenschaft züchten", "Nachhaltige Fischerei"],
+      "correctAnswer": 0,
+      "explanation": "Überfischung tritt auf, wenn mehr Fische gefangen werden, als sich fortpflanzen können."
+    }
+  ],
+  "5": [
+    {
+      "question": "Welcher Hai ist der schnellste der Welt?",
+      "options": ["Kurzflossen-Mako", "Tigerhai", "Weißer Hai", "Hammerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Kurzflossen-Mako ist der schnellste Hai und erreicht kurzfristig bis zu 70 km/h."
+    },
+    {
+      "question": "Wo liegt das Korallen-Dreieck, das als Biodiversitäts-Hotspot gilt?",
+      "options": ["Südostasien", "Karibik", "Nordatlantik", "Mittelmeer"],
+      "correctAnswer": 0,
+      "explanation": "Das Korallen-Dreieck liegt in Südostasien und beherbergt die größte Vielfalt an Korallen weltweit."
+    },
+    {
+      "question": "Was ist der größte Fisch der Welt?",
+      "options": ["Walhai", "Blauwal", "Thunfisch", "Mondfisch"],
+      "correctAnswer": 0,
+      "explanation": "Der Walhai ist der größte Fisch der Welt und kann über 12 Meter lang werden."
+    },
+    {
+      "question": "Wie pflanzen sich Haie fort?",
+      "options": ["Ei- und lebendgebärend (je nach Art)", "Nur ei-gebärend", "Nur lebendgebärend", "Nur durch Knospung"],
+      "correctAnswer": 0,
+      "explanation": "Je nach Art sind Haie ei-gebärend (legen Eier) oder lebendgebärend (gebären lebende Junge)."
+    },
+    {
+      "question": "Welches dieser Tiere ist kein Hai?",
+      "options": ["Rochen", "Blauhai", "Engelhai", "Fuchshai"],
+      "correctAnswer": 0,
+      "explanation": "Der Rochen ist ein Knorpelfisch, aber kein Hai, obwohl er ebenfalls zu den Knorpelfischen gehört."
+    },
+    {
+      "question": "Was sind Mangroven?",
+      "options": ["Küstenökosysteme im Übergang von Fluss und Meer", "Tiefe Riffe", "Salzwüsten", "Vulkanische Felsen"],
+      "correctAnswer": 0,
+      "explanation": "Mangroven sind Ökosysteme zwischen Meer und Fluss, die für die Fortpflanzung vieler Arten wichtig sind."
+    },
+    {
+      "question": "Welcher Hai ist nachtaktiv und schleicht sich an Beute heran?",
+      "options": ["Tigerhai", "Kurzflossen-Mako", "Schwammkopfhai", "Walhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Tigerhai jagt nachts und ist bekannt dafür, verschiedene Beutearten heimlich anzugreifen."
+    },
+    {
+      "question": "Was ist die ausschließliche Wirtschaftszone (AWZ)?",
+      "options": ["Meeresstreifen, in dem ein Land Nutzungsrechte hat", "Internationales Meer", "Polargebiet", "Unbewohnte Zone"],
+      "correctAnswer": 0,
+      "explanation": "Die AWZ erstreckt sich bis 200 Seemeilen vor der Küste; dort hat der Staat Nutzungsrechte an Meeresressourcen."
+    },
+    {
+      "question": "Wie heißt die Bewegung des Meerwassers hin und her?",
+      "options": ["Gezeiten", "Wellen", "Strömungen", "Zyklone"],
+      "correctAnswer": 0,
+      "explanation": "Gezeiten werden durch die Anziehungskraft von Sonne und Mond auf das Meerwasser verursacht."
+    },
+    {
+      "question": "Was ist die Rolle der Haie im Ökosystem?",
+      "options": ["Populationen kontrollieren und ökologisches Gleichgewicht halten", "Sauerstoff produzieren", "Riffe bilden", "Wasser filtern"],
+      "correctAnswer": 0,
+      "explanation": "Haie regulieren Populationen anderer Arten und halten dadurch das ökologische Gleichgewicht der Ozeane."
+    }
+  ],
+  "6": [
+    {
+      "question": "Wie heißt die Wissenschaft, die sich mit den Ozeanen beschäftigt?",
+      "options": ["Ozeanografie", "Geologie", "Meteorologie", "Ökologie"],
+      "correctAnswer": 0,
+      "explanation": "Die Ozeanografie erforscht die Ozeane, einschließlich ihrer physischen, chemischen und biologischen Eigenschaften."
+    },
+    {
+      "question": "Welcher Hai nutzt seinen langen Schwanz zur Jagd?",
+      "options": ["Fuchshai", "Kurzflossen-Mako", "Weißer Hai", "Tigerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Fuchshai schlägt mit seinem langen Schwanz Fischschwärme betäubend, bevor er sie fängt."
+    },
+    {
+      "question": "Was ist eine marine Nahrungskette?",
+      "options": ["Abfolge von Organismen, die sich gegenseitig fressen", "Meeresströmung", "Algenbildung", "Gezeitenzyklus"],
+      "correctAnswer": 0,
+      "explanation": "Die marine Nahrungskette zeigt den Energiefluss zwischen Organismen, von Produzenten bis zu Räubern."
+    },
+    {
+      "question": "Welcher Ozean umspült die Westküste Südamerikas?",
+      "options": ["Pazifik", "Atlantik", "Indik", "Antarktik"],
+      "correctAnswer": 0,
+      "explanation": "Der Pazifische Ozean umspült die Westküste Südamerikas, u. a. Chile und Peru."
+    },
+    {
+      "question": "Wie heißt die obere, lichtdurchflutete Schicht des Ozeans?",
+      "options": ["Photische Zone", "Abyssale Zone", "Hadale Zone", "Dunkle Zone"],
+      "correctAnswer": 0,
+      "explanation": "Die photische Zone ist die oberste Wasserschicht, in die Sonnenlicht eindringt und Photosynthese möglich ist."
+    },
+    {
+      "question": "Welcher Hai lebt in der Tiefsee?",
+      "options": ["Koboldhai", "Tigerhai", "Blauhai", "Schwammkopfhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Koboldhai ist eine seltene Art, die in tiefen Gewässern lebt und eine lange Schnauze besitzt."
+    },
+    {
+      "question": "Was ist Ozeanversauerung?",
+      "options": ["Zunahme der Azidität durch CO₂", "Abnahme der Salinität", "Korallenbildung", "Globale Abkühlung"],
+      "correctAnswer": 0,
+      "explanation": "Versauerung entsteht, wenn sich gelöstes CO₂ im Wasser erhöht, den pH-Wert senkt und marine Lebewesen schädigt."
+    },
+    {
+      "question": "Welches gelöste Gas ist für das marine Leben wichtigste?",
+      "options": ["Sauerstoff", "Stickstoff", "Wasserstoff", "Kohlenstoffdioxid"],
+      "correctAnswer": 0,
+      "explanation": "Gelöster Sauerstoff ist essentiell für die Atmung mariner Organismen."
+    },
+    {
+      "question": "Welcher Hai ist der älteste noch lebende?",
+      "options": ["Grönlandhai", "Weißer Hai", "Hammerhai", "Tigerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Grönlandhai kann über 400 Jahre alt werden und ist das langlebigste bekannte Wirbeltier."
+    },
+    {
+      "question": "Was ist Plankton?",
+      "options": ["Mikroskopisch kleine, treibende Organismen", "Kleine Fische", "Krustentiere", "Festsitzende Algen"],
+      "correctAnswer": 0,
+      "explanation": "Plankton besteht aus mikroskopischen, im Wasser treibenden Organismen, die Photosynthese betreiben und die marine Nahrungskette gründen."
+    }
+  ],
+  "7": [
+    {
+      "question": "Welcher Hai gilt als urzeitlich?",
+      "options": ["Püttelhai", "Kurzflossen-Mako", "Tigerhai", "Schwammkopfhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Püttelhai hat einen langgestreckten Körper und primitive Merkmale, die an urzeitliche Arten erinnern."
+    },
+    {
+      "question": "Welcher Ozean hat die größte durchschnittliche Tiefe?",
+      "options": ["Pazifik", "Atlantik", "Indik", "Antarktik"],
+      "correctAnswer": 0,
+      "explanation": "Der Pazifische Ozean ist der tiefste und besitzt die bekanntesten ozeanischen Graben."
+    },
+    {
+      "question": "Was ist die Hauptnahrungsquelle von Korallenriffen?",
+      "options": ["Zooxanthellen (symbiontische Algen)", "Plankton", "Kleine Fische", "Krebstiere"],
+      "correctAnswer": 0,
+      "explanation": "Zooxanthellen leben in den Korallen und produzieren durch Photosynthese Nahrung, die das Riff erhält."
+    },
+    {
+      "question": "Welches Naturphänomen beeinflusst die Temperaturen des Pazifiks und das Weltklima?",
+      "options": ["El Niño", "Treibhauseffekt", "Tropischer Wirbelsturm", "Kaltwasserströmung"],
+      "correctAnswer": 0,
+      "explanation": "El Niño verändert die Pazifik-Strömungen und beeinflusst das Klima in vielen Weltregionen."
+    },
+    {
+      "question": "Was ist das Hauptmerkmal von Rochen?",
+      "options": ["Abgeflachter Körper und flügelförmige Flossen", "Zylindrischer Körper", "Knöcherne Schuppen", "Pelzige Haut"],
+      "correctAnswer": 0,
+      "explanation": "Rochen haben einen abgeflachten Körper und breite Flossen, die an Flügel erinnern; sie gleiten über den Meeresboden."
+    },
+    {
+      "question": "Was verursacht Wellen im Ozean?",
+      "options": ["Wind", "Mondgravitation", "Kaltwasserströmungen", "Gezeiten"],
+      "correctAnswer": 0,
+      "explanation": "Wellen entstehen hauptsächlich durch die Einwirkung von Wind auf die Meeresoberfläche."
+    },
+    {
+      "question": "Wie heißt die tiefste Schicht des Ozeans?",
+      "options": ["Hadale Zone", "Photische Zone", "Abyssale Zone", "Mesopelagische Zone"],
+      "correctAnswer": 0,
+      "explanation": "Die hadale Zone liegt in den tiefsten ozeanischen Graben und ist die dunkelste Schicht."
+    },
+    {
+      "question": "Wie orten Haie ihre Beute?",
+      "options": ["Elektrische Felder, Vibrationen und Geruch", "Klang und Sehen", "Geschmack und Hitze", "Licht und Echo"],
+      "correctAnswer": 0,
+      "explanation": "Haie nutzen Elektrorezeptoren, einen feinen Geruchssinn und Vibrationen, um Beute zu lokalisieren."
+    },
+    {
+      "question": "Was ist die Hauptkomponente von Meerwasser-Salz?",
+      "options": ["Natriumchlorid", "Magnesium", "Kalzium", "Eisen"],
+      "correctAnswer": 0,
+      "explanation": "Meerwasser-Salz besteht hauptsächlich aus Natriumchlorid (NaCl), dem gleichen Speisesalz."
+    },
+    {
+      "question": "Welcher Hai jagt in Gruppen?",
+      "options": ["Blauhai", "Flachkopfhai", "Stierhai", "Weißer Hai"],
+      "correctAnswer": 0,
+      "explanation": "Der Blauhai bildet oft Schwärme, um gemeinsam Fischschwärme zu jagen und sich vor größeren Räubern zu schützen."
+    }
+  ],
+  "8": [
+    {
+      "question": "Was unterscheidet Knochen- von Knorpelfischen?",
+      "options": ["Art des Skeletts", "Größe der Flossen", "Vorhandensein von Lungen", "Hautfarbe"],
+      "correctAnswer": 0,
+      "explanation": "Knochenfische besitzen ein knöchernes Skelett, während Knorpelfische wie Haie ein Knorpelskelett haben."
+    },
+    {
+      "question": "Welcher Hai hat extrem kräftige Kiefer und gezackte Zähne?",
+      "options": ["Weißer Hai", "Schwammkopfhai", "Hammerhai", "Tigerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Weiße Hai besitzt gezackte Zähne und eine der stärksten Bisse im Tierreich."
+    },
+    {
+      "question": "Welches Phänomen entsteht durch Dichteunterschiede von salz- und süßem Wasser?",
+      "options": ["Thermohaline Zirkulation", "Wellen", "Gezeiten", "Versauerung"],
+      "correctAnswer": 0,
+      "explanation": "Die thermohaline Zirkulation wird durch Unterschiede in Temperatur und Salzgehalt des Wassers angetrieben."
+    },
+    {
+      "question": "Was ist marine Biolumineszenz?",
+      "options": ["Lichterzeugung durch Meeresorganismen", "Sonnenreflexion auf dem Meer", "Künstliche Unterwasserlichter", "Leuchten von Salz"],
+      "correctAnswer": 0,
+      "explanation": "Biolumineszenz ist die Fähigkeit einiger Organismen, durch chemische Reaktionen Licht im Körper zu erzeugen."
+    },
+    {
+      "question": "Welcher fossile Brennstoff wird hauptsächlich vom Meeresboden gefördert?",
+      "options": ["Erdöl", "Kohle", "Erdgas", "Schiefer"],
+      "correctAnswer": 0,
+      "explanation": "Erdöl ist der wichtigste fossile Brennstoff, der in Lagerstätten unter dem Meeresboden gefördert wird."
+    },
+    {
+      "question": "Welcher Hai hat sägeblattartige Zähne und eine lange Schnauze?",
+      "options": ["Sägehai", "Tigerhai", "Kurzflossen-Mako", "Schwammkopfhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Sägehai nutzt seine lange, gezackte Schnauze, um Beute zu schneiden und zu fangen."
+    },
+    {
+      "question": "In welcher Ozeanregion leben die meisten bekannten Arten?",
+      "options": ["Küstenregionen", "Meeresboden", "Abyssale Graben", "Polare Gewässer"],
+      "correctAnswer": 0,
+      "explanation": "Küstenregionen beherbergen die größte Artenvielfalt aufgrund von Sonnenlicht und Nährstoffreichtum."
+    },
+    {
+      "question": "Was ist ein Ästuar?",
+      "options": ["Fluss-Meer-Übergangszone", "Tiefer See", "Unterirdischer Kanal", "Korallenriff"],
+      "correctAnswer": 0,
+      "explanation": "Ein Ästuar ist ein Bereich, in dem süßes Flusswasser mit salzigem Meerwasser mischt."
+    },
+    {
+      "question": "Welcher Hai lebt in arktischen Gewässern?",
+      "options": ["Grönlandhai", "Kurzflossen-Mako", "Tigerhai", "Schwammkopfhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Grönlandhai bewohnt eisige nördliche Gewässer und ist für seine außergewöhnliche Langlebigkeit bekannt."
+    },
+    {
+      "question": "Welcher Prozess erzeugt Sauerstoff in den Ozeanen?",
+      "options": ["Phytoplankton-Photosynthese", "Wasserverdunstung", "Gezeitenkreislauf", "Strömungsbewegung"],
+      "correctAnswer": 0,
+      "explanation": "Phytoplankton betreibt Photosynthese und liefert einen Großteil des atmosphärischen Sauerstoffs."
+    }
+  ],
+  "9": [
+    {
+      "question": "Welcher Hai wird als „sanfter Riese“ bezeichnet?",
+      "options": ["Walhai", "Weißer Hai", "Tigerhai", "Blauhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Walhai ist der größte Fisch der Welt und ernährt sich sanft von Plankton, daher die Bezeichnung „sanfter Riese“."
+    },
+    {
+      "question": "Was ist das Tote Meer?",
+      "options": ["Hypersaliner See", "Gefrorener Ozean", "Meerbusen", "Tropische Bai"],
+      "correctAnswer": 0,
+      "explanation": "Das Tote Meer ist ein See mit extrem hohem Salzgehalt, der Fischen und Pflanzen das Leben unmöglich macht."
+    },
+    {
+      "question": "Was ist die Hauptursache für Korallenbleiche?",
+      "options": ["Erhöhung der Wassertemperatur", "Zunahme der Salinität", "CO₂-Abnahme", "Gezeitenwirkung"],
+      "correctAnswer": 0,
+      "explanation": "Erhöhte Wassertemperatur veranlasst Korallen, ihre symbiontischen Algen auszustoßen und Farbe sowie Vitalität zu verlieren."
+    },
+    {
+      "question": "Welcher Hai ist abgeflacht und lebt meist am Meeresboden?",
+      "options": ["Engelhai", "Stierhai", "Tigerhai", "Blauhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Engelhai hat einen abgeflachten Körper und versteckt sich im Sand, um Beute zu überraschen."
+    },
+    {
+      "question": "Wie heißt die Zone, in die die Sonne niemals eindringt?",
+      "options": ["Abyssale Zone", "Photische Zone", "Mesopelagische Zone", "Küstenzone"],
+      "correctAnswer": 0,
+      "explanation": "Die abyssale Zone liegt so tief, dass kein Sonnenlicht ankommt; sie ist dauerhaft dunkel."
+    },
+    {
+      "question": "Was ist Phytoplankton?",
+      "options": ["Mikroskopisch kleine, treibende Pflanzen", "Junge Fische", "Krebstiere", "Festsitzende Algen"],
+      "correctAnswer": 0,
+      "explanation": "Phytoplankton besteht aus mikroskopischen, photosynthetisch aktiven Organismen, die Sauerstoff produzieren und die marine Nahrungskette gründen."
+    },
+    {
+      "question": "Welcher Ozean ist der kälteste der Erde?",
+      "options": ["Antarktischer Ozean", "Arktik", "Pazifik", "Atlantik"],
+      "correctAnswer": 1,
+      "explanation": "Der Antarktische Ozean ist aufgrund seiner Lage um den Südpol und des permanenten Eises der kälteste."
+    },
+    {
+      "question": "Welcher Hai zieht lange Distanzen?",
+      "options": ["Blauhai", "Schwammkopfhai", "Stierhai", "Hammerhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Blauhai ist für wanderungsartige Ozeanüberquerungen und enorme Wegstrecken bekannt."
+    },
+    {
+      "question": "Was ist Auftrieb (Upwelling)?",
+      "options": ["Aufstieg kalter, nährstoffreicher Tiefenwasser", "Abstieg warmen Wassers", "Gezeitenbewegung", "Mischung polarer Wasser"],
+      "correctAnswer": 0,
+      "explanation": "Auftrieb ist das Aufsteigen kalter, nährstoffreicher Wassermassen, die das Plankton ernähren und die Fischerei beleben."
+    },
+    {
+      "question": "Was ist die Hauptwirkung von Plastik in den Ozeanen?",
+      "options": ["Kontamination und Tod von Meerestieren", "Riffbildung", "Salinitätsanstieg", "Abkühlung des Wassers"],
+      "correctAnswer": 0,
+      "explanation": "Plastik verschmutzt die Meere, wird von Tieren aufgenommen und verursacht schwere Schäden für die Meeresfauna."
+    }
+  ],
+  "10": [
+    {
+      "question": "Welcher Hai ist dafür bekannt, sich bereits im Mutterleib kannibalistisch zu verhalten?",
+      "options": ["Stierhai", "Kurzflossen-Mako", "Tigerhai", "Blauhai"],
+      "correctAnswer": 0,
+      "explanation": "Stierhai-Embryonen fressen im Uterus ihre kleineren Geschwister, bevor sie geboren werden."
+    },
+    {
+      "question": "Was ist der Humboldtstrom?",
+      "options": ["Kalte Auftriebsströmung vor der Westküste Südamerikas", "Warme Strömung im Nordatlantik", "Karibische Durchströmung", "Arktische Polarströmung"],
+      "correctAnswer": 0,
+      "explanation": "Der Humboldtstrom bringt kaltes, nährstoffreiches Wasser an die Küsten Chiles und Perus und beeinflusst Klima und Fischerei."
+    },
+    {
+      "question": "Wie heißt das Gegenstück zu El Niño?",
+      "options": ["La Niña", "El Fuego", "El Sur", "El Calor"],
+      "correctAnswer": 0,
+      "explanation": "La Niña ist das Phänomen mit abgekühltem Pazifik-Äquatorialwasser – das Gegenteil von El Niño."
+    },
+    {
+      "question": "Welcher Hai gilt als aggressivste Art?",
+      "options": ["Stierhai", "Weißer Hai", "Hammerhai", "Fuchshai"],
+      "correctAnswer": 0,
+      "explanation": "Der Stierhai gilt als am aggressivsten, da er territorial ist und oft in flachem Küstenwasser vorkommt."
+    },
+    {
+      "question": "Was ist die Benthos-Zone?",
+      "options": ["Meeresboden-Bereich", "Oberflächenwasser", "Lichtdurchflutete Schicht", "Eisschicht"],
+      "correctAnswer": 0,
+      "explanation": "Die Benthos-Zone ist der Meeresboden, auf dem lichtarm angepasste Organismen leben."
+    },
+    {
+      "question": "Welcher Hai besitzt eine sägeblattförmige Schnauze?",
+      "options": ["Sägehai", "Tigerhai", "Kurzflossen-Mako", "Schwammkopfhai"],
+      "correctAnswer": 0,
+      "explanation": "Der Sägehai nutzt seine lange, gezackte Schnauze, um Beute zu zerschneiden und zu fangen."
+    },
+    {
+      "question": "Was ist Meeresmüll?",
+      "options": ["Feste Abfälle im Ozean", "Meeressand", "Naturliche Trümmer", "Untergetischte Felsen"],
+      "correctAnswer": 0,
+      "explanation": "Meeresmüll sind feste Abfälle wie Plastik und Metall, die ins Meer gelangen und die Umwelt schädigen."
+    },
+    {
+      "question": "Wie heißt die tiefste Stelle der Ozeane?",
+      "options": ["Ozeanischer Graben", "Riff", "Untermeerischer Gipfel", "Küsten-Canyon"],
+      "correctAnswer": 0,
+      "explanation": "Ozeanische Gräben sind die tiefsten Stellen der Meere und können über 11.000 Meter tief sein."
+    },
+    {
+      "question": "Welcher Hai jagt Beute, die größer ist als er selbst?",
+      "options": ["Kurzflossen-Mako", "Schwammkopfhai", "Walhai", "Fuchshai"],
+      "correctAnswer": 0,
+      "explanation": "Der Kurzflossen-Mako ist so schnell und wendig, dass er auch größere Beute wie Thunfische und Schwertfische erbeuten kann."
+    },
+    {
+      "question": "Warum sind die Ozeane für das Leben auf der Erde unverzichtbar?",
+      "options": ["Sie produzieren Sauerstoff, regulieren Klima und erhalten Ökosysteme", "Sie sind nur Wasserreserven", "Sie speichern Wärme", "Sie dienen nur dem Schiffsverkehr"],
+      "correctAnswer": 0,
+      "explanation": "Ozeane erzeugen große Teile des planetaren Sauerstoffs, beeinflussen das Weltklima und beherbergen die meisten bekannten Arten."
+    }
+  ]
+}

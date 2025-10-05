@@ -1,0 +1,382 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "Cap Cod et Outer Cape, États-Unis",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "Couloir saisonnier des grands requins blancs associé aux fronts côtiers dynamiques et à la limite du Gulf Stream.",
+      "environment": "Rupture du plateau continental, eaux froides riches en nutriments et afflux d’eaux chaudes.",
+      "ecosystem": "Zone côtière tempérée à forte productivité, peuplement de phoques et grands prédateurs.",
+      "species": ["Grand requin blanc", "Requin bleu", "Requin mako", "Requin taupe commun"],
+      "recentEvents": "Les observations SWOT 2024 ont révélé des fronts persistants corrélés à la chasse des requins blancs.",
+      "measurements": ["Chlorophylle-a (MODIS)", "Hauteur de surface de la mer (SWOT)", "Phytoplancton (PACE)"],
+      "links": {
+        "modis": "https://earthobservatory.nasa.gov/images/80523/swirling-sediment-reveals-erosive-power-of-new-england-storm"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "Bimini, Bahamas",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "Eaux peu profondes et claires, zone clé pour les requins côtiers et juvéniles.",
+      "environment": "Lagunes, récifs coralliens et pente du plateau continental.",
+      "ecosystem": "Interface récifale-tropicale servant de nurserie à plusieurs espèces.",
+      "species": ["Requin citron", "Requin tigre", "Requin marteau", "Requin océanique à pointe blanche"],
+      "recentEvents": "En 2023, le PACE a identifié une productivité accrue liée à la densité de requins dans la zone côtière.",
+      "measurements": ["Réflectance spectrale (PACE)", "Hauteur de mer (SWOT)", "Chlorophylle (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "Golfe du Mexique – Panache du Mississippi",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "Panache de nutriments formant un écosystème côtier extrêmement productif.",
+      "environment": "Mélange d’eaux douces et salées, zones hypoxiques saisonnières.",
+      "ecosystem": "Région estuarienne et plate-forme continentale riche en phytoplancton.",
+      "species": ["Requin bouledogue", "Requin tigre", "Requin marteau lisse", "Requin nourrice"],
+      "recentEvents": "Les observations MODIS de 2024 ont montré une floraison de phytoplancton suivie d’une forte activité de requins.",
+      "measurements": ["CDOM (MODIS)", "Hauteur de surface de la mer (SWOT)", "Composition du phytoplancton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "Archipel de Revillagigedo, Mexique",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "Archipel volcanique isolé abritant de nombreuses espèces pélagiques.",
+      "environment": "Monts sous-marins, upwellings et vortex de mésoéchelle.",
+      "ecosystem": "Hotspot pélagique tropical.",
+      "species": ["Requin marteau géant", "Requin tigre", "Requin soyeux", "Requin des Galápagos"],
+      "recentEvents": "Les données SWOT ont révélé des vortex stables coïncidant avec les voies migratoires des requins.",
+      "measurements": ["Productivité (MODIS)", "Hauteur SSH (SWOT)", "Pigments phytoplanctoniques (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "Îles Galápagos, Équateur",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "Convergence des courants équatoriaux favorisant une productivité exceptionnelle.",
+      "environment": "Upwelling froid du courant de Humboldt et convergence équatoriale.",
+      "ecosystem": "Hotspot de biodiversité marine tropicale.",
+      "species": ["Requin marteau géant", "Requin des Galápagos", "Requin soyeux", "Requin à pointe noire"],
+      "recentEvents": "Des événements de floraison détectés par PACE ont précédé des pics de densité de requins marteaux.",
+      "measurements": ["Chlorophylle (MODIS)", "Anomalies SSH (SWOT)", "Spectres phytoplanctoniques (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "Île Cocos, Costa Rica",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "Corridor migratoire majeur des requins-marteaux et soyeux.",
+      "environment": "Mont sous-marin, forte oxygénation et turbulences océaniques.",
+      "ecosystem": "Habitat océanique isolé à haute diversité.",
+      "species": ["Requin marteau géant", "Requin soyeux", "Requin à pointe blanche océanique"],
+      "recentEvents": "Les fronts détectés par SWOT coïncident avec des concentrations saisonnières de requins.",
+      "measurements": ["Hauteur SSH (SWOT)", "Chlorophylle (MODIS)", "Phytoplancton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "Grande Barrière de corail, Australie",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "Le plus grand récif du monde, essentiel pour les requins de récif et tigres.",
+      "environment": "Pentes externes, lagons et courants côtiers chauds.",
+      "ecosystem": "Récif corallien tropical de bordure orientale.",
+      "species": ["Requin tigre", "Requin de récif gris", "Requin à pointe blanche", "Requin-baleine (occasionnel)"],
+      "recentEvents": "Les données MODIS montrent une hausse de la turbidité liée à une activité accrue des prédateurs.",
+      "measurements": ["Chlorophylle (MODIS)", "SSH côtier (SWOT)", "Composition phytoplanctonique (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "Récif de Ningaloo, Australie-Occidentale",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "Site d’agrégation de requins-baleines et d’autres grands prédateurs.",
+      "environment": "Courant de Leeuwin chaud, récifs frangeants et lagunes côtières.",
+      "ecosystem": "Récif corallien tropical côtier.",
+      "species": ["Requin-baleine", "Requin tigre", "Requin de récif noir"],
+      "recentEvents": "Les observations PACE 2024 ont corrélé les agrégations de requins-baleines à des pics de chlorophylle.",
+      "measurements": ["Chlorophylle (MODIS)", "Altimétrie (SWOT)", "Spectres optiques (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "Raja Ampat, Indonésie",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "Hotspot mondial de biodiversité, influencé par de forts courants de marée.",
+      "environment": "Canaux insulaires et turbulence de marée.",
+      "ecosystem": "Archipel récifal équatorial à haute diversité.",
+      "species": ["Requin de récif gris", "Requin à pointe noire", "Requin à pointe blanche"],
+      "recentEvents": "Les structures frontales SWOT révèlent un fort brassage favorisant la biodiversité récifale.",
+      "measurements": ["Courants (SWOT)", "Chlorophylle (MODIS)", "Phytoplancton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "Palau, Pacifique occidental",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "Récifs et canaux influencés par les fronts de mésoéchelle.",
+      "environment": "Pentes récifales profondes et courants tourbillonnaires.",
+      "ecosystem": "Zone récifale-pélagique tropicale.",
+      "species": ["Requin océanique à pointe blanche", "Requin soyeux", "Requin de récif gris"],
+      "recentEvents": "Les images SWOT ont permis de cartographier les fronts actifs correspondant aux zones d’agrégation.",
+      "measurements": ["SSH (SWOT)", "Chlorophylle (MODIS)", "Signature optique (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "Fidji – Beqa / Viti Levu",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "Zones récifales profondes avec forte productivité et diversité trophique.",
+      "environment": "Plateformes récifales exposées, courants forts.",
+      "ecosystem": "Système récifal indo-pacifique.",
+      "species": ["Requin tigre", "Requin de récif gris", "Requin à pointe blanche"],
+      "recentEvents": "Les anomalies MODIS de 2025 montrent une floraison soutenue après une phase ENSO neutre.",
+      "measurements": ["Chlorophylle (MODIS)", "SSH (SWOT)", "PACE spectres pigmentaires"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "False Bay, Afrique du Sud",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "Région d’upwelling de Benguela, habitat majeur du grand requin blanc.",
+      "environment": "Eaux froides riches en nutriments, forte biomasse.",
+      "ecosystem": "Zone côtière tempérée productive.",
+      "species": ["Grand requin blanc", "Requin cuivre", "Requin mako"],
+      "recentEvents": "Les observations SWOT 2024 ont mis en évidence un déplacement des fronts côtiers lié au changement climatique.",
+      "measurements": ["Upwelling (SWOT)", "MODIS Chlorophylle", "PACE Pigments"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "Canal du Mozambique",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "Région dynamique avec des tourbillons nourrissant les chaînes trophiques locales.",
+      "environment": "Courants tourbillonnaires chauds et intrusions d’eaux profondes.",
+      "ecosystem": "Zone tropicale de transition Indo-Océanique.",
+      "species": ["Requin taureau", "Requin tigre", "Requin de récif noir"],
+      "recentEvents": "Les mesures SWOT ont révélé un renforcement du courant principal en 2024.",
+      "measurements": ["Hauteur SSH (SWOT)", "MODIS (Chlorophylle)", "PACE (Spectre optique)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "Mer Rouge – Brothers / Daedalus",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "Récifs de pleine mer à forte salinité, connus pour les requins océanique.",
+      "environment": "Récifs isolés, eaux chaudes et très claires.",
+      "ecosystem": "Système récifal aride tropical.",
+      "species": ["Requin océanique à pointe blanche", "Requin gris de récif"],
+      "recentEvents": "Des variations thermiques détectées par MODIS en 2024 ont coïncidé avec des agrégations accrues.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "Socotra, mer d’Arabie",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "Upwelling saisonnier intense durant la mousson, enrichissant la productivité marine.",
+      "environment": "Courant d’Oman et upwelling côtier puissant.",
+      "ecosystem": "Écosystème tropical semi-aride.",
+      "species": ["Requin marteau géant", "Requin tigre"],
+      "recentEvents": "SWOT a détecté une intensification des courants de surface pendant la mousson 2024.",
+      "measurements": ["PACE", "SWOT", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "Sénégal, Afrique occidentale",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "Zone côtière productive soumise à la pêche intense.",
+      "environment": "Upwelling du courant des Canaries et estuaires côtiers.",
+      "ecosystem": "Plateforme continentale tropicale orientale.",
+      "species": ["Requin bouledogue", "Requin dormeur", "Requin citron"],
+      "recentEvents": "Les données PACE 2024 ont révélé un changement de composition du phytoplancton lié à la pollution côtière.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "Côte du Japon",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "Fronts entre les courants chaud Kuroshio et froid Oyashio.",
+      "environment": "Forte variabilité thermique et productivité élevée.",
+      "ecosystem": "Zone tempérée de mélange frontal.",
+      "species": ["Requin bleu", "Requin mako", "Requin saumon"],
+      "recentEvents": "Les fronts SWOT 2024 montrent un décalage nord du courant chaud.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "Côte est de l’Australie",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "Couloir de migration côtière des jeunes requins blancs.",
+      "environment": "Courant Est-Australien, plages tempérées.",
+      "ecosystem": "Plateforme côtière tempérée.",
+      "species": ["Jeune grand requin blanc", "Requin tigre"],
+      "recentEvents": "Les données SWOT montrent une forte stratification côtière en 2025.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "19",
+      "name": "Côte sud de l’Australie",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "Eaux tempérées riches en nutriments, habitat des requins blancs adultes.",
+      "environment": "Plate-forme sud-australienne, upwelling côtier.",
+      "ecosystem": "Écosystème tempéré mixte.",
+      "species": ["Grand requin blanc", "Requin bleu"],
+      "recentEvents": "Les données SWOT 2025 ont détecté des vortex associés aux zones de reproduction.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    },
+    {
+      "id": "20",
+      "name": "Maldives, océan Indien central",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "Eaux tropicales claires abritant une riche communauté de requins récifaux.",
+      "environment": "Atolls coralliens et passes profondes.",
+      "ecosystem": "Système récifal océanique tropical.",
+      "species": ["Requin à pointe noire", "Requin-baleine", "Requin gris de récif"],
+      "recentEvents": "Les images PACE ont révélé une augmentation des particules organiques lors des saisons de mousson.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "1": [
+    {
+      "question": "Quelle est la principale caractéristique des requins ?",
+      "options": ["Nageoires cartilagineuses", "Carapace dure", "Pattes", "Plumes"],
+      "correctAnswer": 0,
+      "explanation": "Les requins sont des poissons cartilagineux, c’est-à-dire que leur squelette est composé de cartilage et non d’os."
+    },
+    {
+      "question": "Quel est le plus grand océan de la planète ?",
+      "options": ["Pacifique", "Atlantique", "Indien", "Arctique"],
+      "correctAnswer": 0,
+      "explanation": "L’océan Pacifique est le plus grand océan de la planète, couvrant environ un tiers de la surface de la Terre."
+    },
+    {
+      "question": "Qu’est-ce que les requins utilisent pour respirer ?",
+      "options": ["Branchies", "Poumons", "Narines externes", "Filtres"],
+      "correctAnswer": 0,
+      "explanation": "Les requins respirent par des branchies, qui extraient l’oxygène dissous dans l’eau."
+    },
+    {
+      "question": "Quel animal est connu comme le « roi des mers » ?",
+      "options": ["Requin blanc", "Dauphin", "Poulpe", "Hippocampe"],
+      "correctAnswer": 0,
+      "explanation": "Le requin blanc est considéré comme le roi des mers car c’est l’un des plus grands prédateurs océaniques."
+    },
+    {
+      "question": "L’océan Atlantique sépare quels continents principaux ?",
+      "options": ["Amériques et Europe/Afrique", "Asie et Afrique", "Océanie et Europe", "Afrique et Océanie"],
+      "correctAnswer": 0,
+      "explanation": "L’Atlantique sépare le continent américain de l’Europe et de l’Afrique."
+    },
+    {
+      "question": "Lequel de ces poissons est cartilagineux ?",
+      "options": ["Requin", "Sardine", "Morue", "Pirarucu"],
+      "correctAnswer": 0,
+      "explanation": "Le requin est un poisson cartilagineux, tout comme les raies, car son squelette est composé de cartilage."
+    },
+    {
+      "question": "Qu’est-ce qui recouvre la Terre en plus grande proportion ?",
+      "options": ["Eau", "Terre", "Sable", "Glace"],
+      "correctAnswer": 0,
+      "explanation": "Environ 70 % de la surface de la Terre est recouverte d’eau, principalement par les océans."
+    },
+    {
+      "question": "Que mangent les requins ?",
+      "options": ["Poissons et autres animaux marins", "Feuilles", "Fruits", "Algues"],
+      "correctAnswer": 0,
+      "explanation": "Les requins sont carnivores et se nourrissent principalement de poissons et d’autres animaux marins."
+    },
+    {
+      "question": "Quel océan borde le Brésil ?",
+      "options": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+      "correctAnswer": 0,
+      "explanation": "Le Brésil est bordé par l’océan Atlantique sur toute sa côte est."
+    },
+    {
+      "question": "Quel est l’habitat des requins ?",
+      "options": ["Océans", "Rivières terrestres", "Montagnes", "Forêts"],
+      "correctAnswer": 0,
+      "explanation": "Les requins vivent principalement dans les océans, bien que certaines espèces puissent entrer dans les eaux douces."
+    }
+  ],
+  "2": [
+    {
+      "question": "Quel requin a une tête en forme de marteau ?",
+      "options": ["Requin-marteau", "Requin-renard", "Requin-tigre", "Requin bleu"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-marteau est connu pour sa tête aplatie en forme de T, ce qui améliore sa vision et sa perception électrique."
+    },
+    {
+      "question": "Quel est le plus petit océan en superficie ?",
+      "options": ["Arctique", "Atlantique", "Indien", "Pacifique"],
+      "correctAnswer": 0,
+      "explanation": "L’océan Arctique est le plus petit et le plus froid des océans de la planète."
+    },
+    {
+      "question": "À quel groupe appartiennent les requins ?",
+      "options": ["Chondrichthyens", "Mammifères", "Mollusques", "Ostéichtyens"],
+      "correctAnswer": 0,
+      "explanation": "Les requins sont des chondrichthyens, c’est-à-dire des poissons au squelette cartilagineux."
+    },
+    {
+      "question": "Quel est l’animal le plus rapide de l’océan ?",
+      "options": ["Voilier", "Requin blanc", "Thon", "Dauphin"],
+      "correctAnswer": 0,
+      "explanation": "Le voilier peut atteindre des vitesses de 110 km/h, ce qui en fait le plus rapide des mers."
+    },
+    {
+      "question": "Quel est le sens le plus développé chez les requins ?",
+      "options": ["Odorat", "Vue", "Ouïe", "Goût"],
+      "correctAnswer": 0,
+      "explanation": "L’odorat des requins est extrêmement développé, leur permettant de détecter de petites quantités de sang à grande distance."
+    },
+    {
+      "question": "Quelle région océanique est la plus profonde ?",
+      "options": ["Fosse des Mariannes", "Grande Barrière de Corail", "Atlantique Sud", "Méditerranée"],
+      "correctAnswer": 0,
+      "explanation": "La fosse des Mariannes est la région la plus profonde de l’océan, avec environ 11 000 mètres de profondeur."
+    },
+    {
+      "question": "Qu’est-ce que la biodiversité marine ?",
+      "options": ["Variété d’espèces dans les océans", "Type de vague", "Courant marin", "Quantité d’algues"],
+      "correctAnswer": 0,
+      "explanation": "La biodiversité marine représente la variété d’espèces vivant dans les écosystèmes océaniques."
+    },
+    {
+      "question": "Quelle est la principale menace pour les requins aujourd’hui ?",
+      "options": ["Pêche excessive", "Neige", "Éruptions volcaniques", "Sécheresses"],
+      "correctAnswer": 0,
+      "explanation": "La pêche excessive et le commerce des ailerons sont les principales menaces pour les requins."
+    },
+    {
+      "question": "Combien d’océans existe-t-il sur la planète ?",
+      "options": ["Cinq", "Deux", "Sept", "Quatre"],
+      "correctAnswer": 0,
+      "explanation": "Il existe cinq océans principaux : Pacifique, Atlantique, Indien, Antarctique et Arctique."
+    },
+    {
+      "question": "Quel est le plus grand requin vivant ?",
+      "options": ["Requin-baleine", "Requin-tigre", "Requin blanc", "Requin-marteau"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-baleine est le plus grand poisson du monde, pouvant dépasser 12 mètres de longueur."
+    }
+  ],
+  "3": [
+    {
+      "question": "Quelle est la fonction des ampoules de Lorenzini chez les requins ?",
+      "options": ["Détecter les champs électriques", "Respirer", "Protéger le corps", "Aider à nager"],
+      "correctAnswer": 0,
+      "explanation": "Les ampoules de Lorenzini sont des capteurs qui permettent aux requins de détecter les champs électriques émis par d’autres animaux."
+    },
+    {
+      "question": "Quel est le deuxième plus grand océan ?",
+      "options": ["Atlantique", "Pacifique", "Indien", "Antarctique"],
+      "correctAnswer": 0,
+      "explanation": "L’océan Atlantique est le deuxième plus grand océan de la planète, après le Pacifique."
+    },
+    {
+      "question": "Quel requin est considéré comme le plus dangereux pour l’homme ?",
+      "options": ["Requin blanc", "Requin-renard", "Requin-ange", "Requin-taureau"],
+      "correctAnswer": 0,
+      "explanation": "Le requin blanc est le plus souvent associé aux attaques sur l’homme, bien que ces événements soient rares."
+    },
+    {
+      "question": "Quel est le plus grand récif corallien du monde ?",
+      "options": ["Grande Barrière de Corail", "Mer Rouge", "Récif d’Abrolhos", "Polynésie"],
+      "correctAnswer": 0,
+      "explanation": "La Grande Barrière de Corail, en Australie, est le plus grand système récifal du monde."
+    },
+    {
+      "question": "Combien de branchies la plupart des requins possèdent-ils ?",
+      "options": ["5", "2", "8", "10"],
+      "correctAnswer": 0,
+      "explanation": "La plupart des requins possèdent cinq paires de fentes branchiales pour respirer."
+    },
+    {
+      "question": "Les requins aident à maintenir l’équilibre de quel système ?",
+      "options": ["Écosystème marin", "Terrestre", "Polaire", "Désertique"],
+      "correctAnswer": 0,
+      "explanation": "Les requins, en tant que super-prédateurs, aident à équilibrer les écosystèmes marins en contrôlant les populations d’autres espèces."
+    },
+    {
+      "question": "Lequel de ces animaux n’est pas marin ?",
+      "options": ["Girafe", "Baleine", "Requin", "Poulpe"],
+      "correctAnswer": 0,
+      "explanation": "La girafe est un animal terrestre et ne vit pas dans un environnement marin."
+    },
+    {
+      "question": "Que sont les courants marins ?",
+      "options": ["Mouvement de l’eau de mer", "Chaîne alimentaire", "Espèce d’algue", "Marée basse"],
+      "correctAnswer": 0,
+      "explanation": "Les courants marins sont des flux continus d’eau qui se déplacent à travers les océans."
+    },
+    {
+      "question": "Quel requin est connu pour sauter hors de l’eau ?",
+      "options": ["Requin blanc", "Requin-renard", "Requin bleu", "Requin-tigre"],
+      "correctAnswer": 0,
+      "explanation": "Le requin blanc est connu pour sauter hors de l’eau lors d’attaques sur des proies."
+    },
+    {
+      "question": "Qu’est-ce que la pollution marine ?",
+      "options": ["Déchets dans l’océan", "Mouvement des vagues", "Exploration sous-marine", "Pêche durable"],
+      "correctAnswer": 0,
+      "explanation": "La pollution marine est causée par l’accumulation de déchets et de substances toxiques dans les océans."
+    }
+  ],
+  "4": [
+    {
+      "question": "Quel requin peut vivre à la fois en eau salée et douce ?",
+      "options": ["Requin-taureau", "Requin blanc", "Requin-renard", "Requin-marteau"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-taureau peut survivre dans des eaux salées et douces, et est même trouvé dans des rivières."
+    },
+    {
+      "question": "Quel océan entoure l’Antarctique ?",
+      "options": ["Océan Antarctique", "Atlantique", "Pacifique", "Indien"],
+      "correctAnswer": 0,
+      "explanation": "L’océan Antarctique entoure le continent glacé et est le plus récemment reconnu officiellement."
+    },
+    {
+      "question": "Qu’est-ce qu’un récif corallien ?",
+      "options": ["Structure formée par des coraux calcaires", "Montagne immergée", "Type d’algue", "Île volcanique"],
+      "correctAnswer": 0,
+      "explanation": "Les récifs coralliens sont des formations construites par des coraux qui abritent une grande biodiversité marine."
+    },
+    {
+      "question": "Quel animal est prédateur au sommet avec les requins ?",
+      "options": ["Orque", "Calmar géant", "Hippocampe", "Dauphin"],
+      "correctAnswer": 0,
+      "explanation": "L’orque, comme les requins, est un prédateur au sommet qui contrôle l’équilibre marin."
+    },
+    {
+      "question": "Comment les requins flottent-ils sans vessie natatoire ?",
+      "options": ["Foie gras et huileux", "Branchies supplémentaires", "Bulles d’air", "Écailles rigides"],
+      "correctAnswer": 0,
+      "explanation": "Les requins utilisent un gros foie gras et huileux qui les aide à flotter sans vessie natatoire."
+    },
+    {
+      "question": "Quel courant océanique réchauffe l’Europe ?",
+      "options": ["Courant du Golfe", "Courant de Humboldt", "Courant des Canaries", "Courant du Brésil"],
+      "correctAnswer": 0,
+      "explanation": "Le courant du Golfe transporte les eaux chaudes du golfe du Mexique vers l’Europe du Nord, influençant le climat."
+    },
+    {
+      "question": "Quel requin est connu pour son motif rayé ?",
+      "options": ["Requin-tigre", "Requin-marteau", "Requin bleu", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-tigre tire son nom de ses bandes sombres, semblables à celles d’un tigre."
+    },
+    {
+      "question": "Quel est le nom de la plus grande chaîne de montagnes sous-marine ?",
+      "options": ["Dorsale médio-atlantique", "Himalaya immergé", "Andes marins", "Crête pacifique"],
+      "correctAnswer": 0,
+      "explanation": "La dorsale médio-atlantique est la plus grande chaîne de montagnes sous-marine, s’étendant sur tout l’Atlantique."
+    },
+    {
+      "question": "Que fournissent les récifs coralliens aux océans ?",
+      "options": ["Abri et biodiversité", "Pétrole", "Glace", "Marées"],
+      "correctAnswer": 0,
+      "explanation": "Les récifs coralliens fournissent abri et nourriture à des milliers d’espèces marines."
+    },
+    {
+      "question": "Qu’est-ce que la surpêche ?",
+      "options": ["Capture excessive de poissons", "Pêcher seulement dans les rivières", "Élever des poissons en captivité", "Pêche durable"],
+      "correctAnswer": 0,
+      "explanation": "La surpêche se produit quand les poissons sont capturés en nombre plus important qu’ils ne peuvent se reproduire."
+    }
+  ],
+  "5": [
+    {
+      "question": "Quel est le requin le plus rapide du monde ?",
+      "options": ["Mako", "Requin-tigre", "Requin blanc", "Requin-marteau"],
+      "correctAnswer": 0,
+      "explanation": "Le mako peut atteindre des vitesses de 70 km/h sur de courtes distances, ce qui en fait le requin le plus rapide."
+    },
+    {
+      "question": "Où se trouve le triangle de corail, considéré comme un hotspot de biodiversité ?",
+      "options": ["Asie du Sud-Est", "Caraïbes", "Atlantique Nord", "Méditerranée"],
+      "correctAnswer": 0,
+      "explanation": "Le triangle de corail se situe en Asie du Sud-Est et abrite la plus grande diversité de coraux au monde."
+    },
+    {
+      "question": "Quel est le plus grand poisson du monde ?",
+      "options": ["Requin-baleine", "Baleine bleue", "Thon rouge", "Poisson-lune"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-baleine est le plus grand poisson du monde, pouvant dépasser 12 mètres de longueur."
+    },
+    {
+      "question": "Comment les requins se reproduisent-ils ?",
+      "options": ["Ovipares et vivipares (selon l’espèce)", "Seulement ovipares", "Seulement vivipares", "Seulement par bourgeonnement"],
+      "correctAnswer": 0,
+      "explanation": "Selon l’espèce, les requins peuvent être ovipares (pondre des œufs) ou vivipares (donner naissance à des petits vivants)."
+    },
+    {
+      "question": "Lequel de ces animaux n’est pas un requin ?",
+      "options": ["Raie", "Requin bleu", "Requin-ange", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "La raie est un poisson cartilagineux, mais pas un requin, bien qu’elle appartienne au même groupe."
+    },
+    {
+      "question": "Que sont les mangroves ?",
+      "options": ["Écosystèmes côtiers entre rivière et mer", "Récifs profonds", "Déserts salés", "Rochers volcaniques"],
+      "correctAnswer": 0,
+      "explanation": "Les mangroves sont des zones de transition entre l’eau douce et l’eau salée, essentielles à la reproduction de nombreuses espèces."
+    },
+    {
+      "question": "Quel requin est connu pour chasser la nuit et de manière furtive ?",
+      "options": ["Requin-tigre", "Mako", "Requin-renard", "Requin-baleine"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-tigre chasse la nuit et est connu pour attaquer divers types de proies furtivement."
+    },
+    {
+      "question": "Qu’est-ce que la ZEE (Zone Économique Exclusive) ?",
+      "options": ["Zone maritime où un pays a des droits d’exploitation", "Eau internationale", "Région polaire", "Zone inhabitée"],
+      "correctAnswer": 0,
+      "explanation": "La ZEE s’étend jusqu’à 200 milles marins des côtes, où un pays a des droits sur les ressources marines."
+    },
+    {
+      "question": "Quel est le nom du phénomène de va-et-vient de l’eau de mer ?",
+      "options": ["Marées", "Vagues", "Courants", "Cyclones"],
+      "correctAnswer": 0,
+      "explanation": "Les marées sont causées par l’attraction gravitationnelle du Soleil et de la Lune sur les océans."
+    },
+    {
+      "question": "Quel est le rôle des requins dans l’écosystème ?",
+      "options": ["Contrôler les populations et maintenir l’équilibre écologique", "Produire de l’oxygène", "Former des récifs", "Filtrer l’eau"],
+      "correctAnswer": 0,
+      "explanation": "Les requins régulent les populations d’autres espèces, maintenant ainsi l’équilibre écologique des océans."
+    }
+  ],
+  "6": [
+    {
+      "question": "Quel est le nom de la science qui étudie les océans ?",
+      "options": ["Océanographie", "Géologie", "Météorologie", "Écologie"],
+      "correctAnswer": 0,
+      "explanation": "L’océanographie étudie les océans, y compris leurs caractéristiques physiques, chimiques et biologiques."
+    },
+    {
+      "question": "Quel requin utilise sa longue queue pour chasser ?",
+      "options": ["Requin-renard", "Mako", "Requin blanc", "Requin-tigre"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-renard frappe les bancs de poissons avec sa longue queue pour les étourdir avant de les capturer."
+    },
+    {
+      "question": "Qu’est-ce qu’une chaîne alimentaire marine ?",
+      "options": ["Séquence d’organismes qui se nourrissent les uns des autres", "Courant marin", "Formation d’algues", "Cycle des marées"],
+      "correctAnswer": 0,
+      "explanation": "La chaîne alimentaire marine représente le flux d’énergie entre les organismes, des producteurs aux prédateurs."
+    },
+    {
+      "question": "Quel océan borde la côte ouest de l’Amérique du Sud ?",
+      "options": ["Pacifique", "Atlantique", "Indien", "Antarctique"],
+      "correctAnswer": 0,
+      "explanation": "L’océan Pacifique borde la côte ouest de l’Amérique du Sud, notamment le Chili et le Pérou."
+    },
+    {
+      "question": "Quel est le nom de la couche supérieure de l’océan où il y a de la lumière ?",
+      "options": ["Zone photique", "Zone abyssale", "Zone hadale", "Zone sombre"],
+      "correctAnswer": 0,
+      "explanation": "La zone photique est la couche où la lumière du soleil pénètre, permettant la photosynthèse."
+    },
+    {
+      "question": "Quel requin vit dans les eaux profondes ?",
+      "options": ["Requin-lutin", "Requin-tigre", "Requin bleu", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-lutin est une espèce rare qui vit dans les eaux profondes et possède un long museau."
+    },
+    {
+      "question": "Qu’est-ce que l’acidification des océans ?",
+      "options": ["Augmentation de l’acidité due au CO₂", "Baisse de salinité", "Formation de corail", "Refroidissement global"],
+      "correctAnswer": 0,
+      "explanation": "L’acidification se produit quand le CO₂ dissous dans l’eau augmente, abaissant le pH et nuisant à la vie marine."
+    },
+    {
+      "question": "Quel est le principal gaz dissous nécessaire à la vie marine ?",
+      "options": ["Oxygène", "Azote", "Hydrogène", "Dioxyde de carbone"],
+      "correctAnswer": 0,
+      "explanation": "L’oxygène dissous est essentiel à la respiration des organismes marins."
+    },
+    {
+      "question": "Quel est le requin le plus ancien encore vivant ?",
+      "options": ["Requin du Groenland", "Requin blanc", "Requin-marteau", "Requin-tigre"],
+      "correctAnswer": 0,
+      "explanation": "Le requin du Groenland peut vivre plus de 400 ans, c’est le vertébré le plus longévif connu."
+    },
+    {
+      "question": "Qu’est-ce que le phytoplancton ?",
+      "options": ["Microscopiques plantes flottantes", "Jeunes poissons", "Crustacés", "Algues fixées"],
+      "correctAnswer": 0,
+      "explanation": "Le phytoplancton est composé d’organismes microscopiques photosynthétiques qui produisent de l’oxygène et soutiennent la chaîne alimentaire marine."
+    }
+  ],
+  "7": [
+    {
+      "question": "Quel requin est considéré comme préhistorique ?",
+      "options": ["Requin-serpent", "Mako", "Requin-tigre", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-serpent a un corps allongé et des caractéristiques primitives, rappelant des espèces préhistoriques."
+    },
+    {
+      "question": "Quel océan a la plus grande profondeur moyenne ?",
+      "options": ["Pacifique", "Atlantique", "Indien", "Antarctique"],
+      "correctAnswer": 0,
+      "explanation": "L’océan Pacifique est le plus profond et possède les fosses océaniques les plus connues."
+    },
+    {
+      "question": "Quelle est la principale source de nourriture des récifs coralliens ?",
+      "options": ["Zooxanthelles (algues symbiotiques)", "Plancton", "Petits poissons", "Crustacés"],
+      "correctAnswer": 0,
+      "explanation": "Les zooxanthelles vivent dans les coraux et produisent de la nourriture par photosynthèse, soutenant le récif."
+    },
+    {
+      "question": "Quel phénomène affecte les températures du Pacifique et le climat mondial ?",
+      "options": ["El Niño", "Effet de serre", "Cyclone tropical", "Courant froid"],
+      "correctAnswer": 0,
+      "explanation": "El Niño modifie les courants du Pacifique et influence le climat dans plusieurs régions du monde."
+    },
+    {
+      "question": "Quelle est la principale caractéristique des raies ?",
+      "options": ["Corps aplati et nageoires en forme d’ailes", "Corps cylindrique", "Écailles osseuses", "Peau poilue"],
+      "correctAnswer": 0,
+      "explanation": "Les raies ont un corps aplati et de larges nageoires ressemblant à des ailes, leur permettant de glisser sur le fond marin."
+    },
+    {
+      "question": "Que provoque les vagues dans l’océan ?",
+      "options": ["Vent", "Gravité lunaire", "Courants froids", "Marées"],
+      "correctAnswer": 0,
+      "explanation": "Les vagues sont formées principalement par l’action du vent sur la surface de la mer."
+    },
+    {
+      "question": "Quel est le nom de la couche la plus profonde de l’océan ?",
+      "options": ["Zone hadale", "Zone photique", "Zone abyssale", "Zone mésopélagique"],
+      "correctAnswer": 0,
+      "explanation": "La zone hadale est la plus profonde, située dans les fosses océaniques."
+    },
+    {
+      "question": "Comment les requins détectent-ils leurs proies ?",
+      "options": ["Champs électriques, vibrations et odorat", "Son et vision", "Goût et chaleur", "Lumière et écho"],
+      "correctAnswer": 0,
+      "explanation": "Les requins utilisent des récepteurs électriques, un odorat fin et la détection des vibrations pour localiser leurs proies."
+    },
+    {
+      "question": "Quel est le principal composant du sel marin ?",
+      "options": ["Chlorure de sodium", "Magnésium", "Calcium", "Fer"],
+      "correctAnswer": 0,
+      "explanation": "Le sel marin est composé principalement de chlorure de sodium (NaCl), le même sel que l’on utilise dans l’alimentation."
+    },
+    {
+      "question": "Quel requin chasse en groupe ?",
+      "options": ["Requin bleu", "Requin-tête plate", "Requin-taureau", "Requin blanc"],
+      "correctAnswer": 0,
+      "explanation": "Le requin bleu forme souvent des groupes pour chasser des bancs de poissons et se protéger de plus gros prédateurs."
+    }
+  ],
+  "8": [
+    {
+      "question": "Quelle est la différence entre un poisson osseux et un poisson cartilagineux ?",
+      "options": ["Type de squelette", "Taille des nageoires", "Présence de poumons", "Couleur de la peau"],
+      "correctAnswer": 0,
+      "explanation": "Les poissons osseux ont un squelette en os, tandis que les poissons cartilagineux comme les requins ont un squelette en cartilage."
+    },
+    {
+      "question": "Quel requin a une morsure extrêmement puissante et des dentelures ?",
+      "options": ["Requin blanc", "Requin-renard", "Requin-marteau", "Requin-tigre"],
+      "correctAnswer": 0,
+      "explanation": "Le requin blanc possède des dents dentelées et l’une des morsures les plus puissantes du règne animal."
+    },
+    {
+      "question": "Quel phénomène est causé par la différence de densité entre l’eau salée et douce ?",
+      "options": ["Circulation thermohaline", "Vagues", "Marées", "Acidification"],
+      "correctAnswer": 0,
+      "explanation": "La circulation thermohaline est provoquée par les différences de température et de salinité de l’eau, déplaçant les courants profonds."
+    },
+    {
+      "question": "Qu’est-ce que la bioluminescence marine ?",
+      "options": ["Production de lumière par des organismes marins", "Reflet du soleil sur la mer", "Lumières artificielles sous-marines", "Phosphorescence du sel"],
+      "correctAnswer": 0,
+      "explanation": "La bioluminescence est la capacité de certains organismes à produire de la lumière par des réactions chimiques dans leur corps."
+    },
+    {
+      "question": "Quel est le principal combustible fossile extrait du fond marin ?",
+      "options": ["Pétrole", "Charbon", "Gaz naturel", "Schiste"],
+      "correctAnswer": 0,
+      "explanation": "Le pétrole est le principal combustible fossile extrait de réserves situées sous le fond marin."
+    },
+    {
+      "question": "Quel requin a une forme de scie et un museau allongé ?",
+      "options": ["Requin-scie", "Requin-tigre", "Mako", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-scie possède un long museau dentelé utilisé pour couper et capturer ses proies."
+    },
+    {
+      "question": "Dans quelle zone océanique vit la majorité des espèces connues ?",
+      "options": ["Zones côtières", "Fond marin", "Fosses abyssales", "Eaux polaires"],
+      "correctAnswer": 0,
+      "explanation": "Les zones côtières abritent la plus grande biodiversité en raison de la lumière et de l’abondance de nutriments."
+    },
+    {
+      "question": "Qu’est-ce qu’un estuaire ?",
+      "options": ["Rencontre entre rivière et mer", "Lac profond", "Canal souterrain", "Récif corallien"],
+      "correctAnswer": 0,
+      "explanation": "Un estuaire est une zone où l’eau douce des rivières se mélange à l’eau salée de la mer."
+    },
+    {
+      "question": "Quel requin vit dans les eaux froides de l’Arctique ?",
+      "options": ["Requin du Groenland", "Mako", "Requin-tigre", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin du Groenland habite les eaux glacées du nord et est connu pour sa longévité exceptionnelle."
+    },
+    {
+      "question": "Quel processus produit de l’oxygène dans les océans ?",
+      "options": ["Photosynthèse du phytoplancton", "Évaporation de l’eau", "Cycle des marées", "Mouvement des courants"],
+      "correctAnswer": 0,
+      "explanation": "Le phytoplancton réalise la photosynthèse et produit une grande partie de l’oxygène de l’atmosphère."
+    }
+  ],
+  "9": [
+    {
+      "question": "Quel requin est connu comme le « gentil géant » ?",
+      "options": ["Requin-baleine", "Requin blanc", "Requin-tigre", "Requin bleu"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-baleine est le plus grand poisson du monde et se nourrit doucement de plancton, d’où son surnom de « gentil géant »."
+    },
+    {
+      "question": "Qu’est-ce que la mer Morte ?",
+      "options": ["Lac hypersalin", "Océan gelé", "Golfe maritime", "Baie tropicale"],
+      "correctAnswer": 0,
+      "explanation": "La mer Morte est un lac avec une très haute concentration de sel, ce qui empêche la vie des poissons et des plantes."
+    },
+    {
+      "question": "Quelle est la principale cause du blanchissement des coraux ?",
+      "options": ["Augmentation de la température de l’eau", "Augmentation de la salinité", "Réduction du CO₂", "Action des marées"],
+      "correctAnswer": 0,
+      "explanation": "L’augmentation de la température de l’eau pousse les coraux à expulser leurs algues symbiotiques, perdant leur couleur et leur vitalité."
+    },
+    {
+      "question": "Quel requin est aplati et vit souvent sur le fond marin ?",
+      "options": ["Requin-ange", "Requin-taureau", "Requin-tigre", "Requin bleu"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-ange a un corps aplati et se cache dans le sable pour surprendre ses proies."
+    },
+    {
+      "question": "Quel est le nom de la zone où le soleil ne pénètre jamais dans l’océan ?",
+      "options": ["Zone abyssale", "Zone photique", "Zone mésopélagique", "Zone côtière"],
+      "correctAnswer": 0,
+      "explanation": "La zone abyssale est si profonde qu’aucune lumière solaire n’y parvient ; elle est donc constamment sombre."
+    },
+    {
+      "question": "Qu’est-ce que le phytoplancton ?",
+      "options": ["Microscopiques plantes flottantes", "Jeunes poissons", "Crustacés", "Algues fixées"],
+      "correctAnswer": 0,
+      "explanation": "Le phytoplancton est composé d’organismes microscopiques photosynthétiques qui produisent de l’oxygène et soutiennent la chaîne alimentaire marine."
+    },
+    {
+      "question": "Quel est l’océan le plus froid de la planète ?",
+      "options": ["Océan Antarctique", "Arctique", "Pacifique", "Atlantique"],
+      "correctAnswer": 1,
+      "explanation": "L’océan Antarctique est le plus froid en raison de sa localisation autour du pôle Sud et de la présence de glace permanente."
+    },
+    {
+      "question": "Quel requin est connu pour migrer sur de longues distances ?",
+      "options": ["Requin bleu", "Requin-renard", "Requin-taureau", "Requin-marteau"],
+      "correctAnswer": 0,
+      "explanation": "Le requin bleu est connu pour effectuer des migrations océaniques qui traversent des continents."
+    },
+    {
+      "question": "Qu’est-ce que l’upwelling (remontée d’eaux profondes) ?",
+      "options": ["Remontée d’eaux froides et riches en nutriments", "Descente d’eaux chaudes", "Mouvement des marées", "Mélange des eaux polaires"],
+      "correctAnswer": 0,
+      "explanation": "L’upwelling est un phénomène où des eaux profondes froides remontent à la surface, apportant des nutriments qui nourrissent le plancton."
+    },
+    {
+      "question": "Quel est l’impact principal du plastique dans les océans ?",
+      "options": ["Contamination et mort des animaux marins", "Formation de récifs", "Augmentation de la salinité", "Refroidissement de l’eau"],
+      "correctAnswer": 0,
+      "explanation": "Le plastique pollue les océans, est ingéré par les animaux marins et cause de graves dommages à la faune océanique."
+    }
+  ],
+  "10": [
+    {
+      "question": "Quel requin est connu pour un comportement cannibale in utero ?",
+      "options": ["Requin-taureau", "Mako", "Requin-tigre", "Requin bleu"],
+      "correctAnswer": 0,
+      "explanation": "Les embryons de requin-taureau se nourrissent de leurs frères et sœurs plus petits dans l’utérus avant la naissance."
+    },
+    {
+      "question": "Qu’est-ce que le courant de Humboldt ?",
+      "options": ["Courant froid qui borde la côte ouest de l’Amérique du Sud", "Courant chaud de l’Atlantique Nord", "Flux des Caraïbes", "Courant polaire de l’Arctique"],
+      "correctAnswer": 0,
+      "explanation": "Le courant de Humboldt apporte des eaux froides et riches en nutriments le long du Chili et du Pérou, influençant le climat et la pêche."
+    },
+    {
+      "question": "Quel est le nom du phénomène inverse à El Niño ?",
+      "options": ["La Niña", "El Fuego", "El Sur", "El Calor"],
+      "correctAnswer": 0,
+      "explanation": "La Niña est le phénomène opposé à El Niño, caractérisé par le refroidissement des eaux du Pacifique équatorial."
+    },
+    {
+      "question": "Quel requin est considéré comme le plus agressif ?",
+      "options": ["Requin-taureau", "Requin blanc", "Requin-marteau", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-taureau est considéré comme le plus agressif en raison de son comportement territorial et de sa présence en eaux peu profondes."
+    },
+    {
+      "question": "Qu’est-ce que la zone benthique ?",
+      "options": ["Région du fond marin", "Eau de surface", "Couche de lumière", "Couche de glace"],
+      "correctAnswer": 0,
+      "explanation": "La zone benthique est le fond de l’océan, où vivent des organismes adaptés à la faible lumière."
+    },
+    {
+      "question": "Quel requin a une queue en forme de scie et un museau allongé ?",
+      "options": ["Requin-scie", "Requin-tigre", "Mako", "Requin-renard"],
+      "correctAnswer": 0,
+      "explanation": "Le requin-scie utilise son long museau dentelé pour couper et capturer ses proies."
+    },
+    {
+      "question": "Qu’est-ce que les déchets marins ?",
+      "options": ["Déchets solides jetés dans l’océan", "Sable marin", "Débris naturels", "Rochers submergés"],
+      "correctAnswer": 0,
+      "explanation": "Les déchets marins sont des déchets solides comme le plastique et le métal qui polluent l’environnement aquatique."
+    },
+    {
+      "question": "Quel est le nom de la zone la plus profonde de l’océan ?",
+      "options": ["Fosse océanique", "Récif", "Sommet sous-marin", "Canyon côtier"],
+      "correctAnswer": 0,
+      "explanation": "Les fosses océaniques sont les zones les plus profondes des océans, pouvant dépasser 11 000 mètres."
+    },
+    {
+      "question": "Quel requin chasse des proies plus grandes que lui ?",
+      "options": ["Mako", "Requin-renard", "Requin-baleine", "Requin-scie"],
+      "correctAnswer": 0,
+      "explanation": "Le mako est si rapide et agile qu’il peut capturer des proies plus grandes, comme les thons et les poissons-épée."
+    },
+    {
+      "question": "Pourquoi les océans sont-ils essentiels à la vie sur Terre ?",
+      "options": ["Ils produisent de l’oxygène, régulent le climat et soutiennent les écosystèmes", "Ils ne sont que des réserves d’eau", "Ils stockent la chaleur", "Ils servent seulement au transport maritime"],
+      "correctAnswer": 0,
+      "explanation": "Les océans produisent une grande partie de l’oxygène mondial, régulent le climat et abritent la majorité des espèces connues."
+    }
+  ]
+}

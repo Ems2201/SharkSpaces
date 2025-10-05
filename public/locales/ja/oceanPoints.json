@@ -1,0 +1,384 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "ケープコッドとアウターケープ（アメリカ）",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "メキシコ湾流の縁に沿った動的な沿岸フロントにおけるホホジロザメの季節的回廊。",
+      "environment": "陸棚縁、冷水と暖水の混合域、豊富な栄養塩。",
+      "ecosystem": "温帯沿岸上昇流地帯、アザラシと大型捕食者の集中域。",
+      "species": ["ホホジロザメ", "アオザメ", "マコザメ", "ヨシキリザメ"],
+      "recentEvents": "2024年のSWOT衛星観測により、サメの捕食活動に対応する持続的な海洋前線が確認された。",
+      "measurements": ["クロロフィル (MODIS)", "海面高度 (SWOT)", "植物プランクトン組成 (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "ビミニ諸島（バハマ）",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "透明度の高い浅瀬と陸棚の斜面がサメの産卵場や狩場として知られる。",
+      "environment": "サンゴ礁とラグーン、陸棚縁、暖かい熱帯性水域。",
+      "ecosystem": "サンゴ礁と外洋の境界域、生物多様性が非常に高い。",
+      "species": ["レモンザメ", "イタチザメ", "オオメジロザメ", "シュモクザメ"],
+      "recentEvents": "2023年、PACE観測によりクロロフィル濃度の上昇が確認され、サメの行動パターンの変化と一致した。",
+      "measurements": ["反射スペクトル (PACE)", "海面高度 (SWOT)", "クロロフィル濃度 (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "メキシコ湾 – ミシシッピ川プルーム",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "栄養豊富な河川プルームがサメを含む上位捕食者の餌資源を支える。",
+      "environment": "河口付近の混合水域、低酸素域の発生、豊富な栄養塩。",
+      "ecosystem": "河口・沿岸混合ゾーン。",
+      "species": ["オオメジロザメ", "イタチザメ", "アカシュモクザメ", "ネムリブカ"],
+      "recentEvents": "2025年にMODIS観測で大規模なプランクトンブルームが検出され、サメの行動と関連付けられた。",
+      "measurements": ["CDOM・クロロフィル (MODIS)", "海面高度異常 (SWOT)", "植物プランクトン構成 (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "レビジャヒヘド諸島（メキシコ）",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "外洋の火山島で、メソスケール渦と湧昇流が発生する高生産域。",
+      "environment": "海山、上昇流、渦流。",
+      "ecosystem": "熱帯外洋生態系のホットスポット。",
+      "species": ["オオシュモクザメ", "イタチザメ", "シルキーシャーク", "ガラパゴスザメ"],
+      "recentEvents": "2024年、SWOT衛星による観測で渦の動きがサメの移動経路と一致することが確認された。",
+      "measurements": ["クロロフィル濃度 (MODIS)", "SSH渦解析 (SWOT)", "植物プランクトン分布 (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "ガラパゴス諸島（エクアドル）",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "複数の海流が交わる赤道域で、豊富な餌資源により大型サメの集中が見られる。",
+      "environment": "フンボルト海流の湧昇、赤道収束域。",
+      "ecosystem": "赤道外洋ホットスポット。",
+      "species": ["オオシュモクザメ", "ガラパゴスザメ", "シルキーシャーク", "クロトガリザメ"],
+      "recentEvents": "2024年のPACE観測で植物プランクトン群集の急変が確認され、サメ群の移動と同期していた。",
+      "measurements": ["クロロフィル (MODIS)", "SSH異常 (SWOT)", "光学スペクトル (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "ココス島（コスタリカ）",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "シュモクザメの重要な回遊ルートで知られる孤立海山。",
+      "environment": "深海湧昇、酸素豊富な水塊、乱流の多い海域。",
+      "ecosystem": "熱帯外洋サメ回廊。",
+      "species": ["オオシュモクザメ", "シルキーシャーク", "オーシャンホワイトチップ"],
+      "recentEvents": "2024年にSWOT観測により、サメの季節的集団行動と海面構造の関連が明らかにされた。",
+      "measurements": ["SSH (SWOT)", "クロロフィル (MODIS)", "PACE 光学解析"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "グレートバリアリーフ（オーストラリア）",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "世界最大のサンゴ礁群であり、サンゴ礁性サメやイタチザメの重要な生息地。",
+      "environment": "暖流域、外洋リーフ、潮流の強い環境。",
+      "ecosystem": "熱帯サンゴ礁生態系。",
+      "species": ["イタチザメ", "サンゴ礁ザメ", "クロトガリザメ", "ジンベエザメ（季節性）"],
+      "recentEvents": "2024年MODIS観測により、濁度上昇とサメ活動の増加の相関が報告された。",
+      "measurements": ["クロロフィル (MODIS)", "SSH (SWOT)", "光学スペクトル (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "ニンガルーリーフ（西オーストラリア）",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "ジンベエザメの集団行動で世界的に有名なサンゴ礁。",
+      "environment": "暖流（リューウィン海流）、サンゴ礁ラグーン。",
+      "ecosystem": "沿岸熱帯サンゴ礁。",
+      "species": ["ジンベエザメ", "イタチザメ", "クロトガリザメ"],
+      "recentEvents": "2024年PACEデータで、クロロフィル濃度の上昇がジンベエザメの出現と一致。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "ラジャ・アンパット（インドネシア）",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "潮流の強い群島で、世界有数の海洋生物多様性ホットスポット。",
+      "environment": "潮汐流、サンゴ礁、深い海峡。",
+      "ecosystem": "赤道サンゴ礁複合系。",
+      "species": ["サンゴ礁ザメ", "クロトガリザメ", "ホワイトチップリーフシャーク"],
+      "recentEvents": "SWOT観測により潮流混合が強まり、生物多様性維持に寄与していることが確認された。",
+      "measurements": ["潮流 (SWOT)", "クロロフィル (MODIS)", "光学解析 (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "パラオ（西太平洋）",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "外洋リーフとメソスケール前線が交わる多様な海域。",
+      "environment": "サンゴ礁斜面、渦流。",
+      "ecosystem": "熱帯リーフ・外洋移行帯。",
+      "species": ["オーシャンホワイトチップ", "シルキーシャーク", "リーフシャーク"],
+      "recentEvents": "SWOT観測により、メソスケール前線が捕食魚群の集中を引き起こしていることが明らかに。",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "フィジー – ベカ／ビティレブ島",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "強い海流と高い生産性を持つサンゴ礁台地。",
+      "environment": "サンゴ礁棚、暖流、沿岸湧昇。",
+      "ecosystem": "インド太平洋サンゴ礁系。",
+      "species": ["イタチザメ", "リーフシャーク", "ホワイトチップリーフシャーク"],
+      "recentEvents": "2025年、ENSO中立期にMODISで長期的なプランクトンブルームを確認。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "フォルスベイ（南アフリカ）",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "ベンゲラ湧昇域で、ホホジロザメの主要な生息地。",
+      "environment": "冷たい栄養豊富な水、強い上昇流。",
+      "ecosystem": "温帯沿岸高生産帯。",
+      "species": ["ホホジロザメ", "コッパーシャーク", "マコザメ"],
+      "recentEvents": "SWOT 2024による観測で、海流前線の南下が気候変動の影響と関連付けられた。",
+      "measurements": ["上昇流 (SWOT)", "MODIS クロロフィル", "PACE ピグメント"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "モザンビーク海峡",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "渦流が発達する熱帯の生産的海域で、サメ類の回遊路として重要。",
+      "environment": "暖かい海流と深層水の湧昇。",
+      "ecosystem": "インド洋西部の移行帯。",
+      "species": ["オオメジロザメ", "イタチザメ", "クロトガリザメ"],
+      "recentEvents": "2024年、SWOT衛星によりメイン海流の強化と渦形成の活発化が確認された。",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "紅海 – ブラザーズ／ダイダロス礁",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "高塩分で透明な外洋性サンゴ礁。オーシャンホワイトチップの観察地として知られる。",
+      "environment": "孤立リーフ、暖水、強い塩分濃度。",
+      "ecosystem": "乾燥地域の熱帯リーフシステム。",
+      "species": ["オーシャンホワイトチップ", "グレイリーフシャーク"],
+      "recentEvents": "2024年MODISで観測された表面温度変動により、捕食活動が活発化したことが報告された。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "ソコトラ島（アラビア海）",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "モンスーン期に強い湧昇流が発生し、海洋生物の生産性が高まる。",
+      "environment": "オマーン海流、沿岸上昇流、季節変動。",
+      "ecosystem": "熱帯乾燥海洋系。",
+      "species": ["オオシュモクザメ", "イタチザメ"],
+      "recentEvents": "SWOT観測で2024年のモンスーン期に強化された海流が確認された。",
+      "measurements": ["PACE", "SWOT", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "セネガル（西アフリカ）",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "漁業圧が高い沿岸域だが、栄養豊富な湧昇が続く生産的な海域。",
+      "environment": "カナリア海流系上昇流、浅海。",
+      "ecosystem": "熱帯大陸棚域。",
+      "species": ["オオメジロザメ", "ドチザメ", "レモンザメ"],
+      "recentEvents": "2024年PACEデータにより、沿岸汚染に伴う植物プランクトン群集の変化が検出された。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "日本沿岸",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "黒潮と親潮が交わる温帯前線域で、サメの回遊ルートとして知られる。",
+      "environment": "水温差の大きい前線海域。",
+      "ecosystem": "温帯混合フロント域。",
+      "species": ["アオザメ", "マコザメ", "サーモンシャーク"],
+      "recentEvents": "2024年SWOT観測で黒潮の北偏が確認され、サメの分布変化が報告された。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "オーストラリア東岸",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "若いホホジロザメの沿岸回遊ルート。",
+      "environment": "東オーストラリア海流、温帯砂浜沿岸。",
+      "ecosystem": "温帯沿岸生態系。",
+      "species": ["ホホジロザメ幼体", "イタチザメ"],
+      "recentEvents": "2025年SWOT観測により、表層成層化の強化と魚類の集中が報告された。",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "19",
+      "name": "オーストラリア南岸",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "成体ホホジロザメの繁殖地。温帯の栄養豊富な海域。",
+      "environment": "沿岸湧昇、混合水域。",
+      "ecosystem": "温帯沿岸系。",
+      "species": ["ホホジロザメ", "アオザメ"],
+      "recentEvents": "2025年SWOT観測で繁殖期に渦の発達が確認された。",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    },
+    {
+      "id": "20",
+      "name": "モルディブ（インド洋中央部）",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "透明度の高い熱帯海域で、サンゴ礁サメの多様性が高い。",
+      "environment": "環礁、潮流の速いパス、暖流域。",
+      "ecosystem": "熱帯外洋サンゴ礁系。",
+      "species": ["ブラックチップリーフシャーク", "ジンベエザメ", "グレイリーフシャーク"],
+      "recentEvents": "PACE衛星により、モンスーン期に有機粒子量の増加が確認された。",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    }
+  ]
+}

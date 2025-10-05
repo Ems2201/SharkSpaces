@@ -1,0 +1,259 @@
+{
+  "nav": {
+    "home": "Início",
+    "sharkExplorer": "Explorador de Tubarões",
+    "sharkData": "Dados de Tubarões",
+    "ecosystemSim": "Simulador Ecossistema",
+    "quiz": "Quiz"
+  },
+  "sharkExplorer": {
+    "title": "Explorador de Tubarões 🌍",
+    "subtitle": "Mapeamento oceânico interativo com dados de satélite em tempo real",
+    "askAI": "Perguntar à IA",
+    "placeholder": "Pergunte sobre oceanografia ou tubarões...",
+    "thinking": "Pensando...",
+    "emptyQuestion": "Pergunta vazia",
+    "emptyQuestionDesc": "Por favor, insira uma pergunta sobre oceanografia ou tubarões.",
+    "error": "Erro",
+    "errorDesc": "Falha ao obter resposta da IA. Por favor, tente novamente.",
+    "helpText": "Faça uma pergunta para obter insights de IA sobre dados oceânicos e comportamento de tubarões",
+    "regions": {
+      "pacific": "Oceano Pacífico - Zonas de Alimentação de Redemoinhos",
+      "atlantic": "Atlântico Norte - Dinâmica da Corrente do Golfo",
+      "indian": "Oceano Índico - Ponto de Alta Produtividade"
+    },
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "chlorophyll": "Clorofila-a",
+    "ssha": "AAAS",
+    "insights": {
+      "pacific": "Tubarões brancos usam redemoinhos quentes como corredores de alimentação na zona mesopelágica (Braun et al., 2019)",
+      "atlantic": "Movimentos de tubarões brancos fêmeas influenciados por redemoinhos da Corrente do Golfo e dinâmica do Mar de Sargaços (Gaube et al., 2018)",
+      "indian": "Zonas de alta produtividade correlacionam-se com pontos de agregação de tubarões"
+    }
+  },
+  "sharkData": {
+    "title": "Dados de Tubarões 📊",
+    "subtitle": "Medições em tempo real de dispositivos de marcação customizados",
+    "selectTag": "Selecionar Etiqueta de Tubarão",
+    "temperature": "Temperatura",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "seaSurfaceHeight": "Altura da Superfície do Mar",
+    "kelvin": "Kelvin",
+    "degrees": "Graus decimais",
+    "meters": "metros",
+    "temperatureRange": "Faixa de Temperatura (Submerso)",
+    "status": "Status",
+    "submerged": "🌊 Submerso",
+    "surface": "🏄 Superfície",
+    "depthInfo": "Profundidade > 5m",
+    "surfaceInfo": "Perto da superfície",
+    "minTemperature": "Temperatura Mínima",
+    "maxTemperature": "Temperatura Máxima",
+    "coldest": "Mais frio registrado",
+    "warmest": "Mais quente registrado",
+    "accelerometer": "Leituras do Acelerômetro",
+    "xAxis": "Eixo-X",
+    "yAxis": "Eixo-Y",
+    "zAxis": "Eixo-Z",
+    "timestampInfo": "Informações de Timestamp",
+    "currentTime": "Hora Atual",
+    "deltaTime": "Delta Time",
+    "measurementLogs": "Registros de Medições",
+    "noMeasurements": "Nenhuma medição registrada ainda...",
+    "audioDetections": "Detecções de Áudio (Espécies de Presas)",
+    "listening": "Ouvindo a vida marinha...",
+    "detectedSpecies": "Espécies Detectadas",
+    "confidence": "Confiança",
+    "gForce": "Força-G",
+    "clickForDetails": "Clique para detalhes",
+    "detectionDetails": "Detalhes da Detecção",
+    "detectedAt": "Detectado em",
+    "temperatureChart": "Temperatura ao Longo do Tempo",
+    "timeAgo": "minutos atrás",
+    "sharkTracking": "Mapa de Rastreamento de Tubarões",
+    "nextLocation": "Próxima Localização Prevista",
+    "predictiveMap": "Mapa de Posição Preditiva",
+    "worldMapAlt": "Mapa-múndi",
+    "currentPosition": "Posição Atual",
+    "realTimeUpdate": "Atualização em tempo real",
+    "feedingZone": "Zona de Alimentação",
+    "basedOnPlanktonDensity": "Com base na densidade de plâncton",
+    "millisecondsAbbr": "ms",
+    "log": {
+      "temp": "Temp",
+      "lat": "Lat",
+      "long": "Long",
+      "ssh": "AAAS",
+      "consistency": "Consistência"
+    },
+    "sharks": {
+      "greatWhite": "Tubarão Branco",
+      "hammerhead": "Tubarão Martelo",
+      "tiger": "Tubarão Tigre",
+      "whale": "Tubarão Baleia",
+      "reef": "Tubarão de Recife"
+    },
+    "prey": {
+      "harborSeal": "Foca-comum",
+      "seaLion": "Leão-marinho",
+      "dolphin": "Golfinho-nariz-de-garrafa",
+      "tuna": "Atum-rabilho",
+      "seaTurtle": "Tartaruga marinha",
+      "salmon": "Salmão",
+      "mackerel": "Cavala",
+      "stingray": "Arraia",
+      "grouper": "Garoupa",
+      "octopus": "Polvo",
+      "crab": "Caranguejo",
+      "lobster": "Lagosta",
+      "sardine": "Sardinha",
+      "herring": "Arenque",
+      "albatross": "Albatroz",
+      "pelican": "Pelicano",
+      "krill": "Krill",
+      "plankton": "Plâncton",
+      "anchovy": "Anchova",
+      "jellyfish": "Água-viva pequena",
+      "copepods": "Copépodes",
+      "clownfish": "Peixe-palhaço",
+      "parrotfish": "Peixe-papagaio",
+      "seaUrchin": "Ouriço-do-mar",
+      "shrimp": "Camarão"
+    }
+  },
+  "footer": {
+    "description": "Plataforma educacional combinando biologia de tubarões, ciência oceânica e tecnologia espacial através de dados de satélite da NASA.",
+    "dataSources": "Fontes de Dados",
+    "research": "Pesquisa",
+    "copyright": "© 2025 Shark Space. Criado para o NASA Space Apps Challenge.",
+    "eddyFeeding": "Alimentação em redemoinhos",
+    "gulfStream": "Corrente do Golfo",
+    "realTimeData": "Dados oceanográficos em tempo real",
+    "predictiveModeling": "Modelagem preditiva de ecossistemas"
+  },
+  "home": {
+    "hero": {
+      "title": "Descubra o Oceano Através do Espaço",
+      "subtitle": "Combinando biologia de tubarões, ciência oceânica e tecnologia de satélite da NASA",
+      "description": "Explore dados de satélite em tempo real, rastreie tubarões e compreenda ecossistemas marinhos",
+      "startExploring": "Começar a Explorar",
+      "takeQuiz": "Fazer Quiz"
+    },
+    "featuresSection": {
+      "title": "Explore Nossos Recursos",
+      "subtitle": "Descubra a ciência oceânica através de ferramentas interativas e dados em tempo real"
+    },
+    "features": {
+      "explorer": {
+        "title": "Explorador de Tubarões",
+        "description": "Mapas interativos mostrando dados oceânicos em tempo real de satélites da NASA"
+      },
+      "data": {
+        "title": "Dados de Tubarões",
+        "description": "Medições em tempo real de dispositivos de marcação customizados"
+      },
+      "simulator": {
+        "title": "Simulador de Ecossistema",
+        "description": "Modelos interativos de ecossistemas mostrando teias alimentares marinhas"
+      },
+      "quiz": {
+        "title": "Quiz SharkRecap",
+        "description": "Teste seus conhecimentos sobre oceanografia e tubarões"
+      }
+    },
+    "satellites": {
+      "title": "Integração de Dados de Satélite da NASA",
+      "subtitle": "Alimentado por tecnologia espacial de ponta",
+      "pace": {
+        "description": "Cor do oceano hiperespectral para identificação de tipo de fitoplâncton",
+        "feature1": "Monitoramento de cor do oceano",
+        "feature2": "Identificação de fitoplâncton",
+        "feature3": "Avaliação de qualidade da água"
+      },
+      "modis": {
+        "description": "Cor do oceano e monitoramento de fitoplâncton desde 2002",
+        "feature1": "Registros de dados de longo prazo",
+        "feature2": "Concentração de clorofila-a",
+        "feature3": "Temperatura da superfície do mar"
+      },
+      "swot": {
+        "description": "Altura precisa da superfície do mar e topografia oceânica",
+        "feature1": "Medições de nível do mar",
+        "feature2": "Mapeamento de correntes oceânicas",
+        "feature3": "Detecção de redemoinhos"
+      }
+    },
+    "cta": {
+      "title": "Pronto para mergulhar na ciência oceânica?",
+      "description": "Comece sua jornada explorando tubarões e ecossistemas oceânicos através do espaço",
+      "button": "Explorar Agora"
+    }
+  },
+  "simulator": {
+    "title": "Simulador de Ecossistema Oceânico",
+    "description": "Construa seu próprio ecossistema oceânico e veja-o ganhar vida!",
+    "elements": "Elementos",
+    "reset": "Reiniciar Ecossistema",
+    "ecosystemHealth": "Saúde do Ecossistema",
+    "instructions": "Como Jogar",
+    "instruction1": "Arraste e solte elementos para construir seu ecossistema",
+    "instruction2": "Observe a saúde do ecossistema e as relações da cadeia alimentar",
+    "instruction3": "Mantenha o equilíbrio - muitos predadores ou poucos produtores prejudicarão a saúde do ecossistema",
+    "instruction4": "Observe a dinâmica populacional conforme as espécies interagem",
+    "health": {
+      "thriving": "🌊 Ecossistema Próspero! Equilíbrio perfeito alcançado.",
+      "healthy": "✅ Sistema Saudável. Os tubarões estão prosperando.",
+      "moderate": "⚠️ Saúde Moderada. Precisa de mais equilíbrio.",
+      "risk": "⚠️ Em Risco. Populações de peixes em declínio.",
+      "collapse": "🚨 Colapso do Ecossistema! Desequilíbrio crítico detectado."
+    },
+    "categories": {
+      "producers": "Produtores",
+      "herbivores": "Herbívoros",
+      "smallPredators": "Pequenos Predadores",
+      "mediumPredators": "Predadores Médios",
+      "apexPredators": "Predadores Apex",
+      "megafauna": "Megafauna",
+      "seabirds": "Aves Marinhas",
+      "invertebrates": "Invertebrados",
+      "deepSea": "Mar Profundo",
+      "decomposers": "Decompositores",
+      "threats": "Ameaças",
+      "sharks": "Tubarões",
+      "marineMammals": "Mamíferos Marinhos",
+      "fish": "Peixes",
+      "reptilesAndBirds": "Répteis e Aves",
+      "pollutants": "Poluentes"
+    }
+  },
+  "quiz": {
+    "title": "Quiz SharkRecap 🦈",
+    "spaceShark": "Tubarão Espacial",
+    "selectDifficulty": "Selecione o Nível de Dificuldade",
+    "difficultyDescription": "Níveis mais altos têm perguntas mais difíceis e fome inicial menor",
+    "level": "Nível",
+    "hunger": "Fome",
+    "question": "Pergunta",
+    "of": "de",
+    "hungerLevel": "Nível de Fome",
+    "score": "Pontuação",
+    "next": "Próxima Pergunta",
+    "tryAgain": "Tentar Nível {{level}} Novamente",
+    "selectNewLevel": "Selecionar Novo Nível",
+    "scoreTooLow": "Pontuação Muito Baixa!",
+    "finalScore": "Pontuação Final:",
+    "accuracy": "Precisão:",
+    "needToPass": "Você precisa de pelo menos 70% para passar neste nível.",
+    "restarting": "🔄 Reiniciando Nível {{level}}...",
+    "excellent": "Excelente Trabalho!",
+    "congratulations": "Parabéns! Você dominou o Nível {{level}}!",
+    "nextChallenge": "Pronto para o Próximo Desafio",
+    "gameOver": "Fim de Jogo!",
+    "hungerDepleted": "Sua fome foi esgotada.",
+    "survived": "Você sobreviveu!",
+    "masteringOceanography": "Você está dominando a oceanografia!",
+    "keepLearning": "Continue aprendendo sobre nossos oceanos!"
+  }
+}

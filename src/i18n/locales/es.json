@@ -1,0 +1,259 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "sharkExplorer": "Explorador de Tiburones",
+    "sharkData": "Datos de Tiburones",
+    "ecosystemSim": "Simulador Ecosistema",
+    "quiz": "Quiz"
+  },
+  "footer": {
+    "description": "Plataforma educativa que combina biología de tiburones, ciencia oceánica y tecnología espacial a través de datos satelitales de la NASA.",
+    "dataSources": "Fuentes de Datos",
+    "research": "Investigación",
+    "copyright": "© 2025 Shark Space. Creado para el NASA Space Apps Challenge.",
+    "eddyFeeding": "Alimentación en remolinos",
+    "gulfStream": "Corriente del Golfo",
+    "realTimeData": "Datos oceanográficos en tiempo real",
+    "predictiveModeling": "Modelado predictivo de ecosistemas"
+  },
+  "home": {
+    "hero": {
+      "title": "Descubre el Océano Desde el Espacio",
+      "subtitle": "Combinando biología de tiburones, ciencia oceánica y tecnología satelital de la NASA",
+      "description": "Explora datos satelitales en tiempo real, rastrea tiburones y comprende ecosistemas marinos",
+      "startExploring": "Comenzar a Explorar",
+      "takeQuiz": "Hacer Quiz"
+    },
+    "featuresSection": {
+      "title": "Explora Nuestras Funciones",
+      "subtitle": "Descubre la ciencia oceánica a través de herramientas interactivas y datos en tiempo real"
+    },
+    "features": {
+      "explorer": {
+        "title": "Explorador de Tiburones",
+        "description": "Mapas interactivos mostrando datos oceánicos en tiempo real de satélites de la NASA"
+      },
+      "data": {
+        "title": "Datos de Tiburones",
+        "description": "Mediciones en tiempo real de dispositivos de marcación personalizados"
+      },
+      "simulator": {
+        "title": "Simulador de Ecosistema",
+        "description": "Modelos de ecosistemas interactivos mostrando redes alimentarias marinas"
+      },
+      "quiz": {
+        "title": "Quiz SharkRecap",
+        "description": "Pon a prueba tus conocimientos sobre oceanografía y tiburones"
+      }
+    },
+    "satellites": {
+      "title": "Integración de Datos Satelitales de la NASA",
+      "subtitle": "Impulsado por tecnología espacial de vanguardia",
+      "pace": {
+        "description": "Color oceánico hiperespectral para identificación de tipos de fitoplancton",
+        "feature1": "Monitoreo de color oceánico",
+        "feature2": "Identificación de fitoplancton",
+        "feature3": "Evaluación de calidad del agua"
+      },
+      "modis": {
+        "description": "Color oceánico y monitoreo de fitoplancton desde 2002",
+        "feature1": "Registros de datos a largo plazo",
+        "feature2": "Concentración de clorofila-a",
+        "feature3": "Temperatura de la superficie del mar"
+      },
+      "swot": {
+        "description": "Altura precisa de la superficie del mar y topografía oceánica",
+        "feature1": "Mediciones del nivel del mar",
+        "feature2": "Mapeo de corrientes oceánicas",
+        "feature3": "Detección de remolinos"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para sumergirte en la ciencia oceánica?",
+      "description": "Comienza tu viaje explorando tiburones y ecosistemas oceánicos desde el espacio",
+      "button": "Explorar Ahora"
+    }
+  },
+  "simulator": {
+    "title": "Simulador de Ecosistema Oceánico",
+    "description": "¡Construye tu propio ecosistema oceánico y míralo cobrar vida!",
+    "elements": "Elementos",
+    "reset": "Reiniciar Ecosistema",
+    "ecosystemHealth": "Salud del Ecosistema",
+    "instructions": "Cómo Jugar",
+    "instruction1": "Arrastra y suelta elementos para construir tu ecosistema",
+    "instruction2": "Observa la salud del ecosistema y las relaciones de la cadena alimentaria",
+    "instruction3": "Mantén el equilibrio - demasiados depredadores o muy pocos productores dañarán la salud del ecosistema",
+    "instruction4": "Observa la dinámica poblacional mientras las especies interactúan",
+    "health": {
+      "thriving": "🌊 ¡Ecosistema Próspero! Equilibrio perfecto alcanzado.",
+      "healthy": "✅ Sistema Saludable. Los tiburones están prosperando.",
+      "moderate": "⚠️ Salud Moderada. Necesita más equilibrio.",
+      "risk": "⚠️ En Riesgo. Poblaciones de peces en declive.",
+      "collapse": "🚨 ¡Colapso del Ecosistema! Desequilibrio crítico detectado."
+    },
+    "categories": {
+      "producers": "Productores",
+      "herbivores": "Herbívoros",
+      "smallPredators": "Pequeños Depredadores",
+      "mediumPredators": "Depredadores Medianos",
+      "apexPredators": "Depredadores Apex",
+      "megafauna": "Megafauna",
+      "seabirds": "Aves Marinas",
+      "invertebrates": "Invertebrados",
+      "deepSea": "Mar Profundo",
+      "decomposers": "Descomponedores",
+      "threats": "Amenazas",
+      "sharks": "Tiburones",
+      "marineMammals": "Mamíferos Marinos",
+      "fish": "Peces",
+      "reptilesAndBirds": "Reptiles y Aves",
+      "pollutants": "Contaminantes"
+    }
+  },
+  "sharkExplorer": {
+    "title": "Explorador de Tiburones 🌍",
+    "subtitle": "Mapeo oceánico interactivo con datos satelitales en tiempo real",
+    "askAI": "Preguntar a la IA",
+    "placeholder": "Pregunta sobre oceanografía o tiburones...",
+    "thinking": "Pensando...",
+    "emptyQuestion": "Pregunta vacía",
+    "emptyQuestionDesc": "Por favor, ingresa una pregunta sobre oceanografía o tiburones.",
+    "error": "Error",
+    "errorDesc": "No se pudo obtener la respuesta de la IA. Inténtalo de nuevo.",
+    "helpText": "Haz una pregunta para obtener ideas de IA sobre datos oceánicos y comportamiento de tiburones",
+    "regions": {
+      "pacific": "Océano Pacífico - Zonas de alimentación en remolinos",
+      "atlantic": "Atlántico Norte - Dinámica de la Corriente del Golfo",
+      "indian": "Océano Índico - Punto caliente de productividad"
+    },
+    "latitude": "Latitud",
+    "longitude": "Longitud",
+    "chlorophyll": "Clorofila-a",
+    "ssha": "SSHA",
+    "insights": {
+      "pacific": "Los tiburones blancos usan remolinos cálidos como corredores de alimentación en la zona mesopelágica (Braun et al., 2019)",
+      "atlantic": "Los movimientos de las hembras de tiburón blanco están influenciados por los remolinos de la Corriente del Golfo y la dinámica del Mar de los Sargazos (Gaube et al., 2018)",
+      "indian": "Las zonas de alta productividad se correlacionan con puntos de agregación de tiburones"
+    }
+  },
+  "sharkData": {
+    "title": "Datos de Tiburones 📊",
+    "subtitle": "Mediciones en tiempo real de dispositivos de marcación personalizados",
+    "selectTag": "Seleccionar Etiqueta de Tiburón",
+    "temperature": "Temperatura",
+    "latitude": "Latitud",
+    "longitude": "Longitud",
+    "seaSurfaceHeight": "Altura de la Superficie del Mar",
+    "kelvin": "Kelvin",
+    "degrees": "Grados decimales",
+    "meters": "metros",
+    "temperatureRange": "Rango de Temperatura (Sumergido)",
+    "status": "Estado",
+    "submerged": "🌊 Sumergido",
+    "surface": "🏄 Superficie",
+    "depthInfo": "Profundidad > 5m",
+    "surfaceInfo": "Cerca de la superficie",
+    "minTemperature": "Temperatura Mínima",
+    "maxTemperature": "Temperatura Máxima",
+    "coldest": "Más frío registrado",
+    "warmest": "Más cálido registrado",
+    "accelerometer": "Lecturas del Acelerómetro",
+    "xAxis": "Eje X",
+    "yAxis": "Eje Y",
+    "zAxis": "Eje Z",
+    "timestampInfo": "Información de Marca de Tiempo",
+    "currentTime": "Hora Actual",
+    "deltaTime": "Tiempo Delta",
+    "measurementLogs": "Registros de Medición",
+    "noMeasurements": "Aún no se han registrado mediciones...",
+    "audioDetections": "Detecciones de Audio (Especies de Presas)",
+    "listening": "Escuchando vida marina...",
+    "detectedSpecies": "Especies Detectadas",
+    "confidence": "Confianza",
+    "gForce": "Fuerza-G",
+    "clickForDetails": "Clic para detalles",
+    "detectionDetails": "Detalles de la Detección",
+    "detectedAt": "Detectado a las",
+    "temperatureChart": "Temperatura en el Tiempo",
+    "timeAgo": "minutos atrás",
+    "sharkTracking": "Mapa de Seguimiento de Tiburones",
+    "nextLocation": "Próxima Ubicación Prevista",
+    "predictiveMap": "Mapa de Posición Predictiva",
+    "worldMapAlt": "Mapa del Mundo",
+    "currentPosition": "Posición Actual",
+    "realTimeUpdate": "Actualización en tiempo real",
+    "feedingZone": "Zona de Alimentación",
+    "basedOnPlanktonDensity": "Basado en la densidad de plancton",
+    "millisecondsAbbr": "ms",
+    "log": {
+      "temp": "Temp",
+      "lat": "Lat",
+      "long": "Long",
+      "ssh": "SSHA",
+      "consistency": "Consistencia"
+    },
+    "sharks": {
+      "greatWhite": "Tiburón Blanco",
+      "hammerhead": "Tiburón Martillo",
+      "tiger": "Tiburón Tigre",
+      "whale": "Tiburón Ballena",
+      "reef": "Tiburón de Arrecife"
+    },
+    "prey": {
+      "harborSeal": "Foca de puerto",
+      "seaLion": "León marino",
+      "dolphin": "Delfín mular",
+      "tuna": "Atún rojo",
+      "seaTurtle": "Tortuga marina",
+      "salmon": "Salmón",
+      "mackerel": "Caballa",
+      "stingray": "Mantarraya",
+      "grouper": "Mero",
+      "octopus": "Pulpo",
+      "crab": "Cangrejo",
+      "lobster": "Langosta",
+      "sardine": "Sardina",
+      "herring": "Arenque",
+      "albatross": "Albatros",
+      "pelican": "Pelícano",
+      "krill": "Krill",
+      "plankton": "Plancton",
+      "anchovy": "Anchoa",
+      "jellyfish": "Medusa pequeña",
+      "copepods": "Copépodos",
+      "clownfish": "Pez payaso",
+      "parrotfish": "Pez loro",
+      "seaUrchin": "Erizo de mar",
+      "shrimp": "Camarón"
+    }
+  },
+  "quiz": {
+    "title": "Quiz SharkRecap 🦈",
+    "spaceShark": "Tiburón Espacial",
+    "selectDifficulty": "Seleccionar Nivel de Dificultad",
+    "difficultyDescription": "Los niveles más altos tienen preguntas más difíciles y menor hambre inicial",
+    "level": "Nivel",
+    "hunger": "Hambre",
+    "question": "Pregunta",
+    "of": "de",
+    "hungerLevel": "Nivel de Hambre",
+    "score": "Puntuación",
+    "next": "Siguiente Pregunta",
+    "tryAgain": "Intentar Nivel {{level}} de Nuevo",
+    "selectNewLevel": "Seleccionar Nuevo Nivel",
+    "scoreTooLow": "¡Puntuación Muy Baja!",
+    "finalScore": "Puntuación Final:",
+    "accuracy": "Precisión:",
+    "needToPass": "Necesitas al menos 70% para aprobar este nivel.",
+    "restarting": "🔄 Reiniciando Nivel {{level}}...",
+    "excellent": "¡Excelente Trabajo!",
+    "congratulations": "¡Felicitaciones! ¡Has dominado el Nivel {{level}}!",
+    "nextChallenge": "Listo para el Próximo Desafío",
+    "gameOver": "¡Juego Terminado!",
+    "hungerDepleted": "Tu hambre se ha agotado.",
+    "survived": "¡Sobreviviste!",
+    "masteringOceanography": "¡Estás dominando la oceanografía!",
+    "keepLearning": "¡Sigue aprendiendo sobre nuestros océanos!"
+  }
+}

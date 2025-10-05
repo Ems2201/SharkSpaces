@@ -1,0 +1,164 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Shark Space NASA-inspired color system */
+    --background: 211 96% 40%;
+    --foreground: 0 0% 100%;
+
+    --card: 233 66% 31%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 233 66% 31%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 62 88% 60%;
+    --primary-foreground: 0 0% 0%;
+
+    --secondary: 233 66% 31%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 211 96% 30%;
+    --muted-foreground: 0 0% 80%;
+
+    --accent: 62 88% 60%;
+    --accent-foreground: 0 0% 0%;
+
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 211 96% 50%;
+    --input: 233 66% 31%;
+    --ring: 62 88% 60%;
+
+    --radius: 0.75rem;
+    
+    /* Custom NASA theme colors */
+    --nasa-blue: 211 96% 40%;
+    --nasa-dark-blue: 233 66% 31%;
+    --nasa-yellow: 62 88% 60%;
+    --nasa-red: 0 100% 50%;
+    
+    /* Gradients */
+    --gradient-ocean: linear-gradient(135deg, hsl(211, 96%, 40%) 0%, hsl(233, 66%, 31%) 100%);
+    --gradient-glow: linear-gradient(90deg, hsl(62, 88%, 60%) 0%, hsl(180, 100%, 50%) 100%);
+    
+    /* Effects */
+    --glow-yellow: 0 0 20px hsl(62, 88%, 60% / 0.5);
+    --glow-blue: 0 0 30px hsl(211, 96%, 60% / 0.4);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    /* Dark mode uses same NASA theme - always futuristic */
+    --background: 233 66% 20%;
+    --foreground: 0 0% 100%;
+
+    --card: 233 66% 25%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 233 66% 25%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 62 88% 60%;
+    --primary-foreground: 0 0% 0%;
+
+    --secondary: 233 66% 31%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 211 96% 25%;
+    --muted-foreground: 0 0% 75%;
+
+    --accent: 62 88% 60%;
+    --accent-foreground: 0 0% 0%;
+
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 211 96% 40%;
+    --input: 233 66% 31%;
+    --ring: 62 88% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+  }
+}
+
+@layer utilities {
+  .glow-yellow {
+    box-shadow: var(--glow-yellow);
+  }
+  
+  .glow-blue {
+    box-shadow: var(--glow-blue);
+  }
+  
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+  
+  .gradient-ocean {
+    background: var(--gradient-ocean);
+  }
+  
+  .gradient-glow {
+    background: var(--gradient-glow);
+  }
+  
+  .text-nasa-yellow {
+    color: hsl(var(--nasa-yellow));
+  }
+  
+  .text-nasa-red {
+    color: hsl(var(--nasa-red));
+  }
+  
+  .bg-nasa-blue {
+    background-color: hsl(var(--nasa-blue));
+  }
+  
+  .bg-nasa-dark-blue {
+    background-color: hsl(var(--nasa-dark-blue));
+  }
+  
+  .border-nasa-yellow {
+    border-color: hsl(var(--nasa-yellow));
+  }
+}

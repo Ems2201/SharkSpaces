@@ -1,0 +1,622 @@
+{
+  "1": [
+    {
+      "question": "¿Cuál es la principal característica de los tiburones?",
+      "options": ["Aletas cartilaginosas", "Caparazón duro", "Patas", "Plumas"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones son peces cartilaginosos, lo que significa que su esqueleto está hecho de cartílago en lugar de huesos."
+    },
+    {
+      "question": "¿Cuál es el océano más grande del planeta?",
+      "options": ["Pacífico", "Atlántico", "Índico", "Ártico"],
+      "correctAnswer": 0,
+      "explanation": "El océano Pacífico es el más grande del planeta y cubre aproximadamente un tercio de la superficie terrestre."
+    },
+    {
+      "question": "¿Qué usan los tiburones para respirar?",
+      "options": ["Branquias", "Pulmones", "Fosas nasales externas", "Filtros"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones respiran a través de branquias, que extraen el oxígeno disuelto en el agua."
+    },
+    {
+      "question": "¿Qué animal es conocido como el 'rey de los mares'?",
+      "options": ["Tiburón blanco", "Delfín", "Pulpo", "Caballo de mar"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón blanco es considerado el rey de los mares por ser uno de los mayores depredadores oceánicos."
+    },
+    {
+      "question": "¿Qué continentes separa principalmente el océano Atlántico?",
+      "options": ["Américas y Europa/África", "Asia y África", "Oceanía y Europa", "África y Oceanía"],
+      "correctAnswer": 0,
+      "explanation": "El Atlántico separa el continente americano de Europa y África."
+    },
+    {
+      "question": "¿Cuál de estos peces es cartilaginoso?",
+      "options": ["Tiburón", "Sardina", "Bacalao", "Pirarucú"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón es un pez cartilaginoso, al igual que las rayas, ya que su esqueleto está hecho de cartílago."
+    },
+    {
+      "question": "¿Qué cubre la Tierra en mayor proporción?",
+      "options": ["Agua", "Tierra", "Arena", "Hielo"],
+      "correctAnswer": 0,
+      "explanation": "Aproximadamente el 70% de la superficie terrestre está cubierta por agua, principalmente de los océanos."
+    },
+    {
+      "question": "¿Qué comen los tiburones?",
+      "options": ["Peces y otros animales marinos", "Hojas", "Frutas", "Algas"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones son carnívoros y se alimentan principalmente de peces y otros animales marinos."
+    },
+    {
+      "question": "¿Qué océano baña a Brasil?",
+      "options": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+      "correctAnswer": 0,
+      "explanation": "Brasil es bañado por el océano Atlántico a lo largo de toda su costa este."
+    },
+    {
+      "question": "¿Cuál es el hábitat de los tiburones?",
+      "options": ["Océanos", "Ríos terrestres", "Montañas", "Bosques"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones viven principalmente en los océanos, aunque algunas especies pueden entrar en aguas dulces."
+    }
+  ],
+  "2": [
+    {
+      "question": "¿Qué tiburón tiene la cabeza en forma de martillo?",
+      "options": ["Tiburón martillo", "Tiburón zorro", "Tiburón tigre", "Tiburón azul"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón martillo es conocido por su cabeza aplanada en forma de T, lo que mejora su visión y percepción eléctrica."
+    },
+    {
+      "question": "¿Cuál es el océano más pequeño en extensión?",
+      "options": ["Ártico", "Atlántico", "Índico", "Pacífico"],
+      "correctAnswer": 0,
+      "explanation": "El océano Ártico es el más pequeño y frío de los océanos del planeta."
+    },
+    {
+      "question": "¿A qué grupo pertenecen los tiburones?",
+      "options": ["Condrictios", "Mamíferos", "Moluscos", "Osteictios"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones son condrictios, es decir, peces con esqueleto cartilaginoso."
+    },
+    {
+      "question": "¿Cuál es el animal más rápido del océano?",
+      "options": ["Pez vela", "Tiburón blanco", "Atún", "Delfín"],
+      "correctAnswer": 0,
+      "explanation": "El pez vela puede alcanzar velocidades de hasta 110 km/h, siendo el más rápido de los mares."
+    },
+    {
+      "question": "¿Cuál es el sentido más agudo de los tiburones?",
+      "options": ["Olfato", "Vista", "Oído", "Gusto"],
+      "correctAnswer": 0,
+      "explanation": "El olfato de los tiburones es extremadamente agudo, permitiéndoles detectar pequeñas cantidades de sangre a gran distancia."
+    },
+    {
+      "question": "¿Qué región oceánica es la más profunda?",
+      "options": ["Fosa de las Marianas", "Gran Barrera de Coral", "Atlántico Sur", "Mediterráneo"],
+      "correctAnswer": 0,
+      "explanation": "La fosa de las Marianas es la región más profunda del océano, con unos 11.000 metros de profundidad."
+    },
+    {
+      "question": "¿Qué es la biodiversidad marina?",
+      "options": ["Variedad de especies en los océanos", "Tipo de ola", "Corriente marina", "Cantidad de algas"],
+      "correctAnswer": 0,
+      "explanation": "La biodiversidad marina representa la variedad de especies que viven en los ecosistemas oceánicos."
+    },
+    {
+      "question": "¿Qué amenaza a los tiburones hoy en día?",
+      "options": ["Pesca excesiva", "Nieve", "Erupciones volcánicas", "Sequías"],
+      "correctAnswer": 0,
+      "explanation": "La pesca excesiva y el comercio de aletas son las principales amenazas para los tiburones."
+    },
+    {
+      "question": "¿Cuántos océanos hay en el planeta?",
+      "options": ["Cinco", "Dos", "Siete", "Cuatro"],
+      "correctAnswer": 0,
+      "explanation": "Existen cinco océanos principales: Pacífico, Atlántico, Índico, Antártico y Ártico."
+    },
+    {
+      "question": "¿Cuál es el tiburón vivo más grande?",
+      "options": ["Tiburón ballena", "Tiburón tigre", "Tiburón blanco", "Tiburón martillo"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón ballena es el pez más grande del mundo y puede superar los 12 metros de longitud."
+    }
+  ],
+  "3": [
+    {
+      "question": "¿Cuál es la función de las ampollas de Lorenzini en los tiburones?",
+      "options": ["Detectar campos eléctricos", "Respirar", "Proteger el cuerpo", "Ayudar a nadar"],
+      "correctAnswer": 0,
+      "explanation": "Las ampollas de Lorenzini son sensores que permiten a los tiburones detectar campos eléctricos emitidos por otros animales."
+    },
+    {
+      "question": "¿Cuál es el segundo océano más grande?",
+      "options": ["Atlántico", "Pacífico", "Índico", "Antártico"],
+      "correctAnswer": 0,
+      "explanation": "El océano Atlántico es el segundo más grande del planeta, después del Pacífico."
+    },
+    {
+      "question": "¿Qué tiburón es considerado el más peligroso para los humanos?",
+      "options": ["Tiburón blanco", "Tiburón zorro", "Tiburón ángel", "Tiburón toro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón blanco es el más asociado a ataques contra humanos, aunque estos eventos son raros."
+    },
+    {
+      "question": "¿Cuál es la mayor barrera de coral del mundo?",
+      "options": ["Gran Barrera de Coral", "Mar Rojo", "Arrecife de Abrolhos", "Polinesia"],
+      "correctAnswer": 0,
+      "explanation": "La Gran Barrera de Coral, en Australia, es el sistema arrecifal más grande del mundo."
+    },
+    {
+      "question": "¿Cuántas branquias tienen la mayoría de los tiburones?",
+      "options": ["5", "2", "8", "10"],
+      "correctAnswer": 0,
+      "explanation": "La mayoría de los tiburones tienen cinco pares de hendiduras branquiales para respirar."
+    },
+    {
+      "question": "¿En qué sistema ayudan los tiburones a mantener el equilibrio?",
+      "options": ["Ecosistema marino", "Terrestre", "Polar", "Desértico"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones, como superdepredadores, ayudan a equilibrar los ecosistemas marinos controlando poblaciones de otras especies."
+    },
+    {
+      "question": "¿Cuál de estos animales no es marino?",
+      "options": ["Jirafa", "Ballena", "Tiburón", "Pulpo"],
+      "correctAnswer": 0,
+      "explanation": "La jirafa es un animal terrestre y no habita en ambientes marinos."
+    },
+    {
+      "question": "¿Qué son las corrientes marinas?",
+      "options": ["Movimiento del agua del mar", "Cadena alimenticia", "Especie de alga", "Marea baja"],
+      "correctAnswer": 0,
+      "explanation": "Las corrientes marinas son flujos continuos de agua que se mueven a través de los océanos."
+    },
+    {
+      "question": "¿Qué tiburón es conocido por saltar fuera del agua?",
+      "options": ["Tiburón blanco", "Tiburón zorro", "Tiburón azul", "Tiburón tigre"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón blanco es conocido por saltar fuera del agua durante ataques a presas."
+    },
+    {
+      "question": "¿Qué es la contaminación marina?",
+      "options": ["Residuos en el océano", "Movimiento de las olas", "Exploración submarina", "Pesca sostenible"],
+      "correctAnswer": 0,
+      "explanation": "La contaminación marina es causada por la acumulación de residuos y sustancias tóxicas en los océanos."
+    }
+  ],
+  "4": [
+    {
+      "question": "¿Qué tiburón puede vivir tanto en agua salada como dulce?",
+      "options": ["Tiburón toro", "Tiburón blanco", "Tiburón zorro", "Tiburón martillo"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón toro puede sobrevivir en aguas saladas y dulces, e incluso se encuentra en ríos."
+    },
+    {
+      "question": "¿Qué océano rodea la Antártida?",
+      "options": ["Océano Antártico", "Atlántico", "Pacífico", "Índico"],
+      "correctAnswer": 0,
+      "explanation": "El océano Antártico rodea el continente helado y es el más recientemente reconocido oficialmente."
+    },
+    {
+      "question": "¿Qué es un arrecife de coral?",
+      "options": ["Estructura formada por corales calcáreos", "Montaña sumergida", "Tipo de alga", "Isla volcánica"],
+      "correctAnswer": 0,
+      "explanation": "Los arrecifes de coral son formaciones construidas por corales que albergan gran biodiversidad marina."
+    },
+    {
+      "question": "¿Qué animal es depredador tope junto con los tiburones?",
+      "options": ["Orca", "Calamar gigante", "Caballo de mar", "Delfín"],
+      "correctAnswer": 0,
+      "explanation": "La orca, al igual que los tiburones, es un depredador tope que controla el equilibrio marino."
+    },
+    {
+      "question": "¿Cómo flotan los tiburones sin vejiga natatoria?",
+      "options": ["Hígado graso y oleoso", "Branquias extra", "Burbujas de aire", "Escamas rígidas"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones usan un hígado grande y graso que les ayuda a flotar sin necesidad de vejiga natatoria."
+    },
+    {
+      "question": "¿Qué corriente oceánica calienta Europa?",
+      "options": ["Corriente del Golfo", "Corriente de Humboldt", "Corriente de Canarias", "Corriente de Brasil"],
+      "correctAnswer": 0,
+      "explanation": "La corriente del Golfo transporta aguas cálidas desde el golfo de México hacia el norte de Europa, influyendo en el clima."
+    },
+    {
+      "question": "¿Qué tiburón es conocido por su patrón de rayas?",
+      "options": ["Tiburón tigre", "Tiburón martillo", "Tiburón azul", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón tigre recibe su nombre por las rayas oscuras en su cuerpo, similares a las de un tigre."
+    },
+    {
+      "question": "¿Cuál es el nombre de la cadena montañosa submarina más grande?",
+      "options": ["Dorsal mesoatlántica", "Himalaya sumergido", "Andes marinos", "Cresta pacífica"],
+      "correctAnswer": 0,
+      "explanation": "La dorsal mesoatlántica es la cadena montañosa submarina más grande, extendiéndose por todo el Atlántico."
+    },
+    {
+      "question": "¿Qué proporcionan los arrecifes de coral a los océanos?",
+      "options": ["Refugio y biodiversidad", "Petróleo", "Hielo", "Mareas"],
+      "correctAnswer": 0,
+      "explanation": "Los arrecifes de coral proporcionan refugio y alimento a miles de especies marinas."
+    },
+    {
+      "question": "¿Qué es la sobrepesca?",
+      "options": ["Captura excesiva de peces", "Pescar solo en ríos", "Criar peces en cautividad", "Pesca sostenible"],
+      "correctAnswer": 0,
+      "explanation": "La sobrepesca ocurre cuando se capturan más peces de los que pueden reproducirse."
+    }
+  ],
+  "5": [
+    {
+      "question": "¿Cuál es el tiburón más rápido del mundo?",
+      "options": ["Mako", "Tiburón tigre", "Tiburón blanco", "Tiburón martillo"],
+      "correctAnswer": 0,
+      "explanation": "El mako puede alcanzar velocidades de hasta 70 km/h en distancias cortas, siendo el tiburón más rápido."
+    },
+    {
+      "question": "¿Dónde está el triángulo de coral, considerado un hotspot de biodiversidad?",
+      "options": ["Asia Sudoriental", "Caribe", "Atlántico Norte", "Mediterráneo"],
+      "correctAnswer": 0,
+      "explanation": "El triángulo de coral está en Asia Sudoriental y alberga la mayor diversidad de corales del planeta."
+    },
+    {
+      "question": "¿Cuál es el pez más grande del mundo?",
+      "options": ["Tiburón ballena", "Ballena azul", "Atún rojo", "Pez luna"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón ballena es el pez más grande del mundo y puede superar los 12 metros de longitud."
+    },
+    {
+      "question": "¿Cómo se reproducen los tiburones?",
+      "options": ["Ovíparos y vivíparos (según la especie)", "Solo ovíparos", "Solo vivíparos", "Solo por gemación"],
+      "correctAnswer": 0,
+      "explanation": "Según la especie, los tiburones pueden ser ovíparos (poner huevos) o vivíparos (dar a luz crías vivas)."
+    },
+    {
+      "question": "¿Cuál de estos animales no es un tiburón?",
+      "options": ["Raya", "Tiburón azul", "Tiburón ángel", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "La raya es un pez cartilaginoso, pero no es un tiburón, aunque pertenece al mismo grupo de los condrictios."
+    },
+    {
+      "question": "¿Qué son los manglares?",
+      "options": ["Ecosistemas costeros entre río y mar", "Arrecifes profundos", "Desiertos salinos", "Rocas volcánicas"],
+      "correctAnswer": 0,
+      "explanation": "Los manglares son zonas de transición entre agua dulce y salada, importantes para la reproducción de muchas especies."
+    },
+    {
+      "question": "¿Qué tiburón es conocido por cazar de noche y de forma furtiva?",
+      "options": ["Tiburón tigre", "Mako", "Tiburón zorro", "Tiburón ballena"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón tigre caza de noche y es conocido por atacar varios tipos de presas de forma sigilosa."
+    },
+    {
+      "question": "¿Qué es la ZEE (Zona Económica Exclusiva)?",
+      "options": ["Zona marina donde un país tiene derechos de explotación", "Agua internacional", "Región polar", "Zona deshabitada"],
+      "correctAnswer": 0,
+      "explanation": "La ZEE se extiende hasta 200 millas náuticas de la costa, donde un país tiene derechos sobre los recursos marinos."
+    },
+    {
+      "question": "¿Cuál es el nombre del movimiento de ida y vuelta del agua del mar?",
+      "options": ["Mareas", "Olas", "Corrientes", "Ciclones"],
+      "correctAnswer": 0,
+      "explanation": "Las mareas son causadas por la atracción gravitacional del Sol y la Luna sobre los océanos."
+    },
+    {
+      "question": "¿Cuál es el papel de los tiburones en el ecosistema?",
+      "options": ["Controlar poblaciones y mantener el equilibrio ecológico", "Producir oxígeno", "Formar arrecifes", "Filtrar agua"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones regulan las poblaciones de otras especies, manteniendo así el equilibrio ecológico de los océanos."
+    }
+  ],
+  "6": [
+    {
+      "question": "¿Cuál es el nombre de la ciencia que estudia los océanos?",
+      "options": ["Oceanografía", "Geología", "Meteorología", "Ecología"],
+      "correctAnswer": 0,
+      "explanation": "La oceanografía estudia los océanos, incluyendo sus características físicas, químicas y biológicas."
+    },
+    {
+      "question": "¿Qué tiburón usa su larga cola para cazar?",
+      "options": ["Tiburón zorro", "Mako", "Tiburón blanco", "Tiburón tigre"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón zorro golpea los bancos de peces con su larga cola para aturdirlos antes de capturarlos."
+    },
+    {
+      "question": "¿Qué es una cadena alimenticia marina?",
+      "options": ["Secuencia de organismos que se alimentan unos de otros", "Corriente marina", "Formación de algas", "Ciclo de mareas"],
+      "correctAnswer": 0,
+      "explanation": "La cadena alimenticia marina representa el flujo de energía entre organismos, desde productores hasta depredadores."
+    },
+    {
+      "question": "¿Qué océano bordea la costa oeste de Sudamérica?",
+      "options": ["Pacífico", "Atlántico", "Índico", "Antártico"],
+      "correctAnswer": 0,
+      "explanation": "El océano Pacífico bordea la costa oeste de Sudamérica, incluyendo Chile y Perú."
+    },
+    {
+      "question": "¿Cuál es el nombre de la capa superior del océano donde hay luz?",
+      "options": ["Zona fótica", "Zona abisal", "Zona hadal", "Zona oscura"],
+      "correctAnswer": 0,
+      "explanation": "La zona fótica es la capa donde penetra la luz solar, permitiendo la fotosíntesis."
+    },
+    {
+      "question": "¿Qué tiburón vive en aguas profundas?",
+      "options": ["Tiburón duende", "Tiburón tigre", "Tiburón azul", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón duende es una especie rara que habita en aguas profundas y tiene un hocico largo."
+    },
+    {
+      "question": "¿Qué es la acidificación de los océanos?",
+      "options": ["Aumento de acidez por CO₂", "Disminución de salinidad", "Formación de arrecifes", "Enfriamiento global"],
+      "correctAnswer": 0,
+      "explanation": "La acidificación ocurre cuando el CO₂ disuelto en el agua aumenta, reduciendo el pH y dañando la vida marina."
+    },
+    {
+      "question": "¿Cuál es el principal gas disuelto necesario para la vida marina?",
+      "options": ["Oxígeno", "Nitrógeno", "Hidrógeno", "Dióxido de carbono"],
+      "correctAnswer": 0,
+      "explanation": "El oxígeno disuelto es esencial para la respiración de los organismos marinos."
+    },
+    {
+      "question": "¿Cuál es el tiburón más antiguo que aún vive?",
+      "options": ["Tiburón de Groenlandia", "Tiburón blanco", "Tiburón martillo", "Tiburón tigre"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón de Groenlandia puede vivir más de 400 años, siendo el vertebrado más longevo conocido."
+    },
+    {
+      "question": "¿Qué es el fitoplancton?",
+      "options": ["Plantas microscópicas flotantes", "Peces jóvenes", "Crustáceos", "Algas fijas"],
+      "correctAnswer": 0,
+      "explanation": "El fitoplancton está compuesto por organismos microscópicos fotosintéticos que producen oxígeno y sustentan la cadena alimenticia marina."
+    }
+  ],
+  "7": [
+    {
+      "question": "¿Qué tiburón es considerado prehistórico?",
+      "options": ["Tiburón serpiente", "Mako", "Tiburón tigre", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón serpiente tiene un cuerpo alargado y características primitivas, recordando a especies prehistóricas."
+    },
+    {
+      "question": "¿Qué océano tiene la mayor profundidad promedio?",
+      "options": ["Pacífico", "Atlántico", "Índico", "Antártico"],
+      "correctAnswer": 0,
+      "explanation": "El océano Pacífico es el más profundo y posee las fosas oceánicas más conocidas."
+    },
+    {
+      "question": "¿Cuál es la principal fuente de alimento de los arrecifes de coral?",
+      "options": ["Zooxantelas (algas simbióticas)", "Plancton", "Peces pequeños", "Crustáceos"],
+      "correctAnswer": 0,
+      "explanation": "Las zooxantelas viven dentro de los corales y producen alimento mediante fotosíntesis, sustentando el arrecife."
+    },
+    {
+      "question": "¿Qué fenómeno afecta las temperaturas del Pacífico y el clima global?",
+      "options": ["El Niño", "Efecto invernadero", "Ciclón tropical", "Corriente fría"],
+      "correctAnswer": 0,
+      "explanation": "El Niño altera las corrientes del Pacífico e influye en el clima de varias partes del mundo."
+    },
+    {
+      "question": "¿Cuál es la principal característica de las rayas?",
+      "options": ["Cuerpo aplanado y aletas en forma de alas", "Cuerpo cilíndrico", "Escamas óseas", "Piel con pelos"],
+      "correctAnswer": 0,
+      "explanation": "Las rayas tienen un cuerpo aplanado y aletas anchas que parecen alas, permitiéndoles deslizarse sobre el fondo marino."
+    },
+    {
+      "question": "¿Qué causa las olas en el océano?",
+      "options": ["Viento", "Gravedad lunar", "Corrientes frías", "Mareas"],
+      "correctAnswer": 0,
+      "explanation": "Las olas se forman principalmente por la acción del viento sobre la superficie del mar."
+    },
+    {
+      "question": "¿Cuál es el nombre de la capa más profunda del océano?",
+      "options": ["Zona hadal", "Zona fótica", "Zona abisal", "Zona mesopelágica"],
+      "correctAnswer": 0,
+      "explanation": "La zona hadal es la más profunda, encontrada en las fosas oceánicas."
+    },
+    {
+      "question": "¿Cómo detectan los tiburones a sus presas?",
+      "options": ["Campos eléctricos, vibraciones y olfato", "Sonido y vista", "Gusto y calor", "Luz y eco"],
+      "correctAnswer": 0,
+      "explanation": "Los tiburones utilizan receptores eléctricos, olfato agudo y detección de vibraciones para localizar presas."
+    },
+    {
+      "question": "¿Cuál es el principal componente de la sal marina?",
+      "options": ["Cloruro de sodio", "Magnesio", "Calcio", "Hierro"],
+      "correctAnswer": 0,
+      "explanation": "La sal marina está compuesta principalmente por cloruro de sodio (NaCl), la misma sal que usamos en la alimentación."
+    },
+    {
+      "question": "¿Qué tiburón caza en grupo?",
+      "options": ["Tiburón azul", "Tiburón cabeza plana", "Tiburón toro", "Tiburón blanco"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón azul suele formar grupos para cazar bancos de peces y protegerse de depredadores más grandes."
+    }
+  ],
+  "8": [
+    {
+      "question": "¿Qué diferencia a un pez óseo de uno cartilaginoso?",
+      "options": ["Tipo de esqueleto", "Tamaño de las aletas", "Presencia de pulmones", "Color de la piel"],
+      "correctAnswer": 0,
+      "explanation": "Los peces óseos tienen esqueleto de huesos, mientras que los cartilaginosos como los tiburones tienen esqueleto de cartílago."
+    },
+    {
+      "question": "¿Qué tiburón tiene una mordida extremadamente potente y dientes dentados?",
+      "options": ["Tiburón blanco", "Tiburón zorro", "Tiburón martillo", "Tiburón tigre"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón blanco posee dientes dentados y una de las mordidas más potentes del reino animal."
+    },
+    {
+      "question": "¿Qué fenómeno es causado por la diferencia de densidad entre agua salada y dulce?",
+      "options": ["Circulación termohalina", "Olas", "Mareas", "Acidificación"],
+      "correctAnswer": 0,
+      "explanation": "La circulación termohalina es causada por diferencias de temperatura y salinidad del agua, moviendo corrientes profundas."
+    },
+    {
+      "question": "¿Qué es la bioluminiscencia marina?",
+      "options": ["Producción de luz por organismos marinos", "Reflejo del sol en el mar", "Luces artificiales submarinas", "Fosforescencia de la sal"],
+      "correctAnswer": 0,
+      "explanation": "La bioluminiscencia es la capacidad de ciertos organismos de producir luz mediante reacciones químicas en su cuerpo."
+    },
+    {
+      "question": "¿Cuál es el principal combustible fósil extraído del fondo del mar?",
+      "options": ["Petróleo", "Carbón", "Gas natural", "Esquisto"],
+      "correctAnswer": 0,
+      "explanation": "El petróleo es el principal combustible fósil extraído de reservas ubicadas bajo el fondo marino."
+    },
+    {
+      "question": "¿Qué tiburón tiene forma de sierra y hocico alargado?",
+      "options": ["Tiburón sierra", "Tiburón tigre", "Mako", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón sierra utiliza su largo hocico dentado para cortar y capturar presas."
+    },
+    {
+      "question": "¿En qué región oceánica vive la mayoría de las especies conocidas?",
+      "options": ["Zonas costeras", "Fondo marino", "Fosas abisales", "Aguas polares"],
+      "correctAnswer": 0,
+      "explanation": "Las zonas costeras albergan la mayor biodiversidad debido a la luz solar y la abundancia de nutrientes."
+    },
+    {
+      "question": "¿Qué es un estuario?",
+      "options": ["Encuentro entre río y mar", "Lago profundo", "Canal subterráneo", "Arrecife coralino"],
+      "correctAnswer": 0,
+      "explanation": "Un estuario es una zona donde el agua dulce de los ríos se mezcla con el agua salada del mar."
+    },
+    {
+      "question": "¿Qué tiburón vive en las aguas frías del Ártico?",
+      "options": ["Tiburón de Groenlandia", "Mako", "Tiburón tigre", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón de Groenlandia habita en aguas heladas del norte y es conocido por su excepcional longevidad."
+    },
+    {
+      "question": "¿Qué proceso produce oxígeno en los océanos?",
+      "options": ["Fotosíntesis del fitoplancton", "Evaporación del agua", "Ciclo de mareas", "Movimiento de corrientes"],
+      "correctAnswer": 0,
+      "explanation": "El fitoplancton realiza fotosíntesis y produce una gran parte del oxígeno atmosférico."
+    }
+  ],
+  "9": [
+    {
+      "question": "¿Qué tiburón es conocido como el 'gigante amable'?",
+      "options": ["Tiburón ballena", "Tiburón blanco", "Tiburón tigre", "Tiburón azul"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón ballena es el pez más grande del mundo y se alimenta suavemente de plancton, de ahí su apodo de 'gigante amable'."
+    },
+    {
+      "question": "¿Qué es el Mar Muerto?",
+      "options": ["Lago hipersalino", "Océano congelado", "Golfo marino", "Bahía tropical"],
+      "correctAnswer": 0,
+      "explanation": "El Mar Muerto es un lago con una concentración extremadamente alta de sal, lo que impide la vida de peces y plantas."
+    },
+    {
+      "question": "¿Cuál es la principal causa del blanqueamiento de corales?",
+      "options": ["Aumento de la temperatura del agua", "Aumento de la salinidad", "Reducción de CO₂", "Acción de las mareas"],
+      "correctAnswer": 0,
+      "explanation": "El aumento de la temperatura del agua hace que los corales expulsen sus algas simbióticas, perdiendo color y vitalidad."
+    },
+    {
+      "question": "¿Qué tiburón es aplanado y vive generalmente en el fondo marino?",
+      "options": ["Tiburón ángel", "Tiburón toro", "Tiburón tigre", "Tiburón azul"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón ángel tiene un cuerpo aplanado y se esconde en la arena para sorprender a sus presas."
+    },
+    {
+      "question": "¿Cuál es el nombre de la zona donde el sol nunca penetra en el océano?",
+      "options": ["Zona abisal", "Zona fótica", "Zona mesopelágica", "Zona costera"],
+      "correctAnswer": 0,
+      "explanation": "La zona abisal es tan profunda que no llega luz solar; está permanentemente oscura."
+    },
+    {
+      "question": "¿Qué es el fitoplancton?",
+      "options": ["Plantas microscópicas flotantes", "Peces jóvenes", "Crustáceos", "Algas fijas"],
+      "correctAnswer": 0,
+      "explanation": "El fitoplancton está compuesto por organismos microscópicos fotosintéticos que producen oxígeno y sustentan la cadena alimenticia marina."
+    },
+    {
+      "question": "¿Cuál es el océano más frío del planeta?",
+      "options": ["Océano Antártico", "Ártico", "Pacífico", "Atlántico"],
+      "correctAnswer": 1,
+      "explanation": "El océano Antártico es el más frío debido a su ubicación alrededor del polo Sur y la presencia de hielo permanente."
+    },
+    {
+      "question": "¿Qué tiburón es conocido por migrar largas distancias?",
+      "options": ["Tiburón azul", "Tiburón zorro", "Tiburón toro", "Tiburón martillo"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón azul es conocido por realizar migraciones oceánicas que cruzan continentes."
+    },
+    {
+      "question": "¿Qué es el afloramiento (upwelling)?",
+      "options": ["Ascenso de aguas frías y ricas en nutrientes", "Descenso de aguas cálidas", "Movimiento de mareas", "Mezcla de aguas polares"],
+      "correctAnswer": 0,
+      "explanation": "El afloramiento es el ascenso de aguas profundas frías que aportan nutrientes y alimentan al plancton."
+    },
+    {
+      "question": "¿Cuál es el principal impacto del plástico en los océanos?",
+      "options": ["Contaminación y muerte de animales marinos", "Formación de arrecifes", "Aumento de salinidad", "Enfriamiento del agua"],
+      "correctAnswer": 0,
+      "explanation": "El plástico contamina los océanos, es ingerido por animales marinos y causa graves daños a la fauna oceánica."
+    }
+  ],
+  "10": [
+    {
+      "question": "¿Qué tiburón es conocido por comportamiento caníbal en el útero?",
+      "options": ["Tiburón toro", "Mako", "Tiburón tigre", "Tiburón azul"],
+      "correctAnswer": 0,
+      "explanation": "Los embriones de tiburón toro se comen a sus hermanos más pequeños en el útero antes de nacer."
+    },
+    {
+      "question": "¿Qué es la corriente de Humboldt?",
+      "options": ["Corriente fría que bordea la costa oeste de Sudamérica", "Corriente cálida del Atlántico Norte", "Flujo del Caribe", "Corriente polar del Ártico"],
+      "correctAnswer": 0,
+      "explanation": "La corriente de Humboldt trae aguas frías y ricas en nutrientes a las costas de Chile y Perú, influyendo en el clima y la pesca."
+    },
+    {
+      "question": "¿Cuál es el nombre del fenómeno opuesto a El Niño?",
+      "options": ["La Niña", "El Fuego", "El Sur", "El Calor"],
+      "correctAnswer": 0,
+      "explanation": "La Niña es el fenómeno opuesto a El Niño, caracterizado por el enfriamiento de las aguas del Pacífico ecuatorial."
+    },
+    {
+      "question": "¿Qué tiburón es considerado el más agresivo?",
+      "options": ["Tiburón toro", "Tiburón blanco", "Tiburón martillo", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón toro es considerado el más agresivo por su comportamiento territorial y presencia en aguas poco profundas."
+    },
+    {
+      "question": "¿Qué es la zona bentónica?",
+      "options": ["Región del fondo marino", "Agua superficial", "Capa de luz", "Capa de hielo"],
+      "correctAnswer": 0,
+      "explanation": "La zona bentónica es el fondo del océano, donde viven organismos adaptados a la poca luz."
+    },
+    {
+      "question": "¿Qué tiburón tiene una cola en forma de sierra y hocico alargado?",
+      "options": ["Tiburón sierra", "Tiburón tigre", "Mako", "Tiburón zorro"],
+      "correctAnswer": 0,
+      "explanation": "El tiburón sierra utiliza su largo hocico dentado para cortar y capturar presas."
+    },
+    {
+      "question": "¿Qué son los desechos marinos?",
+      "options": ["Desechos sólidos arrojados al océano", "Arena marina", "Escombros naturales", "Rocas sumergidas"],
+      "correctAnswer": 0,
+      "explanation": "Los desechos marinos son residuos sólidos como plásticos y metales que contaminan el ambiente acuático."
+    },
+    {
+      "question": "¿Cuál es el nombre de la zona más profunda del océano?",
+      "options": ["Fosa oceánica", "Arrecife", "Cima submarina", "Cañón costero"],
+      "correctAnswer": 0,
+      "explanation": "Las fosas oceánicas son las zonas más profundas de los océanos y pueden superar los 11.000 metros."
+    },
+    {
+      "question": "¿Qué tiburón caza presas más grandes que él?",
+      "options": ["Mako", "Tiburón zorro", "Tiburón ballena", "Tiburón sierra"],
+      "correctAnswer": 0,
+      "explanation": "El mako es tan rápido y ágil que puede capturar presas más grandes, como atunes y peces espada."
+    },
+    {
+      "question": "¿Por qué los océanos son esenciales para la vida en la Tierra?",
+      "options": ["Producen oxígeno, regulan el clima y sustentan ecosistemas", "Solo son reservas de agua", "Almacenan calor", "Solo sirven para transporte marítimo"],
+      "correctAnswer": 0,
+      "explanation": "Los océanos producen gran parte del oxígeno mundial, regulan el clima y albergan la mayoría de las especies conocidas."
+    }
+  ]
+}

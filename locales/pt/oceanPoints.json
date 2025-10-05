@@ -1,0 +1,382 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "Cabo Cod e Outer Cape, EUA",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "Corredor sazonal de tubarões-brancos ao longo de frentes costeiras dinâmicas na fronteira da Corrente do Golfo.",
+      "environment": "Quebra da plataforma continental, fortes gradientes térmicos e frontais, mistura de águas frias e quentes, colônias de focas próximas.",
+      "ecosystem": "Zona costeira temperada com ressurgência e recorrentes florações de plâncton.",
+      "species": ["Tubarão-branco", "Tubarão-azul", "Tubarão-mako", "Tubarão-sardo", "Cação-espinhoso (presa base)"],
+      "recentEvents": "Estudos recentes via satélite mostram filamentos frontais nítidos ao longo da plataforma, coincidindo com áreas de caça e rotas de patrulha dos tubarões-brancos.",
+      "measurements": ["Clorofila-a e Kd(490) (MODIS)", "Gradientes e frentes de altura do mar (SWOT)", "Assinaturas hiperespectrais da comunidade fitoplanctônica (PACE)"],
+      "links": {
+        "modis": "https://www.nps.gov/caco/learn/nature/results-of-partial-tidal-restoration.htm?utm_source=chatgpt.com"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "Bimini, Bahamas",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "Transição entre lagoas rasas e taludes profundos em águas claras; área-chave para juvenis e predadores pelágicos.",
+      "environment": "Recifes de corais, manguezais, bordas da plataforma e águas de alta transparência.",
+      "ecosystem": "Interface recifal-pelágica com habitats de berçário.",
+      "species": ["Tubarão-limão", "Tubarão-tigre", "Tubarão-martelo", "Tubarão-galha-branca oceânico", "Tubarão-galha-preta"],
+      "recentEvents": "Pesquisas com marcação acústica mostram fidelidade de tubarões-limão a declives da plataforma; imagens MODIS revelam pulsos de produtividade ligados à disponibilidade de presas.",
+      "measurements": ["Reflectância espectral e sinal de recife (PACE)", "Variações locais de altura do mar e correntes de talude (SWOT)", "Gradientes de clorofila e turbidez (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "Golfo do México – Pluma do Mississippi",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "Pluma rica em nutrientes que sustenta elevada produtividade e cadeias tróficas costeiras e pelágicas.",
+      "environment": "Pluma turva e salobra sobre a plataforma; hipoxia sazonal; variação no fluxo do rio.",
+      "ecosystem": "Zona de mistura estuarina-plataforma, transição para o pelágico aberto.",
+      "species": ["Cabeça-chata", "Tubarão-tigre", "Martelo-liso", "Lixa", "Galha-preta"],
+      "recentEvents": "Picos de clorofila observados após fortes chuvas coincidiram com aumento de juvenis de tubarão em áreas costeiras.",
+      "measurements": ["Clorofila-a e CDOM (MODIS)", "Frentes e redemoinhos de mesoescala (SWOT)", "Composição e propriedades ópticas do fitoplâncton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "Arquipélago de Revillagigedo, México",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "Ilhas oceânicas remotas com ressurgência e redemoinhos que concentram presas e grandes predadores.",
+      "environment": "Sombra de ilhas, taludes abissais, campos de redemoinhos e montes submarinos vulcânicos.",
+      "ecosystem": "Hotspot pelágico de ilhas oceânicas.",
+      "species": ["Martelo-gigante", "Tigre", "Galha-branca oceânico", "Sedoso", "Galápagos"],
+      "recentEvents": "Mapas de altimetria revelam trajetórias persistentes de redemoinhos e convergências que coincidem com rotas migratórias de tubarões.",
+      "measurements": ["Energia cinética de redemoinhos (SWOT)", "Pulsos de clorofila e bordas de floração (MODIS)", "Variabilidade de pigmentos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "Ilhas Galápagos, Equador",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "Convergência das correntes de Humboldt e Equatorial cria pulsos de nutrientes e zonas de alta predação.",
+      "environment": "Ressurgência equatorial, redemoinhos e jatos de corrente entre ilhas.",
+      "ecosystem": "Hotspot pelágico equatorial com margens recifais e ilhas vulcânicas.",
+      "species": ["Martelo-gigante", "Galha-preta", "Sedoso", "Tubarão-de-Galápagos", "Tubarão-baleia (sazonal)"],
+      "recentEvents": "Frentes detectadas por SWOT coincidem com cardumes de martelos ao redor das plataformas insulares.",
+      "measurements": ["Dinâmica de florações e SST (MODIS)", "Eddies e frentes convergentes (SWOT)", "Mudanças na comunidade fitoplanctônica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "Ilha Cocos, Costa Rica",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "Importante ponto de migração para tubarões-martelo no Pacífico Tropical Oriental.",
+      "environment": "Recife oceânico, montes submarinos e forte termoclina ascendente.",
+      "ecosystem": "Reef oceânico com convergências pelágicas.",
+      "species": ["Martelo-gigante", "Martelo-entalhado", "Sedoso", "Galha-branca oceânico"],
+      "recentEvents": "Linhas de convergência mapeadas por SWOT coincidem com agregações sazonais de martelos.",
+      "measurements": ["Convergência e cisalhamento (SWOT)", "Produtividade e transparência (MODIS)", "Grupos pigmentares e fitoplâncton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "Grande Barreira de Corais, Austrália",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "Maior sistema recifal do planeta; berçário e área de caça de tubarões-de-recife e tigres.",
+      "environment": "Declives externos, correntes costeiras, influência de plumas fluviais.",
+      "ecosystem": "Plataforma recifal tropical com transição pelágica.",
+      "species": ["Tigre", "Recife-cinzento", "Galha-branca de recife", "Galha-branca oceânico"],
+      "recentEvents": "Plumas fluviais observadas por MODIS coincidem com maior atividade de predadores nos recifes externos.",
+      "measurements": ["Clorofila e plumas fluviais (MODIS)", "Correntes de talude e jatos costeiros (SWOT)", "Assinaturas ópticas do recife (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "Recife Ningaloo, Austrália Ocidental",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "Recife franjado influenciado pela Corrente de Leeuwin; abriga agregações sazonais de tubarões-baleia.",
+      "environment": "Recife de margem, intrusões de corrente e circulação lagunar.",
+      "ecosystem": "Recife de coral influenciado por corrente de fronteira ocidental.",
+      "species": ["Tubarão-baleia", "Tubarão-tigre", "Recife-cinzento", "Galha-preta de recife"],
+      "recentEvents": "Pulsos sazonais de clorofila observados por MODIS correlacionam-se com registros de tubarões-baleia.",
+      "measurements": ["Clorofila e transparência (MODIS)", "Variabilidade da corrente (SWOT)", "Tipos de água e grupos fitoplanctônicos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "Raja Ampat, Indonésia",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "Hotspot global de biodiversidade marinha, com canais estreitos e marés intensas que concentraram presas.",
+      "environment": "Passagens entre ilhas, marés internas e misturas de mar profundo.",
+      "ecosystem": "Arquipélago recifal com intensa troca laguna-mar aberto.",
+      "species": ["Recife-cinzento", "Galha-preta", "Galha-branca", "Martelo-entalhado (ocasional)"],
+      "recentEvents": "Assinaturas altimétricas de marés internas coincidem com maior atividade de predadores recifais.",
+      "measurements": ["Fluxos e convergências (SWOT)", "Clorofila costeira e turbidez (MODIS)", "Diversidade óptica do recife (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "Palau, Pacífico Ocidental",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "Cadeia recifal oceânica influenciada por frentes de mesoescala e intensa biodiversidade coralina.",
+      "environment": "Canais de passagem, paredes externas, zonas de convergência.",
+      "ecosystem": "Interface recifal-pelágica com forte troca de águas.",
+      "species": ["Galha-branca oceânico", "Sedoso", "Recife-cinzento", "Galha-preta de recife"],
+      "recentEvents": "Linhas de convergência observadas por SWOT coincidem com agregações de presas e predadores.",
+      "measurements": ["Frentes e gradientes SSH (SWOT)", "Clorofila nas bordas do recife (MODIS)", "Diversidade óptica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "Fiji – Beqa / Viti Levu",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "Plataformas recifais com alta produtividade influenciada por correntes e entradas fluviais.",
+      "environment": "Passagens recifais, plumas costeiras e quebras de plataforma.",
+      "ecosystem": "Recifes tropicais de alta produtividade.",
+      "species": ["Tigre", "Recife-cinzento", "Galha-branca", "Cabeça-chata (costeiro)"],
+      "recentEvents": "Colorações de pluma detectadas por MODIS associadas a maior presença de predadores.",
+      "measurements": ["Clorofila e plumas (MODIS)", "Correntes costeiras (SWOT)", "Composição pigmentária (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "Baía Falsa, África do Sul",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "Região de ressurgência da Corrente de Benguela; habitat histórico de tubarões-brancos.",
+      "environment": "Filamentos frios ricos em nutrientes; colônias de focas e pinguins.",
+      "ecosystem": "Sistema de ressurgência de margem leste (Benguela).",
+      "species": ["Tubarão-branco", "Sete-guelras", "Tubarão-cobre"],
+      "recentEvents": "Frentes frias detectadas por MODIS associadas ao aumento de peixes-forrageiros e atividade de predadores.",
+      "measurements": ["Frentes e filamentos (MODIS)", "Estrutura altimétrica (SWOT)", "Grupos fitoplanctônicos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "Canal de Moçambique",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "Corredor rico em redemoinhos que transporta nutrientes e presas.",
+      "environment": "Correntes intensas, cânions e ilhas costeiras.",
+      "ecosystem": "Canal subtropical com produtividade induzida por redemoinhos.",
+      "species": ["Tubarão-touro", "Tigre", "Martelo-entalhado", "Sedoso"],
+      "recentEvents": "Sequência de redemoinhos detectada por SWOT coincide com aumento de clorofila e atividade pelágica.",
+      "measurements": ["Eddies e energia cinética (SWOT)", "Anomalias de clorofila (MODIS)", "Pigmentos e partículas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "Mar Vermelho – Irmãos / Daedalus",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "Recifes isolados com condições extremas de salinidade e temperatura; presença de galha-branca oceânico.",
+      "environment": "Recifes de mar aberto, profundidades intermediárias, baixo fluxo de nutrientes.",
+      "ecosystem": "Sistema coralino de águas quentes e salinas.",
+      "species": ["Galha-branca oceânico", "Galha-preta", "Recife-cinzento"],
+      "recentEvents": "Estudos recentes mostram aquecimento anômalo e branqueamento em recifes próximos.",
+      "measurements": ["Temperatura da superfície e fluorescência (MODIS)", "Altura do mar (SWOT)", "Mudança espectral (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "Socotra, Mar da Arábia",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "Ressurgência intensa durante as monções que alimenta grandes teias tróficas costeiras.",
+      "environment": "Margem íngreme com mistura de águas frias e quentes, monções sazonais.",
+      "ecosystem": "Sistema de ressurgência tropical costeira.",
+      "species": ["Martelo-gigante", "Tigre", "Sedoso", "Galha-preta"],
+      "recentEvents": "Observações SWOT mostram intensificação de correntes de monção e aumento de clorofila detectado por MODIS.",
+      "measurements": ["Anomalias de SST e clorofila (MODIS)", "Estrutura SSH (SWOT)", "Composição fitoplanctônica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "Senegal, África Ocidental",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "Margem atlântica tropical com forte influência da ressurgência de Cabo Verde.",
+      "environment": "Plataforma estreita, ressurgência costeira e alta atividade pesqueira.",
+      "ecosystem": "Margem tropical de alta produtividade.",
+      "species": ["Cabeça-chata", "Lixa", "Tigre", "Martelo-liso"],
+      "recentEvents": "Flutuações interanuais de produtividade observadas por MODIS associadas à pesca artesanal.",
+      "measurements": ["Produtividade e floração (MODIS)", "SSH e frentes costeiras (SWOT)", "Tipos fitoplanctônicos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "Costa do Japão",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "Zona de encontro entre as correntes Kuroshio e Oyashio, rica em biodiversidade e energia térmica.",
+      "environment": "Forte gradiente termal e turbulência associada a frentes oceânicas.",
+      "ecosystem": "Margem subpolar-temperada de alta produtividade.",
+      "species": ["Tubarão-azul", "Mako", "Martelo-liso", "Tubarão-porbeagle"],
+      "recentEvents": "SWOT detectou meandros persistentes na frente Kuroshio, correlacionando-se com rotas migratórias.",
+      "measurements": ["Frentes térmicas e SSH (SWOT)", "Clorofila e SST (MODIS)", "Comunidades fitoplanctônicas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "Maldivas, Oceano Índico Central",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "Arquipélago tropical com recifes de atóis e canais profundos; abrigo de várias espécies pelágicas.",
+      "environment": "Atóis e passagens profundas; mistura vertical por marés internas.",
+      "ecosystem": "Recifes oceânicos de alta biodiversidade.",
+      "species": ["Ponta-preta", "Tubarão-baleia", "Galha-preta", "Sedoso"],
+      "recentEvents": "PACE registrou mudanças ópticas sazonais associadas a florações planctônicas e agregações de tubarões-baleia.",
+      "measurements": ["Reflectância e Kd(490) (PACE)", "Anomalias SSH (SWOT)", "SST e plumas (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    },
+    {
+      "id": "19",
+      "name": "Costa Leste da Austrália",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "Zona costeira influenciada pela Corrente da Austrália Oriental; passagem de juvenis de tubarão-branco.",
+      "environment": "Plataforma larga e talude interno com ressurgência costeira.",
+      "ecosystem": "Margem temperada com habitats costeiros e pelágicos.",
+      "species": ["Tubarão-branco juvenil", "Bronzeado", "Tubarão-azul"],
+      "recentEvents": "Marcação via satélite confirmou rotas migratórias costeiras coincidentes com variações SST observadas por MODIS.",
+      "measurements": ["SST e turbidez (MODIS)", "SSH e frentes (SWOT)", "Composição pigmentar (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "20",
+      "name": "Costa Sul da Austrália",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "Águas temperadas ricas em nutrientes; habitat de adultos de tubarão-branco.",
+      "environment": "Correntes frias, alta produtividade e ressurgência costeira.",
+      "ecosystem": "Margem temperada com ecossistemas bentônicos produtivos.",
+      "species": ["Tubarão-branco", "Tubarão-azul", "Bronzeado"],
+      "recentEvents": "SWOT identificou anéis e redemoinhos costeiros que modulam a produtividade regional.",
+      "measurements": ["SSH e redemoinhos (SWOT)", "Clorofila (MODIS)", "Pigmentos e partículas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    }
+  ]
+}

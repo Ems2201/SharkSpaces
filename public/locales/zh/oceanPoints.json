@@ -1,0 +1,384 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "美国科德角及外海岸",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "大白鲨的重要季节性迁徙通道，由墨西哥湾暖流与北大西洋冷流交汇形成。",
+      "environment": "动态海洋锋区，富含营养盐与浮游生物。",
+      "ecosystem": "温带沿海生态系统。",
+      "species": ["大白鲨", "蓝鲨", "短鳍真鲛"],
+      "recentEvents": "2024年SWOT数据显示，锋区位置与鲨鱼聚集区域高度重合。",
+      "measurements": ["叶绿素浓度 (MODIS)", "海面高度 (SWOT)", "浮游植物组成 (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "巴哈马比米尼群岛",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "浅滩珊瑚海域，栖息着多种沿海鲨鱼。",
+      "environment": "清澈温暖的浅海珊瑚礁系统。",
+      "ecosystem": "热带珊瑚礁生态系统。",
+      "species": ["柠檬鲨", "虎鲨", "双髻鲨"],
+      "recentEvents": "2023年PACE观测到浮游植物增加，与鲨鱼活动峰值时间吻合。",
+      "measurements": ["PACE光谱数据", "SWOT海流结构", "MODIS叶绿素浓度"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "墨西哥湾 – 密西西比羽流区",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "高营养羽流形成食物链基础，吸引大型捕食者。",
+      "environment": "河口海域，富含营养物质。",
+      "ecosystem": "河口与陆架混合生态系统。",
+      "species": ["牛鲨", "虎鲨", "光滑双髻鲨"],
+      "recentEvents": "2025年MODIS检测到大规模浮游植物爆发，吸引远洋鲨鱼活动。",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "雷维利亚希赫多群岛（墨西哥）",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "远洋孤岛，环流与上升流汇聚区，猎物丰富。",
+      "environment": "强洋流火山岛区。",
+      "ecosystem": "热带远洋生态系统。",
+      "species": ["巨双髻鲨", "虎鲨", "远洋白鳍鲨"],
+      "recentEvents": "2024年SWOT揭示与鲨鱼迁徙路径匹配的环流特征。",
+      "measurements": ["SWOT", "PACE", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "加拉帕戈斯群岛（厄瓜多尔）",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "寒暖流交汇带，形成海洋生态热点。",
+      "environment": "洪堡洋流与赤道洋流交汇。",
+      "ecosystem": "热带上升流生态系统。",
+      "species": ["巨双髻鲨", "加拉帕戈斯鲨", "丝鲨"],
+      "recentEvents": "PACE检测到浮游植物多样性提升，与鲨鱼聚集区一致。",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "哥斯达黎加科科斯岛",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "鲨鱼迁徙走廊，连接东太平洋各大生态区。",
+      "environment": "火山岛链，海流湍急。",
+      "ecosystem": "远洋生态系统。",
+      "species": ["巨双髻鲨", "丝鲨", "远洋白鳍鲨"],
+      "recentEvents": "2024年SWOT数据显示环流与鲨鱼活动区吻合。",
+      "measurements": ["SWOT", "PACE", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "澳大利亚大堡礁",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "世界最大珊瑚礁系统，鲨鱼繁殖与育幼关键区。",
+      "environment": "清澈温暖的浅海珊瑚礁。",
+      "ecosystem": "热带珊瑚礁生态系统。",
+      "species": ["礁鲨", "虎鲨", "灰礁鲨"],
+      "recentEvents": "2024年PACE监测到白化事件后珊瑚恢复迹象。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "澳大利亚西部宁加卢礁",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "鲸鲨与虎鲨聚集区，季节性上升流提供丰富食物。",
+      "environment": "利文洋流带来暖水与营养盐。",
+      "ecosystem": "热带珊瑚礁生态系统。",
+      "species": ["鲸鲨", "虎鲨"],
+      "recentEvents": "2024年PACE光谱数据显示浮游生物峰值与鲸鲨聚集期一致。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "印度尼西亚拉贾安帕特群岛",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "世界海洋生物多样性最高的地区之一。",
+      "environment": "潮汐混合强烈，珊瑚礁密布。",
+      "ecosystem": "热带珊瑚礁生态系统。",
+      "species": ["灰礁鲨", "黑鳍鲨"],
+      "recentEvents": "SWOT观测揭示潮汐环流与高生物密度区一致。",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "帕劳群岛（西太平洋）",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "环礁与深水交界处的远洋鲨鱼栖息地。",
+      "environment": "强潮流、珊瑚礁与深水相邻。",
+      "ecosystem": "热带远洋生态系统。",
+      "species": ["远洋白鳍鲨", "丝鲨"],
+      "recentEvents": "2025年PACE显示海洋初级生产力上升。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "斐济 – 贝卡湾 / 维提岛",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "高生产力珊瑚礁，鲨鱼种类繁多。",
+      "environment": "潮汐混合强，水温稳定。",
+      "ecosystem": "热带岛屿生态系统。",
+      "species": ["虎鲨", "礁鲨", "白鳍鲨"],
+      "recentEvents": "2024年SWOT检测到海流能量增强与鲨鱼密度升高。",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "南非福尔斯湾",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "本格拉上升流区，大白鲨的重要栖息地。",
+      "environment": "寒冷富营养海域。",
+      "ecosystem": "温带上升流生态系统。",
+      "species": ["大白鲨", "铜鲨"],
+      "recentEvents": "2025年SWOT数据显示冷锋增强与捕食活动增加。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "莫桑比克海峡",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "环流与涡旋形成高生产力生态系统。",
+      "environment": "强洋流与涡旋区。",
+      "ecosystem": "亚热带沿海生态系统。",
+      "species": ["牛鲨", "虎鲨"],
+      "recentEvents": "SWOT揭示2025年强环流与鲨鱼分布扩张相关。",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "红海 – 布拉泽尔斯 / 代达罗斯礁",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "远洋白鳍鲨常见区域，盐度高、水体清澈。",
+      "environment": "高盐浅海珊瑚礁。",
+      "ecosystem": "干旱区热带珊瑚礁系统。",
+      "species": ["远洋白鳍鲨", "灰礁鲨"],
+      "recentEvents": "2024年MODIS观测到表层温度变化与鲨鱼活动相关。",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "索科特拉岛（阿拉伯海）",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "季风季节产生强烈上升流，是鲨鱼觅食热点。",
+      "environment": "高营养上升流海域。",
+      "ecosystem": "热带上升流系统。",
+      "species": ["巨双髻鲨", "虎鲨"],
+      "recentEvents": "2024年SWOT确认海流强度与鲨鱼迁徙时段吻合。",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "塞内加尔 – 西非沿岸",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "生产力极高的上升流区，但渔业压力大。",
+      "environment": "加那利寒流上升流。",
+      "ecosystem": "热带大陆架生态系统。",
+      "species": ["牛鲨", "护士鲨"],
+      "recentEvents": "2025年PACE观测到浮游植物群落变化与人类活动相关。",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "日本沿岸",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "黑潮与亲潮交汇区，鲨鱼迁徙走廊。",
+      "environment": "冷热水交汇锋区。",
+      "ecosystem": "温带混合海洋生态系统。",
+      "species": ["蓝鲨", "灰鲭鲨"],
+      "recentEvents": "2024年SWOT数据显示锋区北移影响鲨鱼分布。",
+      "measurements": ["PACE", "SWOT", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "澳大利亚东海岸",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "幼年大白鲨迁徙与觅食路线。",
+      "environment": "东澳大利亚暖流海域。",
+      "ecosystem": "温带沿海生态系统。",
+      "species": ["幼年大白鲨", "虎鲨"],
+      "recentEvents": "2025年SWOT发现沿岸上升流增强。",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "19",
+      "name": "澳大利亚南海岸",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "成体大白鲨繁殖区，温带营养丰富水域。",
+      "environment": "冷暖流混合水体。",
+      "ecosystem": "温带沿海生态系统。",
+      "species": ["大白鲨", "蓝鲨"],
+      "recentEvents": "2025年SWOT观测到繁殖季环流增强。",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    },
+    {
+      "id": "20",
+      "name": "马尔代夫（印度洋中部）",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "透明热带海域，鲨鱼种类繁多。",
+      "environment": "环礁系统与强潮流。",
+      "ecosystem": "热带外洋珊瑚礁生态系统。",
+      "species": ["黑鳍礁鲨", "鲸鲨", "灰礁鲨"],
+      "recentEvents": "2025年PACE观测到季风期间有机颗粒物增加。",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    }
+  ]
+}

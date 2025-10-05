@@ -1,0 +1,7 @@
+project_id = "xowheqntttladyiboeag"
+
+[functions.fetch-nasa-data]
+verify_jwt = false
+
+[functions.nasa-api]
+verify_jwt = false

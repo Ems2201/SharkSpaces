@@ -1,0 +1,384 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "Cabo Cod y Outer Cape, EE.UU.",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "Corredor estacional de tiburones blancos a lo largo de frentes costeros dinámicos en el borde de la Corriente del Golfo.",
+      "environment": "Ruptura de la plataforma continental, fuertes gradientes térmicos y frontales, mezcla de aguas frías y cálidas, colonias de focas cercanas.",
+      "ecosystem": "Zona costera templada con surgencias y floraciones recurrentes de plancton.",
+      "species": ["Tiburón blanco", "Tiburón azul", "Tiburón mako", "Tiburón sardo", "Cazón espinoso (presa base)"],
+      "recentEvents": "Estudios recientes por satélite muestran filamentos frontales definidos que coinciden con áreas de caza de tiburones blancos.",
+      "measurements": ["Clorofila-a y Kd(490) (MODIS)", "Gradientes y frentes de altura del mar (SWOT)", "Firmas hiperespectrales del fitoplancton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "Bimini, Bahamas",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "Transición entre lagunas poco profundas y taludes profundos en aguas claras; zona clave para juveniles y depredadores pelágicos.",
+      "environment": "Arrecifes de coral, manglares, bordes de plataforma y aguas de alta transparencia.",
+      "ecosystem": "Interfaz arrecifal-pelágica con hábitats de cría.",
+      "species": ["Tiburón limón", "Tiburón tigre", "Tiburón martillo", "Tiburón oceánico de punta blanca", "Tiburón de punta negra"],
+      "recentEvents": "Seguimientos acústicos muestran fidelidad de tiburones limón a los bordes de la plataforma; MODIS revela pulsos de productividad asociados a disponibilidad de presas.",
+      "measurements": ["Reflectancia espectral (PACE)", "Variaciones locales de altura del mar (SWOT)", "Gradientes de clorofila y turbidez (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "Golfo de México – Pluma del Mississippi",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "Pluma rica en nutrientes que sostiene alta productividad y redes tróficas costeras y pelágicas.",
+      "environment": "Aguas turbias y salobres sobre la plataforma; hipoxia estacional y variabilidad del flujo fluvial.",
+      "ecosystem": "Zona de mezcla estuarina-plataforma con transición al mar abierto.",
+      "species": ["Tiburón cabeza chata", "Tiburón tigre", "Tiburón martillo liso", "Tiburón nodriza", "Tiburón de punta negra"],
+      "recentEvents": "Picos de clorofila después de fuertes lluvias coincidieron con mayor presencia de juveniles en áreas costeras.",
+      "measurements": ["Clorofila-a y CDOM (MODIS)", "Frentes y remolinos de mesoescala (SWOT)", "Propiedades ópticas del fitoplancton (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "Archipiélago de Revillagigedo, México",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "Islas oceánicas con surgencias y remolinos que concentran presas y grandes depredadores.",
+      "environment": "Sombras de islas, taludes abisales y montes submarinos volcánicos.",
+      "ecosystem": "Hotspot pelágico de islas oceánicas.",
+      "species": ["Tiburón martillo gigante", "Tiburón tigre", "Tiburón oceánico de punta blanca", "Tiburón sedoso", "Tiburón de Galápagos"],
+      "recentEvents": "Altimetría satelital muestra trayectorias persistentes de remolinos coincidiendo con rutas migratorias de tiburones.",
+      "measurements": ["Energía cinética de remolinos (SWOT)", "Flujo de clorofila (MODIS)", "Variabilidad pigmentaria (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "Islas Galápagos, Ecuador",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "Convergencia de las corrientes de Humboldt y Ecuatorial que generan pulsos de nutrientes y alta depredación.",
+      "environment": "Surgencia ecuatorial, remolinos y chorros entre islas volcánicas.",
+      "ecosystem": "Hotspot pelágico ecuatorial con bordes arrecifales.",
+      "species": ["Tiburón martillo gigante", "Tiburón de punta negra", "Tiburón sedoso", "Tiburón de Galápagos", "Tiburón ballena (estacional)"],
+      "recentEvents": "Frentes detectados por SWOT coinciden con agregaciones de martillos alrededor de las islas.",
+      "measurements": ["Dinámica de floraciones (MODIS)", "Remolinos convergentes (SWOT)", "Comunidad fitoplanctónica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "Isla Cocos, Costa Rica",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "Punto de migración crucial para tiburones martillo en el Pacífico Tropical Oriental.",
+      "environment": "Arrecife oceánico, montes submarinos y termoclina ascendente.",
+      "ecosystem": "Reef oceánico con convergencias pelágicas.",
+      "species": ["Martillo gigante", "Martillo entallado", "Sedoso", "Oceánico de punta blanca"],
+      "recentEvents": "Líneas de convergencia mapeadas por SWOT coinciden con agregaciones estacionales.",
+      "measurements": ["Convergencia y cizalla (SWOT)", "Productividad (MODIS)", "Grupos pigmentarios (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "Gran Barrera de Coral, Australia",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "El sistema arrecifal más grande del mundo; hábitat y criadero de tiburones de arrecife y tigres.",
+      "environment": "Taludes externos, corrientes costeras e influencia de plumas fluviales.",
+      "ecosystem": "Plataforma tropical con transición pelágica.",
+      "species": ["Tigre", "Arrecife gris", "Punta blanca de arrecife", "Oceánico de punta blanca"],
+      "recentEvents": "Plumas fluviales observadas por MODIS correlacionadas con mayor actividad de depredadores.",
+      "measurements": ["Clorofila (MODIS)", "Corrientes costeras (SWOT)", "Firmas ópticas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "Arrecife Ningaloo, Australia Occidental",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "Arrecife costero influenciado por la Corriente de Leeuwin; alberga agregaciones de tiburones ballena.",
+      "environment": "Arrecife de borde, circulación lagunar e intrusiones de corriente.",
+      "ecosystem": "Arrecife coralino afectado por corriente de frontera occidental.",
+      "species": ["Tiburón ballena", "Tiburón tigre", "Arrecife gris", "Punta negra de arrecife"],
+      "recentEvents": "Pulsos de clorofila observados por MODIS coinciden con presencia de tiburones ballena.",
+      "measurements": ["Clorofila (MODIS)", "Variabilidad de corriente (SWOT)", "Tipos de agua (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "Raja Ampat, Indonesia",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "Hotspot global de biodiversidad marina con canales estrechos y mareas intensas que concentran presas.",
+      "environment": "Pasajes entre islas, mareas internas y mezcla vertical profunda.",
+      "ecosystem": "Arquipélago arrecifal con intercambio entre lagunas y mar abierto.",
+      "species": ["Arrecife gris", "Punta negra", "Punta blanca", "Martillo entallado (ocasional)"],
+      "recentEvents": "Altimetría muestra oscilaciones de marea interna correlacionadas con actividad de depredadores.",
+      "measurements": ["Flujos y convergencias (SWOT)", "Clorofila costera (MODIS)", "Diversidad óptica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "Palau, Pacífico Occidental",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "Cadena arrecifal oceánica influenciada por frentes de mesoescala y alta biodiversidad coralina.",
+      "environment": "Canales, paredes externas y zonas de convergencia.",
+      "ecosystem": "Interfaz arrecifal-pelágica con fuerte intercambio de aguas.",
+      "species": ["Oceánico de punta blanca", "Sedoso", "Arrecife gris", "Punta negra de arrecife"],
+      "recentEvents": "Líneas de convergencia detectadas por SWOT coinciden con agregaciones de presas y depredadores.",
+      "measurements": ["Frentes SSH (SWOT)", "Clorofila en bordes (MODIS)", "Diversidad óptica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "Fiyi – Beqa / Viti Levu",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "Plataformas arrecifales con corrientes intensas y alta productividad, hábitat de tiburones tigre y de arrecife.",
+      "environment": "Canales arrecifales, surgencias locales y alta mezcla vertical.",
+      "ecosystem": "Plataforma coralina tropical.",
+      "species": ["Tiburón tigre", "Tiburón de arrecife gris", "Tiburón de punta blanca"],
+      "recentEvents": "SWOT detectó estructuras de remolino cerca de Beqa que coinciden con agregaciones de presas.",
+      "measurements": ["Clorofila (MODIS)", "Estructuras SSH (SWOT)", "Propiedades ópticas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "Bahía Falsa, Sudáfrica",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "Zona costera templada influenciada por la Corriente de Benguela, conocida por tiburones blancos adultos.",
+      "environment": "Bahía protegida con fuerte gradiente térmico y afloramientos.",
+      "ecosystem": "Plataforma costera templada de alta productividad.",
+      "species": ["Tiburón blanco", "Tiburón cobre", "Tiburón azul"],
+      "recentEvents": "Estudios muestran cambios en la distribución del tiburón blanco tras la llegada de orcas predadoras.",
+      "measurements": ["Temperatura y clorofila (MODIS)", "Corrientes (SWOT)", "Composición de pigmentos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "Canal de Mozambique",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "Estructuras de remolino que alimentan ecosistemas costeros y pelágicos ricos en tiburones.",
+      "environment": "Corrientes turbulentas, borde de plataforma y surgencias locales.",
+      "ecosystem": "Sistema de frontera oeste de alta energía.",
+      "species": ["Tiburón toro", "Tiburón tigre", "Tiburón sedoso"],
+      "recentEvents": "Remolinos mapeados por SWOT vinculados a picos de clorofila y observaciones de tiburones tigre.",
+      "measurements": ["Energía SSH (SWOT)", "Productividad superficial (MODIS)", "Comunidad fitoplanctónica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "Mar Rojo – Hermanos / Daedalus",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "Arrecifes aislados con condiciones extremas de salinidad y temperatura; presencia del oceánico de punta blanca.",
+      "environment": "Arrecifes de mar abierto, baja circulación y aguas cálidas.",
+      "ecosystem": "Sistema coralino árido tropical.",
+      "species": ["Oceánico de punta blanca", "Arrecife gris", "Punta negra"],
+      "recentEvents": "PACE detectó patrones de blanqueamiento coralino relacionados con aumentos térmicos.",
+      "measurements": ["Temperatura (MODIS)", "Topografía SSH (SWOT)", "Espectros ópticos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "Socotra, Mar Arábigo",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "Afloramiento estacional intenso durante los monzones alimenta grandes cadenas tróficas.",
+      "environment": "Borde continental con mezcla de aguas frías y cálidas impulsada por monzones.",
+      "ecosystem": "Sistema tropical de surgencia costera.",
+      "species": ["Tiburón martillo gigante", "Tiburón tigre", "Tiburón sedoso"],
+      "recentEvents": "MODIS y SWOT revelaron intensificación de remolinos costeros durante el monzón de verano.",
+      "measurements": ["Anomalías SST (MODIS)", "Estructura SSH (SWOT)", "Composición óptica (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "Senegal, África Occidental",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "Zona tropical con fuerte surgencia de Cabo Verde, alta pesca artesanal y presencia de tiburones costeros.",
+      "environment": "Plataforma estrecha, aguas frías ascendentes y alto flujo trófico.",
+      "ecosystem": "Margen tropical productiva.",
+      "species": ["Tiburón cabeza chata", "Tiburón lija", "Tiburón tigre"],
+      "recentEvents": "MODIS muestra oscilaciones de productividad interanuales asociadas con intensificación de vientos alisios.",
+      "measurements": ["Flujo de clorofila (MODIS)", "Estructuras costeras (SWOT)", "Comunidades fitoplanctónicas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "Costa de Japón",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "Zona de encuentro entre las corrientes Kuroshio y Oyashio, con alta energía y diversidad biológica.",
+      "environment": "Frentes oceánicos, fuertes gradientes de temperatura y turbulencia.",
+      "ecosystem": "Margen subpolar-templada altamente productiva.",
+      "species": ["Tiburón azul", "Mako", "Martillo liso", "Porbeagle"],
+      "recentEvents": "SWOT detectó meandros persistentes en la corriente Kuroshio vinculados con rutas migratorias de tiburones.",
+      "measurements": ["Frentes SSH (SWOT)", "Temperatura y clorofila (MODIS)", "Comunidades fitoplanctónicas (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "Maldivas, Océano Índico Central",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "Atolones tropicales con alta diversidad de tiburones y fuertes mareas internas.",
+      "environment": "Atolones, canales profundos y mezcla vertical.",
+      "ecosystem": "Sistema coralino pelágico tropical.",
+      "species": ["Tiburón de punta negra", "Tiburón ballena", "Tiburón sedoso", "Punta blanca de arrecife"],
+      "recentEvents": "PACE registró cambios ópticos estacionales asociados con floraciones planctónicas y agregaciones de tiburones ballena.",
+      "measurements": ["Reflectancia (PACE)", "Anomalías SSH (SWOT)", "SST y plumas (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    },
+    {
+      "id": "19",
+      "name": "Costa Este de Australia",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "Zona influenciada por la Corriente de Australia Oriental; paso migratorio de juveniles de tiburón blanco.",
+      "environment": "Plataforma amplia, talud interior y surgencias costeras.",
+      "ecosystem": "Margen templado con hábitats costeros y pelágicos.",
+      "species": ["Tiburón blanco juvenil", "Tiburón azul", "Tiburón bronceado"],
+      "recentEvents": "Rastreo satelital confirmó rutas migratorias que coinciden con variaciones térmicas observadas por MODIS.",
+      "measurements": ["Temperatura (MODIS)", "SSH y frentes (SWOT)", "Pigmentos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "20",
+      "name": "Costa Sur de Australia",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "Aguas templadas y ricas en nutrientes, hábitat de tiburones blancos adultos.",
+      "environment": "Corrientes frías, alta productividad y afloramiento costero.",
+      "ecosystem": "Margen templado con ecosistemas bentónicos productivos.",
+      "species": ["Tiburón blanco", "Tiburón azul", "Tiburón bronceado"],
+      "recentEvents": "SWOT identificó remolinos costeros que modulan la productividad y distribución de presas.",
+      "measurements": ["SSH (SWOT)", "Clorofila (MODIS)", "Pigmentos (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    }
+  ]
+}

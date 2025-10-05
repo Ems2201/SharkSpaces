@@ -1,0 +1,908 @@
+{
+  "1": [
+    {
+      "question": "What is the main characteristic of sharks?",
+      "options": ["Cartilaginous fins", "Hard shell", "Legs", "Feathers"],
+      "correctAnswer": 0,
+      "explanation": "Sharks are cartilaginous fish, which means their skeletons are made of cartilage instead of bones."
+    },
+    {
+      "question": "What is the largest ocean on the planet?",
+      "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+      "correctAnswer": 0,
+      "explanation": "The Pacific Ocean is the largest on the planet, covering about one-third of Earth’s surface."
+    },
+    {
+      "question": "What do sharks use to breathe?",
+      "options": ["Gills", "Lungs", "External nostrils", "Filters"],
+      "correctAnswer": 0,
+      "explanation": "Sharks breathe through gills, which extract dissolved oxygen from the water."
+    },
+    {
+      "question": "Which animal is known as 'the king of the seas'?",
+      "options": ["Great white shark", "Dolphin", "Octopus", "Seahorse"],
+      "correctAnswer": 0,
+      "explanation": "The great white shark is considered the king of the seas because it is one of the ocean’s top predators."
+    },
+    {
+      "question": "The Atlantic Ocean separates which main continents?",
+      "options": [
+        "Americas and Europe/Africa",
+        "Asia and Africa",
+        "Oceania and Europe",
+        "Africa and Oceania"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Atlantic separates the Americas from Europe and Africa."
+    },
+    {
+      "question": "Which of these is a cartilaginous fish?",
+      "options": ["Shark", "Sardine", "Cod", "Arapaima"],
+      "correctAnswer": 0,
+      "explanation": "The shark is a cartilaginous fish, as are rays, since they have skeletons made of cartilage."
+    },
+    {
+      "question": "What covers most of Earth's surface?",
+      "options": ["Water", "Land", "Sand", "Ice"],
+      "correctAnswer": 0,
+      "explanation": "About 70% of Earth's surface is covered by water, mainly from the oceans."
+    },
+    {
+      "question": "What do sharks eat?",
+      "options": ["Fish and other marine animals", "Leaves", "Fruits", "Algae"],
+      "correctAnswer": 0,
+      "explanation": "Sharks are carnivores and feed mainly on fish and other marine animals."
+    },
+    {
+      "question": "Which ocean borders Brazil?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "correctAnswer": 0,
+      "explanation": "Brazil is bordered by the Atlantic Ocean along its entire eastern coast."
+    },
+    {
+      "question": "What is the natural habitat of sharks?",
+      "options": ["Oceans", "Inland rivers", "Mountains", "Forests"],
+      "correctAnswer": 0,
+      "explanation": "Sharks mainly live in the oceans, although some species can enter freshwater areas."
+    }
+  ],
+  "2": [
+    {
+      "question": "Which of these sharks has a hammer-shaped head?",
+      "options": [
+        "Hammerhead shark",
+        "Sandpaper shark",
+        "Tiger shark",
+        "Blue shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The hammerhead shark is known for its T-shaped flattened head, which enhances its vision and electrical perception."
+    },
+    {
+      "question": "Which is the smallest ocean by area?",
+      "options": ["Arctic", "Atlantic", "Indian", "Pacific"],
+      "correctAnswer": 0,
+      "explanation": "The Arctic Ocean is the smallest and coldest of all the oceans."
+    },
+    {
+      "question": "Sharks belong to which group?",
+      "options": ["Chondrichthyes", "Mammals", "Mollusks", "Osteichthyes"],
+      "correctAnswer": 0,
+      "explanation": "Sharks are chondrichthyans, meaning they are fish with cartilaginous skeletons."
+    },
+    {
+      "question": "What is the fastest animal in the ocean?",
+      "options": ["Sailfish", "Great white shark", "Tuna", "Dolphin"],
+      "correctAnswer": 0,
+      "explanation": "The sailfish can reach speeds up to 110 km/h, making it the fastest marine animal."
+    },
+    {
+      "question": "Which is the most developed sense in sharks?",
+      "options": ["Smell", "Vision", "Hearing", "Taste"],
+      "correctAnswer": 0,
+      "explanation": "Sharks have an extremely acute sense of smell, allowing them to detect small amounts of blood from great distances."
+    },
+    {
+      "question": "Which ocean region is the deepest?",
+      "options": [
+        "Mariana Trench",
+        "Great Barrier Reef",
+        "South Atlantic",
+        "Mediterranean Sea"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Mariana Trench is the deepest region of the ocean, reaching about 11,000 meters."
+    },
+    {
+      "question": "What is marine biodiversity?",
+      "options": [
+        "Variety of species in the oceans",
+        "Type of wave",
+        "Ocean current",
+        "Amount of algae"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marine biodiversity represents the variety of species that live in ocean ecosystems."
+    },
+    {
+      "question": "What threatens sharks today?",
+      "options": [
+        "Predatory fishing",
+        "Snow",
+        "Volcanic eruptions",
+        "Droughts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Predatory fishing and the fin trade are the main threats to sharks."
+    },
+    {
+      "question": "How many oceans are there on Earth?",
+      "options": ["Five", "Two", "Seven", "Four"],
+      "correctAnswer": 0,
+      "explanation": "There are five main oceans: Pacific, Atlantic, Indian, Antarctic, and Arctic."
+    },
+    {
+      "question": "What is the largest living shark?",
+      "options": [
+        "Whale shark",
+        "Tiger shark",
+        "Great white shark",
+        "Hammerhead shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The whale shark is the largest fish in the world, reaching over 12 meters in length."
+    }
+  ],
+  "3": [
+    {
+      "question": "What is the function of the ampullae of Lorenzini in sharks?",
+      "options": [
+        "Detect electrical fields",
+        "Breathe",
+        "Protect the body",
+        "Help swimming"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The ampullae of Lorenzini are sensors that allow sharks to detect electrical fields emitted by other animals."
+    },
+    {
+      "question": "What is the second largest ocean?",
+      "options": ["Atlantic", "Pacific", "Indian", "Antarctic"],
+      "correctAnswer": 0,
+      "explanation": "The Atlantic Ocean is the second largest, after the Pacific."
+    },
+    {
+      "question": "Which shark is considered the most dangerous to humans?",
+      "options": [
+        "Great white shark",
+        "Sandpaper shark",
+        "Angel shark",
+        "Thresher shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The great white shark is most associated with attacks on humans, although such events are rare."
+    },
+    {
+      "question": "What is the largest coral reef in the world?",
+      "options": [
+        "Great Barrier Reef",
+        "Red Sea",
+        "Abrolhos Reef",
+        "Polynesia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Great Barrier Reef in Australia is the largest reef system in the world."
+    },
+    {
+      "question": "How many gills do most sharks have?",
+      "options": ["5", "2", "8", "10"],
+      "correctAnswer": 0,
+      "explanation": "Most sharks have five pairs of gill slits for breathing."
+    },
+    {
+      "question": "Sharks help maintain the balance of which system?",
+      "options": ["Marine ecosystem", "Terrestrial", "Polar", "Desert"],
+      "correctAnswer": 0,
+      "explanation": "Sharks are top predators that help balance marine ecosystems by controlling other species’ populations."
+    },
+    {
+      "question": "Which of these animals is not marine?",
+      "options": ["Giraffe", "Whale", "Shark", "Squid"],
+      "correctAnswer": 0,
+      "explanation": "The giraffe is a land animal and does not inhabit marine environments."
+    },
+    {
+      "question": "What are ocean currents?",
+      "options": [
+        "Movement of seawater",
+        "Food chain",
+        "Algae species",
+        "Low tides"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ocean currents are continuous flows of water that move throughout the oceans."
+    },
+    {
+      "question": "Which shark is known for leaping out of the water?",
+      "options": [
+        "Great white shark",
+        "Sandpaper shark",
+        "Blue shark",
+        "Tiger shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The great white shark is known for breaching the water during attacks on prey."
+    },
+    {
+      "question": "What is marine pollution?",
+      "options": [
+        "Waste in the ocean",
+        "Movement of waves",
+        "Underwater exploration",
+        "Sustainable fishing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marine pollution is caused by the accumulation of waste and toxic substances in the oceans."
+    }
+  ],
+  "4": [
+    {
+      "question": "Which shark can live in both saltwater and freshwater?",
+      "options": [
+        "Bull shark",
+        "Great white shark",
+        "Thresher shark",
+        "Hammerhead shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The bull shark can survive in both salt and freshwater and is even found in rivers."
+    },
+    {
+      "question": "Which ocean surrounds Antarctica?",
+      "options": ["Southern Ocean", "Atlantic", "Pacific", "Indian"],
+      "correctAnswer": 0,
+      "explanation": "The Southern Ocean surrounds the icy continent of Antarctica and is the newest to be officially recognized."
+    },
+    {
+      "question": "What is a coral reef?",
+      "options": [
+        "Structure formed by calcareous corals",
+        "Underwater mountain",
+        "Type of algae",
+        "Volcanic island"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coral reefs are formations built by corals that shelter great marine biodiversity."
+    },
+    {
+      "question": "Which of these animals is a top predator along with sharks?",
+      "options": ["Orca", "Giant squid", "Seahorse", "Dolphin"],
+      "correctAnswer": 0,
+      "explanation": "The orca, like sharks, is a top predator that helps maintain marine balance."
+    },
+    {
+      "question": "How do sharks float without a swim bladder?",
+      "options": ["Oily liver", "Extra gills", "Air bubbles", "Rigid scales"],
+      "correctAnswer": 0,
+      "explanation": "Sharks use a large oily liver that helps them stay buoyant without a swim bladder."
+    },
+    {
+      "question": "Which ocean current warms Europe?",
+      "options": [
+        "Gulf Stream",
+        "Humboldt Current",
+        "Canary Current",
+        "Brazil Current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Gulf Stream carries warm water from the Gulf of Mexico to northern Europe, influencing the climate."
+    },
+    {
+      "question": "Which shark is known for its striped pattern?",
+      "options": [
+        "Tiger shark",
+        "Hammerhead shark",
+        "Blue shark",
+        "Sandpaper shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The tiger shark gets its name from the dark stripes on its body, resembling those of a tiger."
+    },
+    {
+      "question": "What is the name of the largest underwater mountain range?",
+      "options": [
+        "Mid-Atlantic Ridge",
+        "Submerged Himalayas",
+        "Marine Andes",
+        "Pacific Ridge"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Mid-Atlantic Ridge is the largest underwater mountain range, stretching across the Atlantic Ocean."
+    },
+    {
+      "question": "What do coral reefs provide to the oceans?",
+      "options": ["Shelter and biodiversity", "Oil", "Ice", "Tides"],
+      "correctAnswer": 0,
+      "explanation": "Coral reefs provide shelter and food for thousands of marine species."
+    },
+    {
+      "question": "What is overfishing?",
+      "options": [
+        "Excessive catching of fish",
+        "Fishing only in rivers",
+        "Raising fish in captivity",
+        "Sustainable fishing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Overfishing happens when fish are caught faster than they can reproduce."
+    }
+  ],
+  "5": [
+    {
+      "question": "Which shark is the fastest in the world?",
+      "options": [
+        "Mako shark",
+        "Tiger shark",
+        "Great white shark",
+        "Hammerhead shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The mako shark is the fastest, reaching speeds of up to 70 km/h over short distances."
+    },
+    {
+      "question": "Where is the Coral Triangle, considered a hotspot of marine biodiversity, located?",
+      "options": [
+        "Southeast Asia",
+        "Caribbean",
+        "North Atlantic",
+        "Mediterranean"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Coral Triangle is located in Southeast Asia and contains the greatest diversity of corals on Earth."
+    },
+    {
+      "question": "What is the largest fish in the world?",
+      "options": ["Whale shark", "Blue whale", "Bluefin tuna", "Sunfish"],
+      "correctAnswer": 0,
+      "explanation": "The whale shark is the largest fish in the world, exceeding 12 meters in length."
+    },
+    {
+      "question": "How do sharks reproduce?",
+      "options": [
+        "Oviparous and viviparous (depending on the species)",
+        "Only oviparous",
+        "Only viviparous",
+        "Only by budding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Depending on the species, sharks can be oviparous (lay eggs) or viviparous (give birth to live young)."
+    },
+    {
+      "question": "Which of these is not a shark?",
+      "options": ["Ray", "Blue shark", "Angel shark", "Thresher shark"],
+      "correctAnswer": 0,
+      "explanation": "The ray is a cartilaginous fish but not a shark, although it belongs to the same group (Chondrichthyes)."
+    },
+    {
+      "question": "What are mangroves?",
+      "options": [
+        "Coastal ecosystems between rivers and the sea",
+        "Deep reefs",
+        "Salt deserts",
+        "Volcanic rocks"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mangroves are ecosystems located between the sea and rivers, important for the reproduction of many species."
+    },
+    {
+      "question": "Which shark is nocturnal and hunts stealthily?",
+      "options": [
+        "Tiger shark",
+        "Mako shark",
+        "Sandpaper shark",
+        "Whale shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The tiger shark hunts at night and is known for stealthily attacking many kinds of prey."
+    },
+    {
+      "question": "What is the EEZ (Exclusive Economic Zone)?",
+      "options": [
+        "Maritime area where a country has exploitation rights",
+        "International waters",
+        "Polar region",
+        "Uninhabited zone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The EEZ extends up to 200 nautical miles from a country's coast, where it has rights to explore marine resources."
+    },
+    {
+      "question": "What is the name of the back-and-forth movement of sea waters?",
+      "options": ["Tides", "Waves", "Currents", "Cyclones"],
+      "correctAnswer": 0,
+      "explanation": "Tides are caused by the gravitational pull of the Sun and Moon on ocean waters."
+    },
+    {
+      "question": "What is the role of sharks in the ecosystem?",
+      "options": [
+        "Control populations and maintain ecological balance",
+        "Produce oxygen",
+        "Form reefs",
+        "Filter water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sharks regulate populations of other species, maintaining the ecological balance of the oceans."
+    }
+  ],
+
+  "6": [
+    {
+      "question": "What is the name given to the science that studies the oceans?",
+      "options": ["Oceanography", "Geology", "Meteorology", "Ecology"],
+      "correctAnswer": 0,
+      "explanation": "Oceanography is the science that studies the oceans, including their physical, chemical, and biological characteristics."
+    },
+    {
+      "question": "Which shark is known for its long tail used for hunting?",
+      "options": [
+        "Thresher shark",
+        "Mako shark",
+        "Great white shark",
+        "Tiger shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The thresher shark uses its long tail to stun schools of fish before capturing them."
+    },
+    {
+      "question": "What is a marine food chain?",
+      "options": [
+        "A sequence of organisms that feed on each other",
+        "An ocean current",
+        "An algae formation",
+        "The tide cycle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The marine food chain represents the flow of energy between organisms, from producers to predators."
+    },
+    {
+      "question": "Which ocean borders the west coast of South America?",
+      "options": ["Pacific", "Atlantic", "Indian", "Antarctic"],
+      "correctAnswer": 0,
+      "explanation": "The Pacific Ocean borders the west coast of South America, including countries like Chile and Peru."
+    },
+    {
+      "question": "What is the name of the upper ocean layer where sunlight reaches?",
+      "options": ["Photic zone", "Abyssal zone", "Hadal zone", "Dark zone"],
+      "correctAnswer": 0,
+      "explanation": "The photic zone is the ocean layer where sunlight penetrates, allowing photosynthesis to occur."
+    },
+    {
+      "question": "Which shark is known for living in deep waters?",
+      "options": ["Goblin shark", "Tiger shark", "Blue shark", "Nurse shark"],
+      "correctAnswer": 0,
+      "explanation": "The goblin shark is a rare species that inhabits deep waters and is known for its elongated snout."
+    },
+    {
+      "question": "What is ocean acidification?",
+      "options": [
+        "Increase in acidity due to CO₂",
+        "Decrease in salinity",
+        "Reef formation",
+        "Global cooling"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Acidification occurs when dissolved CO₂ increases in the water, lowering pH and harming marine life."
+    },
+    {
+      "question": "Which gas dissolved in water is essential for marine life?",
+      "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
+      "correctAnswer": 0,
+      "explanation": "Dissolved oxygen is essential for the respiration of marine organisms."
+    },
+    {
+      "question": "Which is the oldest living shark species?",
+      "options": [
+        "Greenland shark",
+        "Great white shark",
+        "Hammerhead shark",
+        "Tiger shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Greenland shark can live for over 400 years, making it the longest-lived vertebrate known."
+    },
+    {
+      "question": "What is plankton?",
+      "options": [
+        "Microscopic organisms that float in water",
+        "Small fish",
+        "Hard corals",
+        "Marine sediments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Plankton consists of microscopic organisms that live suspended in water and form the base of the marine food chain."
+    }
+  ],
+  "7": [
+    {
+      "question": "Which shark is known for its prehistoric appearance?",
+      "options": ["Frilled shark", "Mako shark", "Tiger shark", "Nurse shark"],
+      "correctAnswer": 0,
+      "explanation": "The frilled shark has an elongated body and primitive features, resembling prehistoric species."
+    },
+    {
+      "question": "Which ocean is known for having the greatest average depth?",
+      "options": ["Pacific", "Atlantic", "Indian", "Antarctic"],
+      "correctAnswer": 0,
+      "explanation": "The Pacific Ocean is the deepest and contains the largest oceanic trenches known."
+    },
+    {
+      "question": "What is the main food source for coral reefs?",
+      "options": [
+        "Zooxanthellae (symbiotic algae)",
+        "Plankton",
+        "Small fish",
+        "Crustaceans"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Zooxanthellae live inside corals and produce food through photosynthesis, sustaining the reef."
+    },
+    {
+      "question": "Which natural phenomenon affects Pacific Ocean temperatures and global climate?",
+      "options": [
+        "El Niño",
+        "Greenhouse effect",
+        "Tropical cyclone",
+        "Cold current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The El Niño phenomenon alters Pacific currents, affecting weather worldwide."
+    },
+    {
+      "question": "What is the main characteristic of rays?",
+      "options": [
+        "Flat body and wing-shaped fins",
+        "Cylindrical body",
+        "Bony scales",
+        "Hairy skin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rays have flat bodies and wide fins resembling wings, allowing them to glide along the seafloor."
+    },
+    {
+      "question": "What causes ocean waves?",
+      "options": ["Wind", "Lunar gravity", "Cold currents", "Tides"],
+      "correctAnswer": 0,
+      "explanation": "Waves are mainly formed by the action of wind on the ocean surface."
+    },
+    {
+      "question": "What is the name of the deepest ocean layer?",
+      "options": [
+        "Hadal zone",
+        "Photic zone",
+        "Abyssal zone",
+        "Mesopelagic zone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The hadal zone is the deepest part of the ocean, found in ocean trenches."
+    },
+    {
+      "question": "How do sharks detect their prey?",
+      "options": [
+        "Electric fields, vibrations, and smell",
+        "Sound and vision",
+        "Taste and heat",
+        "Light and echo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sharks use electroreceptors, a strong sense of smell, and vibration detection to locate prey."
+    },
+    {
+      "question": "What is the main component of sea salt?",
+      "options": ["Sodium chloride", "Magnesium", "Calcium", "Iron"],
+      "correctAnswer": 0,
+      "explanation": "Sea salt is primarily composed of sodium chloride (NaCl), the same salt used in food."
+    },
+    {
+      "question": "Which shark is known for hunting in groups?",
+      "options": [
+        "Blue shark",
+        "Bullhead shark",
+        "Bull shark",
+        "Great white shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The blue shark often forms groups to hunt schools of fish and protect themselves from larger predators."
+    }
+  ],
+  "8": [
+    {
+      "question": "What distinguishes a bony fish from a cartilaginous one?",
+      "options": [
+        "Type of skeleton",
+        "Fin size",
+        "Presence of lungs",
+        "Skin color"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bony fish have skeletons made of bone, while cartilaginous fish like sharks have skeletons made of cartilage."
+    },
+    {
+      "question": "Which shark has an extremely powerful bite and serrated teeth?",
+      "options": [
+        "Great white shark",
+        "Nurse shark",
+        "Hammerhead shark",
+        "Tiger shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The great white shark has serrated teeth and one of the most powerful bites in the animal kingdom."
+    },
+    {
+      "question": "Which phenomenon is caused by differences in the density of salt and freshwater?",
+      "options": [
+        "Thermohaline circulation",
+        "Waves",
+        "Tides",
+        "Acidification"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thermohaline circulation occurs due to differences in temperature and salinity, moving deep ocean currents."
+    },
+    {
+      "question": "What is marine bioluminescence?",
+      "options": [
+        "Production of light by marine organisms",
+        "Reflection of sunlight on the sea",
+        "Underwater artificial lights",
+        "Phosphorescence of salt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bioluminescence is the ability of certain organisms to produce light through chemical reactions in their bodies."
+    },
+    {
+      "question": "What is the main fossil fuel extracted from the ocean floor?",
+      "options": ["Oil", "Coal", "Natural gas", "Shale"],
+      "correctAnswer": 0,
+      "explanation": "Oil is the main fossil fuel extracted from reserves located beneath the ocean floor."
+    },
+    {
+      "question": "Which shark is known for having saw-like teeth?",
+      "options": ["Sawshark", "Tiger shark", "Nurse shark", "Thresher shark"],
+      "correctAnswer": 0,
+      "explanation": "The sawshark has a long snout with lateral teeth resembling a saw, used to catch prey."
+    },
+    {
+      "question": "Which ocean region contains the majority of known species?",
+      "options": [
+        "Coastal zones",
+        "Ocean floor",
+        "Abyssal trenches",
+        "Polar waters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coastal zones host the greatest biodiversity due to sunlight and abundant nutrients."
+    },
+    {
+      "question": "What is an estuary?",
+      "options": [
+        "Where a river meets the sea",
+        "Deep lake",
+        "Underground channel",
+        "Coral reef"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An estuary is a region where freshwater from rivers mixes with saltwater from the sea."
+    },
+    {
+      "question": "What is the name of the shark that lives in the cold Arctic waters?",
+      "options": [
+        "Greenland shark",
+        "Mako shark",
+        "Tiger shark",
+        "Nurse shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Greenland shark inhabits icy northern waters and is known for its exceptional longevity."
+    },
+    {
+      "question": "Which process produces oxygen in the oceans?",
+      "options": [
+        "Photosynthesis by phytoplankton",
+        "Water evaporation",
+        "Tidal circulation",
+        "Current movement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Phytoplankton perform photosynthesis and are responsible for a large portion of the oxygen released into the atmosphere."
+    }
+  ],
+  "9": [
+    {
+      "question": "Which shark is known as the 'gentle giant'?",
+      "options": [
+        "Whale shark",
+        "Great white shark",
+        "Tiger shark",
+        "Blue shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The whale shark is called the gentle giant because it is the largest fish in the world and feeds on plankton."
+    },
+    {
+      "question": "What is the Dead Sea?",
+      "options": [
+        "Hypersaline lake",
+        "Frozen ocean",
+        "Oceanic gulf",
+        "Tropical bay"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Dead Sea is a lake with an extremely high salt concentration, preventing fish and plant life."
+    },
+    {
+      "question": "What is the main cause of coral bleaching?",
+      "options": [
+        "Increase in water temperature",
+        "Increase in salinity",
+        "Reduction of CO₂",
+        "Tidal action"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rising water temperatures cause corals to expel their symbiotic algae, losing color and vitality."
+    },
+    {
+      "question": "Which shark has a flattened body and lives on the seafloor?",
+      "options": ["Angel shark", "Bull shark", "Tiger shark", "Blue shark"],
+      "correctAnswer": 0,
+      "explanation": "The angel shark has a flat body and lives on the seafloor, camouflaging itself in sand to ambush prey."
+    },
+    {
+      "question": "What is the name of the ocean zone where sunlight never reaches?",
+      "options": [
+        "Abyssal zone",
+        "Photic zone",
+        "Mesopelagic zone",
+        "Coastal zone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The abyssal zone is so deep that sunlight cannot reach it, leaving it permanently dark."
+    },
+    {
+      "question": "What is phytoplankton?",
+      "options": [
+        "Microscopic floating plants",
+        "Juvenile fish",
+        "Crustaceans",
+        "Fixed algae"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Phytoplankton are microscopic photosynthetic organisms that produce oxygen and support the marine food chain."
+    },
+    {
+      "question": "Which ocean is the coldest on Earth?",
+      "options": ["Arctic", "Antarctic", "Pacific", "Atlantic"],
+      "correctAnswer": 1,
+      "explanation": "The Antarctic Ocean is the coldest due to its location around the South Pole and permanent ice presence."
+    },
+    {
+      "question": "Which shark is known for migrating long distances?",
+      "options": [
+        "Blue shark",
+        "Nurse shark",
+        "Bull shark",
+        "Hammerhead shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The blue shark is known for long-distance migrations across oceans."
+    },
+    {
+      "question": "What is ocean upwelling?",
+      "options": [
+        "Rising of cold, nutrient-rich waters",
+        "Descent of warm waters",
+        "Tidal movement",
+        "Mixing of polar waters"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Upwelling is a phenomenon where deep, cold waters rise to the surface, bringing nutrients that support plankton growth."
+    },
+    {
+      "question": "What is the main impact of plastic on the oceans?",
+      "options": [
+        "Pollution and death of marine animals",
+        "Reef formation",
+        "Increase in salinity",
+        "Cooling of water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Plastic pollutes the oceans, being ingested by marine animals and causing serious harm to ocean life."
+    }
+  ],
+  "10": [
+    {
+      "question": "Which shark is known for its cannibalistic behavior even in the womb?",
+      "options": ["Bull shark", "Mako shark", "Tiger shark", "Blue shark"],
+      "correctAnswer": 0,
+      "explanation": "The bull shark practices intrauterine cannibalism, where larger embryos feed on smaller ones before birth."
+    },
+    {
+      "question": "What is the Humboldt Current?",
+      "options": [
+        "Cold current that flows along the west coast of South America",
+        "Warm current of the North Atlantic",
+        "Caribbean flow",
+        "Arctic polar current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Humboldt Current is a cold current that influences the climate and marine life along the coasts of Chile and Peru."
+    },
+    {
+      "question": "What is the name of the phenomenon opposite to El Niño?",
+      "options": ["La Niña", "El Fuego", "El Sur", "El Calor"],
+      "correctAnswer": 0,
+      "explanation": "La Niña is the opposite phenomenon of El Niño, characterized by the cooling of equatorial Pacific waters."
+    },
+    {
+      "question": "Which shark is considered the most aggressive in the world?",
+      "options": [
+        "Bull shark",
+        "Great white shark",
+        "Hammerhead shark",
+        "Thresher shark"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The bull shark is considered the most aggressive due to its territorial behavior and presence in shallow waters."
+    },
+    {
+      "question": "What is the benthic zone?",
+      "options": [
+        "Region at the ocean floor",
+        "Ocean surface",
+        "Sunlight layer",
+        "Ice layer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The benthic zone is the part of the ocean that corresponds to the seafloor, where organisms adapt to low light conditions."
+    },
+    {
+      "question": "Which shark has a saw-shaped snout?",
+      "options": ["Sawshark", "Tiger shark", "Mako shark", "Nurse shark"],
+      "correctAnswer": 0,
+      "explanation": "The sawshark has a long, serrated snout used to cut and capture prey."
+    },
+    {
+      "question": "What is marine litter?",
+      "options": [
+        "Solid waste dumped into the ocean",
+        "Oceanic sand",
+        "Natural debris",
+        "Submerged rocks"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marine litter is any solid waste discarded into the ocean, especially plastics and metals that harm aquatic environments."
+    },
+    {
+      "question": "What is the name of the deepest part of the ocean?",
+      "options": ["Ocean trench", "Reef", "Underwater ridge", "Coastal canyon"],
+      "correctAnswer": 0,
+      "explanation": "Ocean trenches are the deepest parts of the oceans, reaching depths of over 11,000 meters."
+    },
+    {
+      "question": "Which shark is known for hunting prey larger than itself?",
+      "options": ["Mako shark", "Nurse shark", "Whale shark", "Thresher shark"],
+      "correctAnswer": 0,
+      "explanation": "The mako shark is extremely fast and agile, capable of capturing larger prey such as tuna and swordfish."
+    },
+    {
+      "question": "Why are oceans essential for life on Earth?",
+      "options": [
+        "They produce oxygen, regulate climate, and support ecosystems",
+        "They are only water reserves",
+        "They store heat",
+        "They serve for marine transport"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oceans produce most of the planet’s oxygen, regulate global climate, and host the majority of known species."
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "Cape Cod und Outer Cape, USA",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "Saisonaler Wanderkorridor für Weiße Haie, wo der Golfstrom auf kaltes Küstenwasser trifft.",
+      "environment": "Dynamische Frontzonen mit hoher Nährstoffkonzentration.",
+      "ecosystem": "Gemäßigtes Küstenökosystem.",
+      "species": ["Weißer Hai", "Blauer Hai", "Mako-Hai"],
+      "recentEvents": "SWOT-Daten 2024 zeigten, dass Haiwanderungen den Frontverschiebungen folgen.",
+      "measurements": ["Chlorophyll (MODIS)", "Meeresspiegelhöhe (SWOT)", "Phytoplankton-Gemeinschaft (PACE)"],
+      "links": {
+        "modis": "https://earthobservatory.nasa.gov/images/80523/swirling-sediment-reveals-erosive-power-of-new-england-storm"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "Bimini, Bahamas",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "Klares Flachwassergebiet, ideal für Küstenhaie und pelagische Arten.",
+      "environment": "Korallenriffe und Sandbänke mit warmem tropischem Wasser.",
+      "ecosystem": "Tropisches Riff-Ökosystem.",
+      "species": ["Zitronenhai", "Tigerhai", "Hammerhai"],
+      "recentEvents": "PACE-Daten 2023 zeigten erhöhte Chlorophyllwerte in Zeiten intensiver Haiaktivität.",
+      "measurements": ["PACE", "SWOT", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "Golf von Mexiko – Mississippi-Mündungsgebiet",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "Nährstoffreiche Flussfahne bildet die Grundlage für ein komplexes marines Nahrungsnetz.",
+      "environment": "Ästuar mit Süß- und Salzwassermischung.",
+      "ecosystem": "Küsten-Ästuar-Ökosystem.",
+      "species": ["Bullenhai", "Tigerhai", "Glatter Hammerhai"],
+      "recentEvents": "MODIS 2025 zeigte massive Phytoplanktonblüten nach Starkregen, die Haie anlockten.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "Revillagigedo-Archipel, Mexiko",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "Ozeanische Inselgruppe mit starker Produktivität und hoher Beutedichte.",
+      "environment": "Vulkanische Inseln im offenen Ozean mit Auftriebsströmungen.",
+      "ecosystem": "Tropisches Hochseeökosystem.",
+      "species": ["Großer Hammerhai", "Tigerhai", "Ozeanischer Weißspitzenhai"],
+      "recentEvents": "SWOT 2024 kartierte Wirbel, die Haiwanderungen beeinflussen.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "Galápagos-Inseln, Ecuador",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "Kreuzungspunkt von kaltem und warmem Wasser, ein globaler Hotspot der Artenvielfalt.",
+      "environment": "Humboldt- und Äquatorialstrom.",
+      "ecosystem": "Tropisches Auftriebsökosystem.",
+      "species": ["Großer Hammerhai", "Galapagos-Hai", "Seidenhai"],
+      "recentEvents": "PACE 2024 zeigte starke Veränderungen in der Phytoplanktonstruktur.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "Cocos-Insel, Costa Rica",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "Ozeanischer Wanderkorridor für Hammerhaie und pelagische Arten.",
+      "environment": "Vulkaninsel mit starker Strömung.",
+      "ecosystem": "Tropisches Hochseeökosystem.",
+      "species": ["Großer Hammerhai", "Seidenhai", "Ozeanischer Weißspitzenhai"],
+      "recentEvents": "SWOT 2024 bestätigte saisonale Wirbelaktivität.",
+      "measurements": ["SWOT", "PACE", "MODIS"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "Great Barrier Reef, Australien",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "Größtes Korallenriff der Welt und Kinderstube für Riffhaie.",
+      "environment": "Warm, flach, klare Gewässer.",
+      "ecosystem": "Tropisches Korallenriffsystem.",
+      "species": ["Riffhai", "Tigerhai", "Weißspitzenhai"],
+      "recentEvents": "PACE 2024 dokumentierte steigende organische Partikel während Korallenbleiche.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "Ningaloo-Riff, Westaustralien",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "Saisonale Ansammlungen von Walhaien und Tigerhaien.",
+      "environment": "Tropisches Riff mit Auftriebsströmung.",
+      "ecosystem": "Korallenriffökosystem.",
+      "species": ["Walhai", "Tigerhai"],
+      "recentEvents": "PACE 2024 zeigte starke Chlorophyllspitzen während Walhai-Beobachtungen.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "Raja Ampat, Indonesien",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "Region mit der höchsten marinen Biodiversität weltweit.",
+      "environment": "Starke Gezeiten und Inselkanäle.",
+      "ecosystem": "Tropisches Riffökosystem.",
+      "species": ["Grauer Riffhai", "Schwarzer Riffhai"],
+      "recentEvents": "SWOT 2025 zeigte Wirbelbildung, die die Artenvielfalt fördert.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "Palau, Westpazifik",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "Ozeanische Riffe und tiefe Kanäle ziehen Haie an.",
+      "environment": "Starke Gezeitenströme, klares Wasser.",
+      "ecosystem": "Tropisches Hochseeökosystem.",
+      "species": ["Ozeanischer Weißspitzenhai", "Seidenhai"],
+      "recentEvents": "PACE 2025 zeigte Anstieg der Primärproduktion.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "Fidschi – Beqa / Viti Levu",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "Produktive Riffe mit starker Strömung und vielen Haiarten.",
+      "environment": "Tropisches, sauerstoffreiches Wasser.",
+      "ecosystem": "Inselriff-Ökosystem.",
+      "species": ["Tigerhai", "Riffhai", "Weißspitzenhai"],
+      "recentEvents": "SWOT 2024 beobachtete erhöhte Strömungsenergie und Haidichte.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "False Bay, Südafrika",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "Benguela-Auftriebszone – wichtiges Gebiet für Weiße Haie.",
+      "environment": "Kalte, nährstoffreiche Küstengewässer.",
+      "ecosystem": "Gemäßigtes Auftriebsökosystem.",
+      "species": ["Weißer Hai", "Kupferhai"],
+      "recentEvents": "SWOT 2025 zeigte verstärkte Küstenwirbel und Jagdaktivität.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "Mosambik-Kanal",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "Wirbelbildung und Auftrieb erzeugen hohe biologische Produktivität.",
+      "environment": "Starke Strömungen zwischen Madagaskar und Afrika.",
+      "ecosystem": "Subtropisches Küstenökosystem.",
+      "species": ["Bullenhai", "Tigerhai"],
+      "recentEvents": "SWOT 2025 kartierte ringförmige Wirbel, die Haibewegungen beeinflussen.",
+      "measurements": ["SWOT", "MODIS", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "Rotes Meer – Brothers / Daedalus",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "Salzreiches, klares Wasser mit bekannten Populationen des Ozeanischen Weißspitzenhais.",
+      "environment": "Isolierte Riffe im warmen, salzhaltigen Meer.",
+      "ecosystem": "Tropisches Korallenriffsystem.",
+      "species": ["Ozeanischer Weißspitzenhai"],
+      "recentEvents": "MODIS 2024 registrierte Oberflächentemperaturänderungen, die Jagdverhalten beeinflussen.",
+      "measurements": ["MODIS", "SWOT", "PACE"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "Socotra, Arabisches Meer",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "Starke saisonale Auftriebszone während des Monsuns.",
+      "environment": "Hohe Nährstoffwerte und Wirbelbildung.",
+      "ecosystem": "Tropisches Auftriebsökosystem.",
+      "species": ["Großer Hammerhai", "Tigerhai"],
+      "recentEvents": "SWOT 2024 dokumentierte starke Strömungen während des Südwestmonsuns.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "Senegal, Westafrika",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "Produktives Auftriebsgebiet mit starker Fischereiaktivität.",
+      "environment": "Kanarische Strömung, nährstoffreiche Schelfgewässer.",
+      "ecosystem": "Tropisches Schelfökosystem.",
+      "species": ["Bullenhai", "Ammenhai"],
+      "recentEvents": "PACE 2025 beobachtete Veränderungen in der Phytoplanktongemeinschaft durch Umweltbelastungen.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "Japanische Küste",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "Übergangszone zwischen Kuroshio und Oyashio, wichtig für wandernde Makos und Blaue Haie.",
+      "environment": "Starke Frontzonen und variable Temperaturen.",
+      "ecosystem": "Gemäßigtes Frontökosystem.",
+      "species": ["Blauer Hai", "Kurzflossen-Mako"],
+      "recentEvents": "SWOT 2025 zeigte Nordverlagerung der Kuroshio-Front.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "Ostküste Australiens",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "Wanderroute junger Weißer Haie entlang der warmen Strömung.",
+      "environment": "Ost-Australische Strömung mit Küstenauftrieb.",
+      "ecosystem": "Gemäßigtes Küstenökosystem.",
+      "species": ["Junger Weißer Hai", "Tigerhai"],
+      "recentEvents": "SWOT 2025 zeigte erhöhte Küstenwirbel während Laichsaison.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "19",
+      "name": "Südküste Australiens",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "Temperierte Gewässer mit erwachsenen Weißen Haien.",
+      "environment": "Kalte Auftriebszonen und starke Strömungen.",
+      "ecosystem": "Gemäßigtes Küstenökosystem.",
+      "species": ["Weißer Hai", "Blauer Hai"],
+      "recentEvents": "SWOT 2024 zeigte Zunahme ozeanischer Wirbelaktivität.",
+      "measurements": ["MODIS", "PACE", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    },
+    {
+      "id": "20",
+      "name": "Malediven, zentraler Indischer Ozean",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "Korallenatolle mit hoher Hai-Diversität und klaren tropischen Gewässern.",
+      "environment": "Monsungetriebene Strömungen und starke Gezeiten.",
+      "ecosystem": "Tropisches Atollökosystem.",
+      "species": ["Schwarzspitzenhai", "Walhai", "Grauer Riffhai"],
+      "recentEvents": "PACE 2025 zeigte steigende organische Partikel während Südwestmonsun.",
+      "measurements": ["PACE", "MODIS", "SWOT"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    }
+  ]
+}

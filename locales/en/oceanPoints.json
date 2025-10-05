@@ -1,0 +1,384 @@
+{
+  "points": [
+    {
+      "id": "1",
+      "name": "Cape Cod & Outer Cape, USA",
+      "lat": "41.8°N",
+      "lon": "69.9°W",
+      "info": "Seasonal corridor for great white sharks along dynamic coastal fronts at the Gulf Stream boundary.",
+      "environment": "Shelf break, strong thermal/frontal gradients, cold–warm water mixing, seal colonies nearby.",
+      "ecosystem": "Temperate coastal shelf and frontal zone with recurrent plankton blooms.",
+      "species": ["Great white shark", "Blue shark", "Shortfin mako", "Porbeagle", "Spiny dogfish (prey guild)"],
+      "recentEvents": "Recent satellite analyses show sharp frontal filaments along the shelf break that align with seal foraging areas and known white shark patrol routes.",
+      "measurements": ["Chlorophyll-a and Kd(490) (MODIS)", "Sea surface height gradients & fronts (SWOT)", "Phytoplankton functional types & hyperspectral signatures (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "25%",
+      "left": "23%"
+    },
+    {
+      "id": "2",
+      "name": "Bimini, Bahamas",
+      "lat": "25.7°N",
+      "lon": "79.3°W",
+      "info": "Shallow lagoon-to-slope transition in clear tropical waters; key site for juvenile development and pelagic encounters.",
+      "environment": "Coral reef edges, mangrove nurseries, shelf-edge drop-offs, high clarity.",
+      "ecosystem": "Coral reef–pelagic interface with nursery habitats.",
+      "species": ["Lemon shark", "Tiger shark", "Great hammerhead", "Oceanic whitetip", "Blacktip shark"],
+      "recentEvents": "Tagging work reports repeated site fidelity of lemon sharks near shelf breaks; satellite color shows seasonal clarity/productivity pulses influencing prey.",
+      "measurements": ["Spectral reflectance & coral/DOM signals (PACE)", "Local SSH variability & slope currents (SWOT)", "Chlorophyll gradients & turbidity (MODIS)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "32%",
+      "left": "25%"
+    },
+    {
+      "id": "3",
+      "name": "Gulf of Mexico – Mississippi Plume",
+      "lat": "28.8°N",
+      "lon": "89.3°W",
+      "info": "Nutrient-rich river plume that fuels high productivity and supports coastal to pelagic food webs.",
+      "environment": "Turbid brackish plume over the shelf; hypoxia risk in summer; strong river discharge variability.",
+      "ecosystem": "Estuarine–shelf mixing zone transitioning to open Gulf pelagic waters.",
+      "species": ["Bull shark", "Tiger shark", "Smooth hammerhead", "Nurse shark", "Blacktip shark"],
+      "recentEvents": "Pulse-like chlorophyll spikes after heavy rainfall events have coincided with increased juvenile shark use of inshore habitats.",
+      "measurements": ["Chlorophyll-a & CDOM (MODIS)", "Mesoscale fronts & eddies at plume edge (SWOT)", "Community composition & particle characteristics (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "37%",
+      "left": "28%"
+    },
+    {
+      "id": "4",
+      "name": "Revillagigedo Archipelago, Mexico",
+      "lat": "18.7°N",
+      "lon": "111.0°W",
+      "info": "Remote oceanic islands with upwelling and eddies that aggregate prey and apex predators.",
+      "environment": "Island wakes, open-ocean drop-offs, eddy corridors, volcanic seamounts.",
+      "ecosystem": "Pelagic island hotspot with transient fronts.",
+      "species": ["Great hammerhead", "Tiger shark", "Oceanic whitetip", "Silky shark", "Galapagos shark"],
+      "recentEvents": "Altimetry maps show persistent eddy tracks and convergences around the seamounts that match shark movement corridors.",
+      "measurements": ["Eddy kinetic signals & frontal strength (SWOT)", "Chlorophyll pulses & bloom edges (MODIS)", "Pigment & phytoplankton group variability (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "17%"
+    },
+    {
+      "id": "5",
+      "name": "Galápagos Islands, Ecuador",
+      "lat": "0.6°S",
+      "lon": "90.5°W",
+      "info": "Convergence of Humboldt and Equatorial currents creates recurrent nutrient pulses and predator hotspots.",
+      "environment": "Equatorial upwelling, island wakes, current bifurcations and jets.",
+      "ecosystem": "Equatorial pelagic hotspot with reef/island margins.",
+      "species": ["Scalloped hammerhead", "Blacktip shark", "Silky shark", "Galapagos shark", "Whale shark (seasonal)"],
+      "recentEvents": "Fronts and eddy injections detected in altimetry align with seasonal schooling of hammerheads near island platforms.",
+      "measurements": ["Bloom dynamics & SST–chl coupling (MODIS)", "Fronts/eddies & convergence lines (SWOT)", "Phytoplankton community shifts, species proxies (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "16%"
+    },
+    {
+      "id": "6",
+      "name": "Cocos Island, Costa Rica",
+      "lat": "5.5°N",
+      "lon": "87.1°W",
+      "info": "Key stepping-stone in the Eastern Tropical Pacific hammerhead migration corridor.",
+      "environment": "Oceanic seamount/reef, strong currents, thermocline uplift.",
+      "ecosystem": "Oceanic reef with pelagic convergence features.",
+      "species": ["Great hammerhead", "Scalloped hammerhead", "Silky shark", "Oceanic whitetip"],
+      "recentEvents": "Mesoscale convergence lines mapped from altimetry coincide with seasonal aggregations of schooling hammerheads.",
+      "measurements": ["Convergence & shear zones (SWOT)", "Surface productivity & water clarity (MODIS)", "Pigment groups & algal taxonomy (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "18%"
+    },
+    {
+      "id": "7",
+      "name": "Great Barrier Reef, Australia",
+      "lat": "15.5°S",
+      "lon": "146.7°E",
+      "info": "Vast reef system with outer-shelf drop-offs that concentrate prey and serve as nurseries.",
+      "environment": "Outer reef slopes, shelf-edge currents, river plume influence inshore.",
+      "ecosystem": "Coral reef platform transitioning to pelagic slope.",
+      "species": ["Tiger shark", "Grey reef shark", "Whitetip reef shark", "Oceanic whitetip (off-reef)"],
+      "recentEvents": "Seasonal river plumes and boundary currents highlighted by ocean color and altimetry have coincided with peaks in reef-predator activity.",
+      "measurements": ["Chlorophyll & plume extent (MODIS)", "Shelf-edge jets & meanders (SWOT)", "Reef water optical properties & phytoplankton groups (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "82%",
+      "left": "87%"
+    },
+    {
+      "id": "8",
+      "name": "Ningaloo Reef, Western Australia",
+      "lat": "22.7°S",
+      "lon": "113.7°E",
+      "info": "Fringing reef along the Leeuwin Current with seasonal whale shark and tiger shark aggregations.",
+      "environment": "Reef–ocean exchange, boundary current intrusions, lagoon flushing.",
+      "ecosystem": "Coral reef along a western boundary current.",
+      "species": ["Whale shark", "Tiger shark", "Grey reef shark", "Blacktip reef shark"],
+      "recentEvents": "Ocean-color indices show seasonal productivity pulses linked to whale shark sightings; altimetry reveals current intrusions onto the shelf.",
+      "measurements": ["Chlorophyll & diffuse attenuation (MODIS)", "Boundary current variability (SWOT)", "Optical water types & phytoplankton groups (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "84%",
+      "left": "78%"
+    },
+    {
+      "id": "9",
+      "name": "Raja Ampat, Indonesia",
+      "lat": "0.5°S",
+      "lon": "130.5°E",
+      "info": "Global biodiversity hotspot with strong tidal mixing and narrow channels that funnel prey.",
+      "environment": "Complex archipelago passages, sills, and internal tides.",
+      "ecosystem": "Coral reef archipelago with intense exchange between lagoons and open ocean.",
+      "species": ["Grey reef shark", "Blacktip reef shark", "Whitetip reef shark", "Occasional scalloped hammerhead"],
+      "recentEvents": "Altimetric signals of channel flow and tidal convergence correspond to localized peaks in reef predator activity.",
+      "measurements": ["Channel currents & convergence (SWOT)", "Nearshore chlorophyll & turbidity (MODIS)", "Reef optical diversity & phytoplankton types (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "82%"
+    },
+    {
+      "id": "10",
+      "name": "Palau, Western Pacific",
+      "lat": "7.5°N",
+      "lon": "134.5°E",
+      "info": "Oceanic reef chain influenced by mesoscale fronts and rich coral ecosystems.",
+      "environment": "Pass channels, outer reef walls, mesoscale convergence.",
+      "ecosystem": "Coral reef–pelagic interface with strong pass-exchange.",
+      "species": ["Oceanic whitetip", "Silky shark", "Grey reef shark", "Blacktip reef shark"],
+      "recentEvents": "Surface convergence lines and frontal gradients have been repeatedly observed, coinciding with tuna and shark foraging.",
+      "measurements": ["Front detection & SSH gradients (SWOT)", "Reef-edge chlorophyll patterns (MODIS)", "Optical diversity & phytoplankton groups (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "68%",
+      "left": "84%"
+    },
+    {
+      "id": "11",
+      "name": "Fiji – Beqa / Viti Levu",
+      "lat": "18.0°S",
+      "lon": "178.4°E",
+      "info": "Reef platforms affected by strong coastal currents and freshwater inputs, driving high productivity.",
+      "environment": "Reef passes, shelf breaks, occasional river plumes.",
+      "ecosystem": "Tropical coral reef platforms transitioning to pelagic slopes.",
+      "species": ["Tiger shark", "Grey reef shark", "Whitetip reef shark", "Bull shark (coastal)"],
+      "recentEvents": "Ocean color reveals intermittent plume influence enhancing coastal productivity and predator presence.",
+      "measurements": ["Chlorophyll & plume extent (MODIS)", "Shelf currents & fronts (SWOT)", "Pigment composition and phytoplankton types (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "88%",
+      "left": "90%"
+    },
+    {
+      "id": "12",
+      "name": "False Bay, South Africa",
+      "lat": "34.2°S",
+      "lon": "18.6°E",
+      "info": "Benguela upwelling region with pinniped colonies; historically important great white habitat.",
+      "environment": "Cold, nutrient-rich upwelling filaments and shelf fronts; seal and penguin colonies.",
+      "ecosystem": "Temperate eastern boundary upwelling system (Benguela).",
+      "species": ["Great white shark", "Broadnose sevengill shark", "Bronze whaler"],
+      "recentEvents": "Filamentary upwelling and frontal lines highlighted in satellite data co-occur with peaks in forage fish abundance and shark activity.",
+      "measurements": ["Chlorophyll & upwelling fronts (MODIS)", "Filament structure & SSH gradients (SWOT)", "Water-column optical signals & phytoplankton groups (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "92%",
+      "left": "38%"
+    },
+    {
+      "id": "13",
+      "name": "Mozambique Channel",
+      "lat": "21.0°S",
+      "lon": "35.4°E",
+      "info": "Eddy-rich corridor transporting nutrients and prey along the channel.",
+      "environment": "Strong mesoscale eddies and jets, shelf canyons, island wakes.",
+      "ecosystem": "Subtropical channel with eddy-driven productivity.",
+      "species": ["Bull shark", "Tiger shark", "Scalloped hammerhead (seasonal)", "Silky shark"],
+      "recentEvents": "Altimetry shows eddy trains moving southward; eddy-induced chlorophyll anomalies link to pelagic predator foraging.",
+      "measurements": ["SSH eddies & kinetic energy (SWOT)", "Chlorophyll anomalies & bloom edges (MODIS)", "Pigment/particle diagnostics (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "80%",
+      "left": "45%"
+    },
+    {
+      "id": "14",
+      "name": "Red Sea – Brothers / Daedalus",
+      "lat": "26.3°N",
+      "lon": "34.8°E",
+      "info": "Offshore coral reefs known for frequent oceanic whitetip encounters.",
+      "environment": "Steep reef walls, open-sea exposure, strong seasonal stratification.",
+      "ecosystem": "Oligotrophic coral reef in a semi-enclosed sea.",
+      "species": ["Oceanic whitetip shark", "Silky shark", "Grey reef shark"],
+      "recentEvents": "Surface convergence lines detected by altimetry align with baitfish aggregations reported by divers.",
+      "measurements": ["Surface clarity & algal indices (MODIS)", "Convergence/frontal mapping (SWOT)", "Optical water types & plankton groups (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "55%",
+      "left": "58%"
+    },
+    {
+      "id": "15",
+      "name": "Socotra, Arabian Sea",
+      "lat": "12.5°N",
+      "lon": "54.0°E",
+      "info": "Monsoon-driven upwelling hotspot that boosts productivity and pelagic predator presence.",
+      "environment": "Seasonal upwelling jets, strong winds, filaments along the coast and island.",
+      "ecosystem": "Monsoon upwelling system with coastal–ocean exchange.",
+      "species": ["Great hammerhead", "Tiger shark", "Silky shark", "Blacktip shark"],
+      "recentEvents": "Ocean color shows monsoon bloom onset followed by frontal sharpening; altimetry highlights coastal jets and filaments.",
+      "measurements": ["Bloom timing & magnitude (MODIS)", "Coastal jets & filaments (SWOT)", "Community composition & accessory pigments (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "62%",
+      "left": "62%"
+    },
+    {
+      "id": "16",
+      "name": "Senegal, West Africa",
+      "lat": "15°N",
+      "lon": "17°W",
+      "info": "Intense fishing zone along an upwelling margin with high coastal shark diversity.",
+      "environment": "Canary Current influence, coastal upwelling, river inputs, sandy shelves.",
+      "ecosystem": "Eastern boundary upwelling margin.",
+      "species": ["Bull shark", "Sandbar shark", "Blacktip shark", "Scalloped hammerhead (coastal juveniles)"],
+      "recentEvents": "Upwelling filaments observed along the shelf coincide with enhanced chlorophyll and small pelagic fish schools.",
+      "measurements": ["Upwelling fronts & plume color (MODIS)", "Filament pathways & SSH gradients (SWOT)", "Plankton functional signatures (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "52%",
+      "left": "36%"
+    },
+    {
+      "id": "17",
+      "name": "Japan Coast",
+      "lat": "35°N",
+      "lon": "140°E",
+      "info": "Migration zone for blue and mako sharks influenced by Kuroshio meanders and rings.",
+      "environment": "Western boundary current, strong eddies, shelf–slope exchange.",
+      "ecosystem": "Temperate boundary current system with frontal habitats.",
+      "species": ["Blue shark", "Shortfin mako", "Salmon shark (regionally)", "Thresher shark"],
+      "recentEvents": "Altimetry shows Kuroshio path shifts and ring spawning events that coincide with pelagic predator movements.",
+      "measurements": ["Kuroshio fronts & rings (SWOT)", "Open-ocean chlorophyll minima/maxima (MODIS)", "Phytoplankton groups & water-mass optics (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "42%",
+      "left": "88%"
+    },
+    {
+      "id": "18",
+      "name": "Maldives, Central Indian Ocean",
+      "lat": "3°N",
+      "lon": "73°E",
+      "info": "Atoll nation with channels that focus currents and plankton, supporting sharks and manta rays.",
+      "environment": "Atoll passes, monsoon-driven flow reversals, lagoon–ocean exchange.",
+      "ecosystem": "Tropical coral atoll systems with pelagic inflow.",
+      "species": ["Blacktip reef shark", "Whale shark", "Grey reef shark", "Silvertip shark"],
+      "recentEvents": "Seasonal color signals indicate plankton pulses during monsoon transitions; whale shark sightings track these pulses.",
+      "measurements": ["Chlorophyll & water clarity (MODIS)", "Pass flow & convergence (SWOT)", "Phytoplankton composition & absorption/backscatter (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "70%",
+      "left": "65%"
+    },
+    {
+      "id": "19",
+      "name": "East Coast of Australia",
+      "lat": "30°S",
+      "lon": "153°E",
+      "info": "Coastal migration corridor for juvenile great white sharks and other temperate pelagics.",
+      "environment": "EAC (East Australian Current) eddies and shelf-edge fronts; beach embayments and headlands.",
+      "ecosystem": "Temperate western boundary current shelf system.",
+      "species": ["Juvenile great white shark", "Blue shark (offshore)", "Shortfin mako", "Dusky shark"],
+      "recentEvents": "Altimetry highlights EAC eddy arrivals at the shelf edge that intensify frontal structure and prey transport inshore.",
+      "measurements": ["Frontal strength & eddy interaction (SWOT)", "Coastal chlorophyll & turbidity (MODIS)", "Optical water mass typing & phytoplankton groups (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "100%",
+      "left": "92%"
+    },
+    {
+      "id": "20",
+      "name": "South Coast of Australia",
+      "lat": "35°S",
+      "lon": "135°E",
+      "info": "Temperate waters with frequent great white sightings near islands and shelf breaks.",
+      "environment": "Shelf canyons, rocky islands, upwelling patches, strong wind-driven mixing.",
+      "ecosystem": "Temperate shelf and island systems with seasonal upwelling.",
+      "species": ["Great white shark", "Blue shark", "Shortfin mako", "Bronze whaler"],
+      "recentEvents": "Satellite color shows episodic upwelling and bloom events; altimetry indicates along-shelf jets that enhance prey transport.",
+      "measurements": ["Bloom detection & coastal color (MODIS)", "Along-shelf jets & fronts (SWOT)", "Pigment groups & phytoplankton functional types (PACE)"],
+      "links": {
+        "modis": "https://oceancolor.gsfc.nasa.gov/",
+        "swot": "https://podaac.jpl.nasa.gov/SWOT",
+        "pace": "https://oceancolor.gsfc.nasa.gov/about/missions/pace-oci/"
+      },
+      "top": "108%",
+      "left": "82%"
+    }
+  ]
+}

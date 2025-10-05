@@ -1,0 +1,259 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "sharkExplorer": "Hai-Explorer",
+    "sharkData": "Hai-Daten",
+    "ecosystemSim": "Ökosystem-Simulator",
+    "quiz": "Quiz"
+  },
+  "footer": {
+    "description": "Bildungsplattform, die Hai-Biologie, Ozeanwissenschaften und Raumfahrttechnologie durch NASA-Satellitendaten kombiniert.",
+    "dataSources": "Datenquellen",
+    "research": "Forschung",
+    "copyright": "© 2025 Shark Space. Erstellt für die NASA Space Apps Challenge.",
+    "eddyFeeding": "Wirbelfütterung",
+    "gulfStream": "Golfstrom",
+    "realTimeData": "Ozeanographische Echtzeit daten",
+    "predictiveModeling": "Prädiktive Ökosystemmodellierung"
+  },
+  "home": {
+    "hero": {
+      "title": "Entdecken Sie den Ozean aus dem All",
+      "subtitle": "Kombination von Hai-Biologie, Ozeanwissenschaften und NASA-Satellitentechnologie",
+      "description": "Erkunden Sie Satellitendaten in Echtzeit, verfolgen Sie Haie und verstehen Sie marine Ökosysteme",
+      "startExploring": "Erkunden Beginnen",
+      "takeQuiz": "Quiz Machen"
+    },
+    "featuresSection": {
+      "title": "Erkunden Sie Unsere Funktionen",
+      "subtitle": "Entdecken Sie Ozeanwissenschaften durch interaktive Tools und Echtzeitdaten"
+    },
+    "features": {
+      "explorer": {
+        "title": "Hai-Explorer",
+        "description": "Interaktive Karten mit Echtzeit-Ozeandaten von NASA-Satelliten"
+      },
+      "data": {
+        "title": "Hai-Daten",
+        "description": "Echtzeitmessungen von benutzerdefinierten Hai-Markierungsgeräten"
+      },
+      "simulator": {
+        "title": "Ökosystem-Simulator",
+        "description": "Interaktive Ökosystemmodelle mit marinen Nahrungsnetzen"
+      },
+      "quiz": {
+        "title": "SharkRecap Quiz",
+        "description": "Testen Sie Ihr Wissen über Ozeanographie und Haie"
+      }
+    },
+    "satellites": {
+      "title": "NASA-Satellitendaten-Integration",
+      "subtitle": "Angetrieben durch modernste Weltraumtechnologie",
+      "pace": {
+        "description": "Hyperspektrale Ozeanfarbe zur Identifizierung von Phytoplanktonarten",
+        "feature1": "Überwachung der Ozeanfarbe",
+        "feature2": "Phytoplankton-Identifikation",
+        "feature3": "Wasserqualitätsbewertung"
+      },
+      "modis": {
+        "description": "Ozeanfarbe und Phytoplankton-Überwachung seit 2002",
+        "feature1": "Langfristige Datenaufzeichnungen",
+        "feature2": "Chlorophyll-a-Konzentration",
+        "feature3": "Meeresoberflächentemperatur"
+      },
+      "swot": {
+        "description": "Präzise Meeresoberflächenhöhe und Ozeantopographie",
+        "feature1": "Meeresspiegelmessungen",
+        "feature2": "Kartierung von Meeresströmungen",
+        "feature3": "Wirbelerkennung"
+      }
+    },
+    "cta": {
+      "title": "Bereit, in die Ozeanwissenschaft einzutauchen?",
+      "description": "Beginnen Sie Ihre Reise zur Erkundung von Haien und Ozean-Ökosystemen aus dem All",
+      "button": "Jetzt Erkunden"
+    }
+  },
+  "simulator": {
+    "title": "Ozean-Ökosystem-Simulator",
+    "description": "Bauen Sie Ihr eigenes Ozean-Ökosystem und sehen Sie es zum Leben erweckt!",
+    "elements": "Elemente",
+    "reset": "Ökosystem Zurücksetzen",
+    "ecosystemHealth": "Ökosystem-Gesundheit",
+    "instructions": "Spielanleitung",
+    "instruction1": "Ziehen und ablegen Sie Elemente, um Ihr Ökosystem aufzubauen",
+    "instruction2": "Beobachten Sie die Gesundheit des Ökosystems und die Nahrungskettenbeziehungen",
+    "instruction3": "Halten Sie das Gleichgewicht - zu viele Raubtiere oder zu wenige Produzenten schaden der Ökosystem-Gesundheit",
+    "instruction4": "Beobachten Sie die Bevölkerungsdynamik, während die Arten interagieren",
+    "health": {
+      "thriving": "🌊 Blühendes Ökosystem! Perfektes Gleichgewicht erreicht.",
+      "healthy": "✅ Gesundes System. Haie gedeihen.",
+      "moderate": "⚠️ Mäßige Gesundheit. Benötigt mehr Gleichgewicht.",
+      "risk": "⚠️ Gefährdet. Fischpopulationen nehmen ab.",
+      "collapse": "🚨 Ökosystem-Zusammenbruch! Kritisches Ungleichgewicht erkannt."
+    },
+    "categories": {
+      "producers": "Produzenten",
+      "herbivores": "Pflanzenfresser",
+      "smallPredators": "Kleine Räuber",
+      "mediumPredators": "Mittlere Räuber",
+      "apexPredators": "Spitzenräuber",
+      "megafauna": "Megafauna",
+      "seabirds": "Seevögel",
+      "invertebrates": "Wirbellose",
+      "deepSea": "Tiefsee",
+      "decomposers": "Zersetzer",
+      "threats": "Bedrohungen",
+      "sharks": "Haie",
+      "marineMammals": "Meeressäuger",
+      "fish": "Fische",
+      "reptilesAndBirds": "Reptilien und Vögel",
+      "pollutants": "Schadstoffe"
+    }
+  },
+  "sharkExplorer": {
+    "title": "Hai-Explorer 🌍",
+    "subtitle": "Interaktive Ozeankartierung mit Echtzeit-Satellitendaten",
+    "askAI": "KI fragen",
+    "placeholder": "Fragen Sie nach Ozeanographie oder Haien...",
+    "thinking": "Denken...",
+    "emptyQuestion": "Leere Frage",
+    "emptyQuestionDesc": "Bitte geben Sie eine Frage zur Ozeanographie oder zu Haien ein.",
+    "error": "Fehler",
+    "errorDesc": "KI-Antwort konnte nicht abgerufen werden. Bitte erneut versuchen.",
+    "helpText": "Stellen Sie eine Frage, um KI-Einblicke in Ozeandaten und Hai-Verhalten zu erhalten",
+    "regions": {
+      "pacific": "Pazifischer Ozean - Wirbel-Fresszonen",
+      "atlantic": "Nordatlantik - Dynamik des Golfstroms",
+      "indian": "Indischer Ozean - Produktivitäts-Hotspot"
+    },
+    "latitude": "Breite",
+    "longitude": "Länge",
+    "chlorophyll": "Chlorophyll-a",
+    "ssha": "SSHA",
+    "insights": {
+      "pacific": "Weiße Haie nutzen warme Wirbel als Fresskorridore in der Mesopelagialzone (Braun et al., 2019)",
+      "atlantic": "Bewegungen weiblicher Weißer Haie werden durch Golfstromwirbel und Dynamik des Sargassosees beeinflusst (Gaube et al., 2018)",
+      "indian": "Zonen hoher Produktivität korrelieren mit Aggregationspunkten von Haien"
+    }
+  },
+  "sharkData": {
+    "title": "Hai-Daten 📊",
+    "subtitle": "Echtzeitmessungen von benutzerdefinierten Hai-Markierungsgeräten",
+    "selectTag": "Hai-Tag auswählen",
+    "temperature": "Temperatur",
+    "latitude": "Breite",
+    "longitude": "Länge",
+    "seaSurfaceHeight": "Meereshöhe",
+    "kelvin": "Kelvin",
+    "degrees": "Dezimalgrade",
+    "meters": "Meter",
+    "temperatureRange": "Temperaturbereich (Untergetaucht)",
+    "status": "Status",
+    "submerged": "🌊 Untergetaucht",
+    "surface": "🏄 Oberfläche",
+    "depthInfo": "Tiefe > 5 m",
+    "surfaceInfo": "Nahe der Oberfläche",
+    "minTemperature": "Mindesttemperatur",
+    "maxTemperature": "Höchsttemperatur",
+    "coldest": "Kälteste aufgezeichnete",
+    "warmest": "Wärmste aufgezeichnete",
+    "accelerometer": "Beschleunigungsmesser",
+    "xAxis": "X-Achse",
+    "yAxis": "Y-Achse",
+    "zAxis": "Z-Achse",
+    "timestampInfo": "Zeitstempel-Info",
+    "currentTime": "Aktuelle Zeit",
+    "deltaTime": "Delta-Zeit",
+    "measurementLogs": "Messprotokolle",
+    "noMeasurements": "Noch keine Messungen aufgezeichnet...",
+    "audioDetections": "Audioerkennungen (Beutearten)",
+    "listening": "Lausche dem Meeresleben...",
+    "detectedSpecies": "Erkannte Arten",
+    "confidence": "Konfidenz",
+    "gForce": "G-Kraft",
+    "clickForDetails": "Für Details klicken",
+    "detectionDetails": "Erkennungsdetails",
+    "detectedAt": "Erkannt um",
+    "temperatureChart": "Temperatur im Zeitverlauf",
+    "timeAgo": "Minuten zuvor",
+    "sharkTracking": "Hai-Tracking-Karte",
+    "nextLocation": "Nächster vorhergesagter Standort",
+    "predictiveMap": "Prädiktive Positionskarte",
+    "worldMapAlt": "Weltkarte",
+    "currentPosition": "Aktuelle Position",
+    "realTimeUpdate": "Echtzeit-Update",
+    "feedingZone": "Fresszone",
+    "basedOnPlanktonDensity": "Basierend auf Planktondichte",
+    "millisecondsAbbr": "ms",
+    "log": {
+      "temp": "Temp",
+      "lat": "Breite",
+      "long": "Länge",
+      "ssh": "SSHA",
+      "consistency": "Konsistenz"
+    },
+    "sharks": {
+      "greatWhite": "Weißer Hai",
+      "hammerhead": "Hammerhai",
+      "tiger": "Tigerhai",
+      "whale": "Walhai",
+      "reef": "Riffhai"
+    },
+    "prey": {
+      "harborSeal": "Hafenrobbe",
+      "seaLion": "Seelöwe",
+      "dolphin": "Großer Tümmler",
+      "tuna": "Roter Thun",
+      "seaTurtle": "Meeresschildkröte",
+      "salmon": "Lachs",
+      "mackerel": "Makrele",
+      "stingray": "Stachelrochen",
+      "grouper": "Zackenbarsch",
+      "octopus": "Oktopus",
+      "crab": "Krabbe",
+      "lobster": "Hummer",
+      "sardine": "Sardine",
+      "herring": "Hering",
+      "albatross": "Albatros",
+      "pelican": "Pelikan",
+      "krill": "Krill",
+      "plankton": "Plankton",
+      "anchovy": "Sardelle",
+      "jellyfish": "Kleine Qualle",
+      "copepods": "Copepoden",
+      "clownfish": "Clownfisch",
+      "parrotfish": "Papageienfisch",
+      "seaUrchin": "Seeigel",
+      "shrimp": "Garnele"
+    }
+  },
+  "quiz": {
+    "title": "SharkRecap Quiz 🦈",
+    "spaceShark": "Weltraum-Hai",
+    "selectDifficulty": "Schwierigkeitsgrad Auswählen",
+    "difficultyDescription": "Höhere Stufen haben schwierigere Fragen und geringeren Anfangshunger",
+    "level": "Stufe",
+    "hunger": "Hunger",
+    "question": "Frage",
+    "of": "von",
+    "hungerLevel": "Hungerstufe",
+    "score": "Punktzahl",
+    "next": "Nächste Frage",
+    "tryAgain": "Stufe {{level}} Erneut Versuchen",
+    "selectNewLevel": "Neue Stufe Auswählen",
+    "scoreTooLow": "Punktzahl Zu Niedrig!",
+    "finalScore": "Endpunktzahl:",
+    "accuracy": "Genauigkeit:",
+    "needToPass": "Sie benötigen mindestens 70%, um diese Stufe zu bestehen.",
+    "restarting": "🔄 Stufe {{level}} Wird Neu Gestartet...",
+    "excellent": "Ausgezeichnete Arbeit!",
+    "congratulations": "Glückwunsch! Sie haben Stufe {{level}} gemeistert!",
+    "nextChallenge": "Bereit für die Nächste Herausforderung",
+    "gameOver": "Spiel Vorbei!",
+    "hungerDepleted": "Ihr Hunger wurde aufgebraucht.",
+    "survived": "Sie haben überlebt!",
+    "masteringOceanography": "Sie beherrschen die Ozeanographie!",
+    "keepLearning": "Lernen Sie weiter über unsere Ozeane!"
+  }
+}
