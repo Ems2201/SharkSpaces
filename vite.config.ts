@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/", // ✅ ESSENCIAL: raiz absoluta, nada de ./Shark-Spaces/
+  base: "/SharkSpaces/", // ✅ ESSENCIAL: raiz absoluta, nada de ./Shark-Spaces/
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
     alias: {
