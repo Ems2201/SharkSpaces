@@ -213,3 +213,149 @@ pip install pymc arviz matplotlib numpy
 This project is distributed under the **MIT License**, allowing free use for research, modification, and extension, provided that attribution to the original authors is maintained.
 
 ---
+
+# 🦈 **Ocean Tag System — Hardware Specification**
+
+---
+
+## 1) 🧪 **Pressure Sensor (must support ≥ 1000 m)**
+
+* **Primary (recommended): Paroscientific Digiquartz series (D-series / oceanography line)**
+
+  * **Why:** Digiquartz transducers are widely used in oceanography, with depth ranges reaching several thousand meters (models up to 2000 m and even 7000 m). They provide high stability, excellent precision, and a long history of reliability in professional marine applications. ([paroscientific.com][1])
+  * **Output/integration:** available with digital output (Frequency / RS-232 / custom) or analog; typically requires signal conditioning and operates from 5–12 V depending on the model.
+
+**Practical summary:** choose a Paroscientific Digiquartz model with a 2000 dbar full-scale range (or 4000 dbar for safety margin) to ensure reliable operation below 1000 m depth. ([paroscientific.com][1])
+
+---
+
+## 2) 📡 **Fastloc GPS + Argos (positioning and uplink)**
+
+* **Commercial integrated product:** **Wildlife Computers SPLASH-F / SPLASH10-F (Fastloc® + Argos)**
+
+  * **Why:** these commercial tags combine **Fastloc GPS** (optimized for brief surfacings) with an **Argos transmitter**, enabling summarized data transmission via satellite. They are widely used in marine research and are suitable for direct integration or as technical references. ([wildlifecomputers.com][3])
+
+**Note:** the Fastloc/Argos system is the standard, proven solution for marine wildlife tags that are not recovered, combining accurate positioning and efficient satellite uplink. ([static.wildlifecomputers.com][4])
+
+---
+
+## 3) ⚙️ **Microcontroller (control + light inference / TFLM)**
+
+* **STM32L4 series — example: STM32L452RET6**
+
+  * **Why:** ultra-low-power MCU with Cortex-M4F core, high energy efficiency, adequate memory (512 kB Flash / 160 kB RAM), and multiple interfaces (I²C/SPI/UART). Ideal for control, compression, and light inference (TinyML / TensorFlow Lite Micro). ([STMicroelectronics][5])
+  * **Integration:** operates at 3.3 V; recommended to use independent power domains and interrupt-based activation from IMU/pressure triggers. DMA should be used for continuous hydrophone signal acquisition.
+
+---
+
+## 4) 🎤 **Hydrophone (embedded acoustic sensor)**
+
+* **Recommended model:** **Teledyne RESON TC8105**
+
+  * **Why:** compact, broadband (10 Hz–120 kHz) and high-sensitivity hydrophone, designed for professional marine environments. Robust and reliable, suitable for detecting feeding or behavioral sounds of sharks. ([Teledyne Marine][6])
+  * **Integration:** requires low-noise preamplifier and 16–24-bit ADC; should be protected with a silicone membrane against biofouling and sealed within the main housing.
+
+---
+
+## 5) 🎧 **Audio Conditioning / ADC**
+
+* **Preamplifier:** low-noise op-amp (e.g., OPA1611 / AD8628 family) or integrated preamp with configurable gain.
+* **ADC (audio):** sigma-delta ADC, 16–24 bits, such as **TI PCM1808/PCM186x** (SPI/I²S), for high-fidelity acoustic capture.
+* **Integration:** connected to the MCU via DMA, recording in bursts to minimize power consumption.
+
+---
+
+## 6) 🌡️ **Temperature Sensor**
+
+* **Recommended model:** **RBR Solo-T / T-Unit**
+
+  * **Why:** high-precision temperature sensors commonly used in oceanographic instrumentation. Wide operating range, excellent thermal stability, and traceable calibration.
+  * **Integration:** digital or analog output depending on model; easy interface via RS-232, RS-485, or proprietary RBR protocol. Ideal for long-term thermal profiling. ([rbr-global.com](https://rbr-global.com))
+
+---
+
+## 7) 🧭 **Accelerometer (IMU)**
+
+* **Recommended model:** **Analog Devices ADXL355**
+
+  * **Why:** high-stability, low-noise triaxial accelerometer with minimal drift — ideal for detecting motion patterns, behavior, and triggering event-based recordings (e.g., acoustic capture).
+  * **Integration:** communicates via SPI / I²C; operates from 2.25–3.6 V; can serve as an event trigger for the MCU.
+
+---
+
+## 8) ⚡ **Piezoelectric Harvester + Power Management**
+
+* **Piezo element:** silicone-encapsulated ceramic element (suppliers include MIDE or APC International). Mechanically mounted on the peduncle. ([Mouser Electronics][8])
+* **Power IC:** **LTC3588-1 / LTC3588-2 (Analog Devices)** — designed specifically for piezo harvesters, with rectification, regulation, and supercapacitor charging. ([Analog Devices][9])
+* **Storage:** supercapacitor + primary Li-SOCl₂ battery. The piezo acts as an auxiliary energy source to extend standby life.
+
+**Important:** the piezo cannot generate enough power for Argos transmissions; it is only used to supplement low-power sensors.
+
+---
+
+## 9) 🔋 **Battery (long-term operation)**
+
+* **Primary (non-rechargeable):** **Tadiran / Saft Li-SOCl₂ (Lithium Thionyl Chloride)** — high energy density, long-life cells ideal for remote monitoring devices. Example: **Tadiran SL-2780/S (19 Ah D-cell)**. ([Evs Supply][10])
+
+**Note:** Li-SOCl₂ batteries are standard in scientific marine instrumentation due to their stability and high pulse current capability.
+
+---
+
+## 10) 💾 **Data Storage**
+
+* **Industrial-grade NAND flash module (SLC)** — for reliable data and audio logging. The module should be sealed with the main PCB, avoiding removable microSDs.
+
+---
+
+## 11) 🧱 **Housing & Mounting**
+
+* **Material:** **AISI 316L stainless steel**, chosen for its high corrosion resistance, availability, and cost-effectiveness compared to titanium.
+* **Mounting method:** **nylon screws**, corrosion-proof and dielectric, ensuring lightweight, non-galvanic assembly.
+* **Sealing:** dual Viton O-rings; pressure-tested to 1.5× the rated depth.
+* **Bulkheads:** sealed coaxial connectors and cable feedthroughs rated IP68.
+
+---
+
+## 12) 📡 **Argos / GPS Antenna (no float)**
+
+* **L-band antenna optimized for Argos + GPS**, integrated directly into the housing with a PEEK dielectric window. In commercial units (e.g., SPLASH10-F), the antenna is already calibrated for near-surface transmission. ([static.wildlifecomputers.com][11])
+
+---
+
+## 13) 🔌 **Electronics: Power Management & Interfaces**
+
+* **Regulators:** DC-DC step-down/step-up converters for 3.3 V and 1.8 V domains.
+* **Protection:** BMS circuit for secondary batteries (if used).
+* **Interfaces:** UART ↔ Fastloc/Argos; I²C/SPI ↔ sensors; SPI/I²S ↔ audio ADC.
+
+---
+
+## 14) 🧩 **Component Summary — Final Version**
+
+| Component           | Model / Family                        | Justification                                 |
+| ------------------- | ------------------------------------- | --------------------------------------------- |
+| Pressure Sensor     | Paroscientific Digiquartz (2000 dbar) | Accuracy and deep-water capability (>1000 m)  |
+| GPS + Uplink        | Wildlife Computers SPLASH10-F         | Integrated Fastloc GPS + Argos                |
+| MCU                 | STM32L452RET6                         | Low-power, TinyML-compatible                  |
+| Hydrophone          | Teledyne RESON TC8105                 | Professional broadband hydrophone             |
+| ADC / Preamp        | PCM186x + OPA1611                     | High SNR, SPI/I²S interface                   |
+| Temperature Sensor  | RBR Solo-T / T-Unit                   | High precision and thermal stability          |
+| Accelerometer (IMU) | ADXL355                               | Low noise, event triggering, motion detection |
+| Piezo Harvester     | LTC3588-1 / LTC3588-2                 | Dedicated piezo energy harvesting circuit     |
+| Battery             | Tadiran SL-2780/S                     | Long life, high energy density                |
+| Storage             | Industrial NAND flash (SLC)           | High reliability and endurance                |
+| Housing             | AISI 316L steel + nylon screws        | Corrosion resistance, secure assembly         |
+| Antenna             | Integrated L-band (Argos+GPS)         | Optimized near-surface communication          |
+
+---
+
+## 🧭 **Integration Notes**
+
+1. **Pressure:** perform thermal calibration and bench validation before sealing.
+2. **Audio:** enable processing and inference only during IMU-triggered events.
+3. **Temperature:** cross-calibrate with pressure sensor for thermal compensation.
+4. **Energy:** LTC3588 buffers energy peaks for auxiliary sensors.
+5. **Battery:** prioritize Li-SOCl₂ for long and reliable deployments.
+6. **Mounting:** nylon screw system prevents galvanic corrosion and eases field servicing.
+
+---
