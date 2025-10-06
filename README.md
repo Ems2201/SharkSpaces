@@ -99,7 +99,7 @@ This project is distributed under the MIT license. You may use, modify, and redi
 
 # 🦈 Sharks-from-Space: Bayesian Predictive Model of Feeding Hotspots
 
-## **Overview**
+## **🌐Overview**
 
 This project proposes a **Bayesian predictive framework** to estimate regions with a high probability of shark feeding activity (*feeding hotspots*) based on environmental and behavioral variables.
 The goal is to provide a technical foundation for integrating **deep telemetry data** with **satellite-derived oceanographic information**, contributing to the identification and prediction of movement patterns and feeding behavior in large marine predators.
@@ -108,7 +108,7 @@ The simulation was entirely developed in **Python**, using the **PyMC** library 
 
 ---
 
-## **Model Architecture**
+## **🧩 Model Architecture**
 
 The core of the model is a **Bayesian logistic regression**, calibrated with synthetic data that emulate real environmental conditions obtained from satellite sensors.
 The probabilistic formulation aims to estimate the likelihood of a feeding event (binary variable `y = 1`) as a function of environmental and physiological variables recorded by a sensor tag.
@@ -129,7 +129,7 @@ Inference is performed using the **NUTS (No-U-Turn Sampler)** algorithm — the 
 
 ---
 
-## **Modeled Variables**
+## **📈 Modeled Variables**
 
 | Variable           | Description                   | Unit  | Source (real/synthetic)                               |
 | ------------------ | ----------------------------- | ----- | ----------------------------------------------------- |
@@ -145,7 +145,7 @@ Inference is performed using the **NUTS (No-U-Turn Sampler)** algorithm — the 
 
 ---
 
-## **Simulation Pipeline**
+## **⚙️ Simulation Pipeline**
 
 1. **Generation of synthetic environmental data**
    Temperature, salinity, phytoplankton, and depth fields are generated over a continuous lat-long grid, with light Gaussian noise and sinusoidal patterns simulating real ocean gradients.
@@ -169,7 +169,7 @@ Inference is performed using the **NUTS (No-U-Turn Sampler)** algorithm — the 
 
 ---
 
-## **Visual Output**
+## **📊 Visual Output**
 
 The result is a **continuous posterior probability map**, where:
 
@@ -183,7 +183,7 @@ This type of visualization can be correlated with real satellite and biotelemetr
 
 ---
 
-## **Scientific Applications**
+## **🧪 Scientific Applications**
 
 * **Integration with NASA satellite data (PACE, MODIS, SWOT)** for validation of biological hotspots.
 * **Spatial ecology and marine conservation studies**, by estimating priority feeding zones.
@@ -192,7 +192,7 @@ This type of visualization can be correlated with real satellite and biotelemetr
 
 ---
 
-## **Technical Requirements**
+## **🔧 Technical Requirements**
 
 * Python ≥ 3.10
 * PyMC ≥ 5.12
@@ -208,7 +208,7 @@ pip install pymc arviz matplotlib numpy
 
 ---
 
-## **License**
+## **⚖️ License**
 
 This project is distributed under the **MIT License**, allowing free use for research, modification, and extension, provided that attribution to the original authors is maintained.
 
