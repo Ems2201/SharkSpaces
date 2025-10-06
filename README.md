@@ -20,29 +20,6 @@ Dados de aceleração e movimento (simulando etiquetas eletrônicas — bio-logg
 
 A aplicação também possui um modo educativo e multilíngue, permitindo traduzir espécies e informações conforme o idioma do usuário.
 
-Modelo Preditivo Bayesiano
-Modelo bayesiano (regressão logística) que estima a probabilidade espacial de eventos de alimentação de tubarões a partir de covariáveis ambientais e de telemetria; gera mapas de hotspots e prevê o próximo ponto de deslocamento por maximização local da probabilidade.
-
-Metodologia. Implementado em PyMC: os parâmetros (𝛽) são inferidos por amostragem (posterior) a partir de observações (dados sintéticos ou reais). A predição na grade espacial usa amostras posteriores para calcular a probabilidade média em cada célula; o próximo ponto é o máximo local dentro de um raio de busca.
-
-Variáveis (usadas no modelo):
-
-Temperatura (°C) — efeito sobre metabolismo/atividade;
-
-Salinidade (PSU) — influencia distribuição de presas;
-
-Concentração de fitoplâncton (mg/m³) — proxy de produtividade/presas;
-
-Profundidade / pressão máxima (m ou dbar) — padrões de mergulho;
-
-Temperatura mínima em mergulho (°C) — histórico térmico entre emissões;
-
-Eventos de força-G (m/s²) — indica acelerações/ataques;
-
-Consistência alimentar  — inferida por áudio (IA).
-
-Saída. Mapa contínuo de probabilidade (vermelho = alto; azul = baixo), pontos verdes para posições atuais e marcações/linhas rosas para o próximo ponto previsto. Projeto escalável para ingestão direta de produtos NASA (PACE, MODIS-Aqua, SWOT) e telemetria real.
-
 🚀 Tecnologias Utilizadas
 Categoria	Ferramentas
 Frontend	React + Vite
